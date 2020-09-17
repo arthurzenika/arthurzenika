@@ -15,8 +15,13 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 📜 My recent blog posts
+#### 📜 My recent blog posts in 🇬🇧
 {{range rss "https://www.logilab.org/blog/6056/blogentries/alutz?vid=rss" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+#### 📜 My recent blog posts in 🇫🇷
+{{range rss "https://www.logilab.org/blog/6724/blogentries/alutz?vid=rss" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -36,9 +41,10 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/arthurlutz
-- Fediverse: social.logilab.org/@arthurlutz
-- Contact : https://www.logilab.fr/id/arthur.lutz
-- Blog: https://www.logilab.org/blog/6056/blogentries/alutz
+- Twitter 🐦: https://twitter.com/arthurlutz
+- Fediverse 🐘 : https://social.logilab.org/@arthurlutz
+- Contact 📥 : https://www.logilab.fr/id/arthur.lutz
+- Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
+- Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
