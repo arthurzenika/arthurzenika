@@ -31,13 +31,21 @@
 - [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant) ([v1.0.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v1.0.2), 3 years ago) - Vagrant driver for Kitchen
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
-#### 📜 My recent blog posts
+#### 📜 My recent blog posts in 🇬🇧
 
 - [We went to cfgmgmtcamp 2016 (after FOSDEM)](https://www.logilab.org/blogentry/4253513) (4 years ago)
 - [We went to FOSDEM 2016 (and cfgmgmtcamp)](https://www.logilab.org/blogentry/4253406) (4 years ago)
 - [Monitoring our websites before we deploy them using Salt](https://www.logilab.org/blogentry/288175) (5 years ago)
 - [A report on the Salt Sprint 2015 in Paris](https://www.logilab.org/blogentry/288007) (5 years ago)
 - [Generate stats from your SaltStack infrastructure](https://www.logilab.org/blogentry/283815) (5 years ago)
+
+#### 📜 My recent blog posts in 🇫🇷
+
+- [Meetup Cloud Native Computing Nantes - Juin 2019 - Linkdump](https://www.logilab.org/blogentry/10132594) (1 year ago)
+- [Les objectifs et l&#39;histoire des présentations internes &#34;5mintalk&#34;](https://www.logilab.org/blogentry/10131689) (1 year ago)
+- [Retour sur le Workshop Prometheus et Grafana - Nantes 2019](https://www.logilab.org/blogentry/10131299) (2 years ago)
+- [Rencontres Debian Nantes - janvier 2019](https://www.logilab.org/blogentry/10131004) (2 years ago)
+- [Logilab à Pas Sage en Seine 2018 #PSES2018](https://www.logilab.org/blogentry/10128951) (2 years ago)
 
 #### 📓 Gists I wrote
 
@@ -61,9 +69,10 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/arthurlutz
-- Fediverse: social.logilab.org/@arthurlutz
-- Contact : https://www.logilab.fr/id/arthur.lutz
-- Blog: https://www.logilab.org/blog/6056/blogentries/alutz
+- Twitter 🐦: https://twitter.com/arthurlutz
+- Fediverse 🐘 : https://social.logilab.org/@arthurlutz
+- Contact 📥 : https://www.logilab.fr/id/arthur.lutz
+- Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
+- Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
