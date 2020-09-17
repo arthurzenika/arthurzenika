@@ -16,18 +16,13 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
+{{range rss "https://www.logilab.org/blog/6056/blogentries/alutz?vid=rss" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📓 Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 👯 Check out some of my recent followers
@@ -41,8 +36,9 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/arthurlutz
+- Fediverse: social.logilab.org/@arthurlutz
+- Contact : https://www.logilab.fr/id/arthur.lutz
+- Blog: https://www.logilab.org/blog/6056/blogentries/alutz
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
