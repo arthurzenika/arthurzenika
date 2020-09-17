@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#### 📫 How to reach me
+
+- Twitter 🐦: https://twitter.com/arthurlutz
+- Fediverse 🐘 : https://social.logilab.org/@arthurlutz
+- Contact 📥 : https://www.logilab.fr/id/arthur.lutz
+- Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
+- Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
+- Matrix 💬: https://matrix.to/#/@alutz:matrix.logilab.org
+
+
+
 #### 👷 Check out what I'm currently working on
 
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (1 day ago)
@@ -13,12 +24,6 @@
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage (4 months ago)
 - [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects (5 months ago)
 
-#### 🌱 My latest projects
-
-- [arthurlogilab/cubicweb-formula](https://github.com/arthurlogilab/cubicweb-formula) - 
-- [arthurlogilab/test](https://github.com/arthurlogilab/test) - 
-- [arthurlogilab/uptime-formula](https://github.com/arthurlogilab/uptime-formula) -  Set up and configure an uptime monitor with saltstack
-- [arthurlogilab/d14n.github.io](https://github.com/arthurlogilab/d14n.github.io) - d14n.github.io
 
 #### 🔭 Latest releases I've contributed to
 
@@ -47,32 +52,15 @@
 - [Rencontres Debian Nantes - janvier 2019](https://www.logilab.org/blogentry/10131004) (2 years ago)
 - [Logilab à Pas Sage en Seine 2018 #PSES2018](https://www.logilab.org/blogentry/10128951) (2 years ago)
 
-#### 📓 Gists I wrote
+#### 🌱 My latest projects
 
-- [openpgp.md](https://gist.github.com/75b410553c1d5ce378e5afe51785708d) (3 weeks ago)
-- [](https://gist.github.com/240c0d5a33667e60e7099ea12d9d6e0e) (2 years ago)
-- [](https://gist.github.com/5a93d6fab53f936689b1) (4 years ago)
-- [/etc/apache2/sites-available/openstack-dashboard-ssl-redirect.conf ](https://gist.github.com/7b132720ab6b8b728e79) (5 years ago)
-- [poodlebleed.sls for saltstack deploymenet of poodel vulnerability in SSLv3](https://gist.github.com/57e428848872002363fa) (6 years ago)
-
-#### 👯 Check out some of my recent followers
-
-- [gcjordi](https://github.com/gcjordi)
-- [Pixemark](https://github.com/Pixemark)
-- [natct](https://github.com/natct)
-- [Exagone313](https://github.com/Exagone313)
-- [carinedengler](https://github.com/carinedengler)
+- [arthurlogilab/cubicweb-formula](https://github.com/arthurlogilab/cubicweb-formula) - 
+- [arthurlogilab/uptime-formula](https://github.com/arthurlogilab/uptime-formula) -  Set up and configure an uptime monitor with saltstack
+- [arthurlogilab/d14n.github.io](https://github.com/arthurlogilab/d14n.github.io) - d14n.github.io
 
 #### 💬 Feedback
 
 Say Hello, I don't bite!
 
-#### 📫 How to reach me
-
-- Twitter 🐦: https://twitter.com/arthurlutz
-- Fediverse 🐘 : https://social.logilab.org/@arthurlutz
-- Contact 📥 : https://www.logilab.fr/id/arthur.lutz
-- Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
-- Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
