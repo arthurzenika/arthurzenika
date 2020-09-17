@@ -13,6 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (today)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (1 day ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (6 days ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (1 week ago)
@@ -22,7 +23,6 @@
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web. (3 months ago)
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -  (4 months ago)
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage (4 months ago)
-- [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
