@@ -9,7 +9,9 @@
 - Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
 - Matrix 💬: https://matrix.to/#/@alutz:matrix.logilab.org
 
+#### 💬 Feedback
 
+Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
@@ -36,14 +38,6 @@
 - [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant) ([v1.0.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v1.0.2), 3 years ago) - Vagrant driver for Kitchen
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
-#### 📜 My recent blog posts in 🇬🇧
-
-- [We went to cfgmgmtcamp 2016 (after FOSDEM)](https://www.logilab.org/blogentry/4253513) (4 years ago)
-- [We went to FOSDEM 2016 (and cfgmgmtcamp)](https://www.logilab.org/blogentry/4253406) (4 years ago)
-- [Monitoring our websites before we deploy them using Salt](https://www.logilab.org/blogentry/288175) (5 years ago)
-- [A report on the Salt Sprint 2015 in Paris](https://www.logilab.org/blogentry/288007) (5 years ago)
-- [Generate stats from your SaltStack infrastructure](https://www.logilab.org/blogentry/283815) (5 years ago)
-
 #### 📜 My recent blog posts in 🇫🇷
 
 - [Meetup Cloud Native Computing Nantes - Juin 2019 - Linkdump](https://www.logilab.org/blogentry/10132594) (1 year ago)
@@ -52,15 +46,21 @@
 - [Rencontres Debian Nantes - janvier 2019](https://www.logilab.org/blogentry/10131004) (2 years ago)
 - [Logilab à Pas Sage en Seine 2018 #PSES2018](https://www.logilab.org/blogentry/10128951) (2 years ago)
 
+#### 📜 My recent blog posts in 🇬🇧
+
+- [We went to cfgmgmtcamp 2016 (after FOSDEM)](https://www.logilab.org/blogentry/4253513) (4 years ago)
+- [We went to FOSDEM 2016 (and cfgmgmtcamp)](https://www.logilab.org/blogentry/4253406) (4 years ago)
+- [Monitoring our websites before we deploy them using Salt](https://www.logilab.org/blogentry/288175) (5 years ago)
+- [A report on the Salt Sprint 2015 in Paris](https://www.logilab.org/blogentry/288007) (5 years ago)
+- [Generate stats from your SaltStack infrastructure](https://www.logilab.org/blogentry/283815) (5 years ago)
+
+
 #### 🌱 My latest projects
 
 - [arthurlogilab/cubicweb-formula](https://github.com/arthurlogilab/cubicweb-formula) - 
 - [arthurlogilab/uptime-formula](https://github.com/arthurlogilab/uptime-formula) -  Set up and configure an uptime monitor with saltstack
 - [arthurlogilab/d14n.github.io](https://github.com/arthurlogilab/d14n.github.io) - d14n.github.io
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
 
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
