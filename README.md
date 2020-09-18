@@ -54,6 +54,13 @@ Say Hello, I don't bite!
 - [A report on the Salt Sprint 2015 in Paris](https://www.logilab.org/blogentry/288007) (5 years ago)
 - [Generate stats from your SaltStack infrastructure](https://www.logilab.org/blogentry/283815) (5 years ago)
 
+#### 📜 My recent posts on the fediverse 🐘
+
+- [arthurlutz: “J&#39;ai joué avec `readme-scribe`…”](https://social.logilab.org/@arthurlutz/104885100027361758) (today)
+- [arthurlutz: “Eh, salut les libristes... …”](https://social.logilab.org/@arthurlutz/104880196563001500) (1 day ago)
+- [arthurlutz: “&gt; Relying on plain-text email …”](https://social.logilab.org/@arthurlutz/104868520491640248) (3 days ago)
+- [arthurlutz: “Pour superviser vos sites, vou…”](https://social.logilab.org/@arthurlutz/104868042881473869) (3 days ago)
+- [arthurlutz: “Présentation du vendredi #5min…”](https://social.logilab.org/@arthurlutz/104846787274608273) (1 week ago)
 
 #### 🌱 My latest projects
 
