@@ -9,7 +9,9 @@
 - Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
 - Matrix 💬: https://matrix.to/#/@alutz:matrix.logilab.org
 
+#### 💬 Feedback
 
+Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
@@ -22,24 +24,22 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
+#### 📜 My recent blog posts in 🇫🇷
+{{range rss "https://www.logilab.org/blog/6724/blogentries/alutz?vid=rss" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### 📜 My recent blog posts in 🇬🇧
 {{range rss "https://www.logilab.org/blog/6056/blogentries/alutz?vid=rss" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts in 🇫🇷
-{{range rss "https://www.logilab.org/blog/6724/blogentries/alutz?vid=rss" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
 
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
