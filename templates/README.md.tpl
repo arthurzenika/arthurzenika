@@ -34,6 +34,10 @@ Say Hello, I don't bite!
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+#### 📜 My recent posts on the fediverse 🐘
+{{range rss "https://social.logilab.org/@arthurlutz.rss" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
