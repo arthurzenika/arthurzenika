@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (6 days ago)
+- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (1 week ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (1 week ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (1 week ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (2 weeks ago)
@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-09-23T19-18-30Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-09-23T19-18-30Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.8-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.8-rc.1), today) - A glossy Matrix collaboration client for the web.
-- [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.4.4](https://github.com/libopenstorage/stork/releases/tag/v2.4.4), 2 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
-- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 1 month ago) - A toolkit for building secure, portable and lean operating systems for containers
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-09-23T19-18-30Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-09-23T19-18-30Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.8-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.8-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.4.4](https://github.com/libopenstorage/stork/releases/tag/v2.4.4), 3 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.9.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.9.0), 2 months ago) - The Open Distro for Elasticsearch documentation.
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
 - [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant) ([v1.0.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v1.0.2), 3 years ago) - Vagrant driver for Kitchen
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/104886378977155466) (5 days ago)
-- [arthurlutz: “J&#39;ai joué avec `readme-scribe`…”](https://social.logilab.org/@arthurlutz/104885100027361758) (5 days ago)
-- [arthurlutz: “Eh, salut les libristes... …”](https://social.logilab.org/@arthurlutz/104880196563001500) (6 days ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/104886378977155466) (6 days ago)
+- [arthurlutz: “J&#39;ai joué avec `readme-scribe`…”](https://social.logilab.org/@arthurlutz/104885100027361758) (6 days ago)
+- [arthurlutz: “Eh, salut les libristes... …”](https://social.logilab.org/@arthurlutz/104880196563001500) (1 week ago)
 - [arthurlutz: “&gt; Relying on plain-text email …”](https://social.logilab.org/@arthurlutz/104868520491640248) (1 week ago)
 - [arthurlutz: “Pour superviser vos sites, vou…”](https://social.logilab.org/@arthurlutz/104868042881473869) (1 week ago)
 
