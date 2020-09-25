@@ -17,7 +17,7 @@ Say Hello, I don't bite!
 
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (1 week ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (1 week ago)
-- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (1 week ago)
+- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (2 weeks ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (2 weeks ago)
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (3 weeks ago)
 - [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (1 month ago)
@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-09-23T19-18-30Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-09-23T19-18-30Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.8-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.8-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-09-23T19-18-30Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-09-23T19-18-30Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.8-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.8-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.4.4](https://github.com/libopenstorage/stork/releases/tag/v2.4.4), 3 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.9.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.9.0), 2 months ago) - The Open Distro for Elasticsearch documentation.
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “https://jamstackconf.com/ Virt…”](https://social.logilab.org/@arthurlutz/104918643029026814) (today)
-- [arthurlutz: “@freedomboxfndn@mastodon.socia…”](https://social.logilab.org/@arthurlutz/104918595832052394) (today)
-- [arthurlutz: “@yunohost@mastodon.social have…”](https://social.logilab.org/@arthurlutz/104918594430626782) (today)
-- [arthurlutz: “@cloudron@social.cloudron.io h…”](https://social.logilab.org/@arthurlutz/104918593649749222) (today)
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/104886378977155466) (6 days ago)
+- [arthurlutz: “https://jamstackconf.com/ Virt…”](https://social.logilab.org/@arthurlutz/104918643029026814) (1 day ago)
+- [arthurlutz: “@freedomboxfndn@mastodon.socia…”](https://social.logilab.org/@arthurlutz/104918595832052394) (1 day ago)
+- [arthurlutz: “@yunohost@mastodon.social have…”](https://social.logilab.org/@arthurlutz/104918594430626782) (1 day ago)
+- [arthurlutz: “@cloudron@social.cloudron.io h…”](https://social.logilab.org/@arthurlutz/104918593649749222) (1 day ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/104886378977155466) (1 week ago)
 
 #### 🌱 My latest projects
 
