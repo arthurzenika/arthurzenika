@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-09-23T19-18-30Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-09-23T19-18-30Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-09-26T03-44-56Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-09-26T03-44-56Z), today) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.8-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.8-rc.1), 3 days ago) - A glossy Matrix collaboration client for the web.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.4.4](https://github.com/libopenstorage/stork/releases/tag/v2.4.4), 3 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
