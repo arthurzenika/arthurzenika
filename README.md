@@ -35,7 +35,6 @@ Say Hello, I don't bite!
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.9.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.9.0), 2 months ago) - The Open Distro for Elasticsearch documentation.
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
-- [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant) ([v1.0.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v1.0.2), 3 years ago) - Vagrant driver for Kitchen
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
 #### 📜 My recent blog posts in 🇫🇷
