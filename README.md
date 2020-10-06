@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-03T02-19-42Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-03T02-19-42Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
-- [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 6 days ago) - Stork - Storage Orchestration Runtime for Kubernetes
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-03T02-19-42Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-03T02-19-42Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 week ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.8](https://github.com/vector-im/element-web/releases/tag/v1.7.8), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.9.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.9.0), 2 months ago) - The Open Distro for Elasticsearch documentation.
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#inktober #inktober2020 #wisp …”](https://social.logilab.org/@arthurlutz/104965685549885622) (3 days ago)
-- [arthurlutz: “Présentations #5mintalk #logil…”](https://social.logilab.org/@arthurlutz/104965632297398320) (3 days ago)
-- [arthurlutz: “Who wants to build a tool so w…”](https://social.logilab.org/@arthurlutz/104964727447130704) (3 days ago)
-- [arthurlutz: “#inktober #inktober2020 #doodl…”](https://social.logilab.org/@arthurlutz/104959941258130320) (4 days ago)
-- [arthurlutz: “🤩  La bibliothèque nationale d…”](https://social.logilab.org/@arthurlutz/104958694216223084) (4 days ago)
+- [arthurlutz: “#inktober #inktober2020 #wisp …”](https://social.logilab.org/@arthurlutz/104965685549885622) (4 days ago)
+- [arthurlutz: “Présentations #5mintalk #logil…”](https://social.logilab.org/@arthurlutz/104965632297398320) (4 days ago)
+- [arthurlutz: “Who wants to build a tool so w…”](https://social.logilab.org/@arthurlutz/104964727447130704) (4 days ago)
+- [arthurlutz: “#inktober #inktober2020 #doodl…”](https://social.logilab.org/@arthurlutz/104959941258130320) (5 days ago)
+- [arthurlutz: “🤩  La bibliothèque nationale d…”](https://social.logilab.org/@arthurlutz/104958694216223084) (5 days ago)
 
 #### 🌱 My latest projects
 
