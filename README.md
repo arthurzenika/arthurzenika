@@ -29,11 +29,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), today) - The Open Distro for Elasticsearch documentation.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.9-rc.1), today) - A glossy Matrix collaboration client for the web.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-03T02-19-42Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-03T02-19-42Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 week ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.9.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.9.0), 2 months ago) - The Open Distro for Elasticsearch documentation.
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
