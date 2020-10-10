@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 2 days ago) - The Open Distro for Elasticsearch documentation.
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.9-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-03T02-19-42Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-03T02-19-42Z), 6 days ago) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-09T22-55-05Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-09T22-55-05Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 3 days ago) - The Open Distro for Elasticsearch documentation.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.9-rc.1), 3 days ago) - A glossy Matrix collaboration client for the web.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 week ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105005621655089134) (today)
-- [arthurlutz: “Aujourd&#39;hui pas de présentatio…”](https://social.logilab.org/@arthurlutz/105005544834811192) (today)
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105000014458263791) (1 day ago)
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/104994423211154675) (2 days ago)
-- [arthurlutz: “Yesterday I &#34;went&#34; to a confer…”](https://social.logilab.org/@arthurlutz/104992595366797851) (2 days ago)
+- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105005621655089134) (1 day ago)
+- [arthurlutz: “Aujourd&#39;hui pas de présentatio…”](https://social.logilab.org/@arthurlutz/105005544834811192) (1 day ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105000014458263791) (2 days ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/104994423211154675) (3 days ago)
+- [arthurlutz: “Yesterday I &#34;went&#34; to a confer…”](https://social.logilab.org/@arthurlutz/104992595366797851) (3 days ago)
 
 #### 🌱 My latest projects
 
