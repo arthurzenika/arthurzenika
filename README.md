@@ -15,6 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (2 days ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (3 weeks ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (3 weeks ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (1 month ago)
@@ -24,7 +25,6 @@ Say Hello, I don't bite!
 - [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (3 months ago)
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web. (4 months ago)
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -  (5 months ago)
-- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
