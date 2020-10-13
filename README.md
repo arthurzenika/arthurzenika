@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “🐳 Balena - How we ran a virtua…”](https://social.logilab.org/@arthurlutz/105026291364866527) (today)
 - [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105005621655089134) (4 days ago)
 - [arthurlutz: “Aujourd&#39;hui pas de présentatio…”](https://social.logilab.org/@arthurlutz/105005544834811192) (4 days ago)
 - [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105000014458263791) (5 days ago)
 - [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/104994423211154675) (6 days ago)
-- [arthurlutz: “Yesterday I &#34;went&#34; to a confer…”](https://social.logilab.org/@arthurlutz/104992595366797851) (6 days ago)
 
 #### 🌱 My latest projects
 
