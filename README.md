@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (3 days ago)
+- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (4 days ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (3 weeks ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (3 weeks ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (1 month ago)
@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-12T21-53-21Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-12T21-53-21Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9](https://github.com/vector-im/element-web/releases/tag/v1.7.9), today) - A glossy Matrix collaboration client for the web.
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 5 days ago) - The Open Distro for Elasticsearch documentation.
-- [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 week ago) - Stork - Storage Orchestration Runtime for Kubernetes
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-12T21-53-21Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-12T21-53-21Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9](https://github.com/vector-im/element-web/releases/tag/v1.7.9), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 6 days ago) - The Open Distro for Elasticsearch documentation.
+- [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105005621655089134) (3 days ago)
-- [arthurlutz: “Aujourd&#39;hui pas de présentatio…”](https://social.logilab.org/@arthurlutz/105005544834811192) (3 days ago)
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105000014458263791) (4 days ago)
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/104994423211154675) (5 days ago)
-- [arthurlutz: “Yesterday I &#34;went&#34; to a confer…”](https://social.logilab.org/@arthurlutz/104992595366797851) (5 days ago)
+- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105005621655089134) (4 days ago)
+- [arthurlutz: “Aujourd&#39;hui pas de présentatio…”](https://social.logilab.org/@arthurlutz/105005544834811192) (4 days ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105000014458263791) (5 days ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/104994423211154675) (6 days ago)
+- [arthurlutz: “Yesterday I &#34;went&#34; to a confer…”](https://social.logilab.org/@arthurlutz/104992595366797851) (6 days ago)
 
 #### 🌱 My latest projects
 
