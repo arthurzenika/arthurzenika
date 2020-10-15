@@ -55,7 +55,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039681401893034) (today)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039685376697055) (today)
 - [arthurlutz: “#inktober …”](https://social.logilab.org/@arthurlutz/105039469452278830) (today)
 - [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039431128040731) (today)
 - [arthurlutz: “ipygany : 3-D Scientific Visua…”](https://social.logilab.org/@arthurlutz/105037910385348678) (today)
