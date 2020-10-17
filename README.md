@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (1 week ago)
-- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (4 weeks ago)
+- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (1 month ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (1 month ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (1 month ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (1 month ago)
@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-12T21-53-21Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-12T21-53-21Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9](https://github.com/vector-im/element-web/releases/tag/v1.7.9), 4 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-12T21-53-21Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-12T21-53-21Z), 5 days ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9](https://github.com/vector-im/element-web/releases/tag/v1.7.9), 5 days ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 1 week ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039685376697055) (1 day ago)
-- [arthurlutz: “#inktober …”](https://social.logilab.org/@arthurlutz/105039469452278830) (1 day ago)
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039431128040731) (1 day ago)
-- [arthurlutz: “ipygany : 3-D Scientific Visua…”](https://social.logilab.org/@arthurlutz/105037910385348678) (1 day ago)
-- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105037505102143487) (1 day ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039685376697055) (2 days ago)
+- [arthurlutz: “#inktober …”](https://social.logilab.org/@arthurlutz/105039469452278830) (2 days ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039431128040731) (2 days ago)
+- [arthurlutz: “ipygany : 3-D Scientific Visua…”](https://social.logilab.org/@arthurlutz/105037910385348678) (2 days ago)
+- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105037505102143487) (2 days ago)
 
 #### 🌱 My latest projects
 
