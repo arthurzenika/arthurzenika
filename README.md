@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-18T21-54-12Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-18T21-54-12Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9](https://github.com/vector-im/element-web/releases/tag/v1.7.9), 6 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-18T21-54-12Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-18T21-54-12Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.9](https://github.com/vector-im/element-web/releases/tag/v1.7.9), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 1 week ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 2 months ago) - A toolkit for building secure, portable and lean operating systems for containers
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039685376697055) (3 days ago)
-- [arthurlutz: “#inktober …”](https://social.logilab.org/@arthurlutz/105039469452278830) (3 days ago)
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039431128040731) (3 days ago)
-- [arthurlutz: “ipygany : 3-D Scientific Visua…”](https://social.logilab.org/@arthurlutz/105037910385348678) (3 days ago)
-- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105037505102143487) (3 days ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039685376697055) (4 days ago)
+- [arthurlutz: “#inktober …”](https://social.logilab.org/@arthurlutz/105039469452278830) (4 days ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039431128040731) (4 days ago)
+- [arthurlutz: “ipygany : 3-D Scientific Visua…”](https://social.logilab.org/@arthurlutz/105037910385348678) (4 days ago)
+- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105037505102143487) (4 days ago)
 
 #### 🌱 My latest projects
 
