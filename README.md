@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-27T04-03-55Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-27T04-03-55Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.11](https://github.com/vector-im/element-web/releases/tag/v1.7.11), 1 day ago) - A glossy Matrix collaboration client for the web.
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 2 weeks ago) - The Open Distro for Elasticsearch documentation.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-27T04-03-55Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-27T04-03-55Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.11](https://github.com/vector-im/element-web/releases/tag/v1.7.11), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 4 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 3 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
