@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.12](https://github.com/vector-im/element-web/releases/tag/v1.7.12), today) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-28T08-16-50Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-28T08-16-50Z), today) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.12](https://github.com/vector-im/element-web/releases/tag/v1.7.12), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-28T08-16-50Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-28T08-16-50Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.10.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.10.1), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
-- [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 4 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
+- [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 3 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039685376697055) (1 week ago)
-- [arthurlutz: “#inktober …”](https://social.logilab.org/@arthurlutz/105039469452278830) (1 week ago)
-- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039431128040731) (1 week ago)
-- [arthurlutz: “ipygany : 3-D Scientific Visua…”](https://social.logilab.org/@arthurlutz/105037910385348678) (1 week ago)
-- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105037505102143487) (1 week ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039685376697055) (2 weeks ago)
+- [arthurlutz: “#inktober …”](https://social.logilab.org/@arthurlutz/105039469452278830) (2 weeks ago)
+- [arthurlutz: “#inktober #inktober2020 #geek …”](https://social.logilab.org/@arthurlutz/105039431128040731) (2 weeks ago)
+- [arthurlutz: “ipygany : 3-D Scientific Visua…”](https://social.logilab.org/@arthurlutz/105037910385348678) (2 weeks ago)
+- [arthurlutz: “#inktober2020 #inktober #geek …”](https://social.logilab.org/@arthurlutz/105037505102143487) (2 weeks ago)
 
 #### 🌱 My latest projects
 
