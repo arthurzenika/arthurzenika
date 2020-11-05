@@ -25,6 +25,9 @@ Say Hello, I don't bite!
 {{- end}}
 
 #### 📜 My recent blog posts in 🇫🇷
+{{range rss "https://arthur.pages.logilab.fr/blog/feed.xml" 2}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 {{range rss "https://www.logilab.org/blog/6724/blogentries/alutz?vid=rss" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
