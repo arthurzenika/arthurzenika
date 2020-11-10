@@ -15,23 +15,23 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (3 weeks ago)
+- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (1 month ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (1 month ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (1 month ago)
-- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (1 month ago)
-- [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (1 month ago)
+- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (2 months ago)
+- [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (2 months ago)
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (2 months ago)
-- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (2 months ago)
-- [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (3 months ago)
+- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (3 months ago)
+- [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (4 months ago)
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web. (5 months ago)
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -  (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.13-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.13-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 3 days ago) - The Open Distro for Elasticsearch documentation.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-10-28T08-16-50Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-10-28T08-16-50Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.13](https://github.com/vector-im/element-web/releases/tag/v1.7.13), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-06T23-17-07Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-06T23-17-07Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 week ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 3 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
@@ -55,14 +55,16 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105157184007102136) (today)
-- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105152897532197665) (1 day ago)
-- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105152718916444649) (1 day ago)
-- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105152183283869373) (1 day ago)
-- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105151771482809313) (1 day ago)
+- [arthurlutz: “A small online sprint to talk…”](https://social.logilab.org/@arthurlutz/105158751224253183) (5 days ago)
+- [arthurlutz: “De fil en aiguille je suis tom…”](https://social.logilab.org/@arthurlutz/105158648856440523) (5 days ago)
+- [arthurlutz: “Nouveau stade du wow (pour moi…”](https://social.logilab.org/@arthurlutz/105158642862167556) (5 days ago)
+- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105157184007102136) (5 days ago)
+- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105152897532197665) (6 days ago)
 
 #### 🌱 My latest projects
 
+- [arthurlogilab/datocms-gatsby-portfolio-website-demo](https://github.com/arthurlogilab/datocms-gatsby-portfolio-website-demo) - 
+- [arthurlogilab/datocms-vue.js-profile-card-website-demo](https://github.com/arthurlogilab/datocms-vue.js-profile-card-website-demo) - 
 - [arthurlogilab/cubicweb-formula](https://github.com/arthurlogilab/cubicweb-formula) - 
 - [arthurlogilab/uptime-formula](https://github.com/arthurlogilab/uptime-formula) -  Set up and configure an uptime monitor with saltstack
 - [arthurlogilab/d14n.github.io](https://github.com/arthurlogilab/d14n.github.io) - d14n.github.io
