@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-10T21-02-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-10T21-02-24Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.13](https://github.com/vector-im/element-web/releases/tag/v1.7.13), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-10T21-02-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-10T21-02-24Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.13](https://github.com/vector-im/element-web/releases/tag/v1.7.13), 2 days ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 week ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 3 months ago) - A toolkit for building secure, portable and lean operating systems for containers
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “A small online sprint to talk…”](https://social.logilab.org/@arthurlutz/105158751224253183) (5 days ago)
-- [arthurlutz: “De fil en aiguille je suis tom…”](https://social.logilab.org/@arthurlutz/105158648856440523) (5 days ago)
-- [arthurlutz: “Nouveau stade du wow (pour moi…”](https://social.logilab.org/@arthurlutz/105158642862167556) (5 days ago)
-- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105157184007102136) (5 days ago)
-- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105152897532197665) (6 days ago)
+- [arthurlutz: “A small online sprint to talk…”](https://social.logilab.org/@arthurlutz/105158751224253183) (6 days ago)
+- [arthurlutz: “De fil en aiguille je suis tom…”](https://social.logilab.org/@arthurlutz/105158648856440523) (6 days ago)
+- [arthurlutz: “Nouveau stade du wow (pour moi…”](https://social.logilab.org/@arthurlutz/105158642862167556) (6 days ago)
+- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105157184007102136) (6 days ago)
+- [arthurlutz: “Virtually attending the OVHClo…”](https://social.logilab.org/@arthurlutz/105152897532197665) (1 week ago)
 
 #### 🌱 My latest projects
 
