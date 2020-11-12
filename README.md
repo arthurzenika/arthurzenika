@@ -29,6 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), today) - Testinfra test your infrastructures
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-10T21-02-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-10T21-02-24Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.13](https://github.com/vector-im/element-web/releases/tag/v1.7.13), 3 days ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 week ago) - The Open Distro for Elasticsearch documentation.
