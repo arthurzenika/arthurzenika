@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (1 month ago)
-- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (1 month ago)
+- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (2 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (2 months ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (2 months ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (2 months ago)
@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-13T20-10-18Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-13T20-10-18Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 3 days ago) - Testinfra test your infrastructures
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.13](https://github.com/vector-im/element-web/releases/tag/v1.7.13), 6 days ago) - A glossy Matrix collaboration client for the web.
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 week ago) - The Open Distro for Elasticsearch documentation.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-13T20-10-18Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-13T20-10-18Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 4 days ago) - Testinfra test your infrastructures
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.13](https://github.com/vector-im/element-web/releases/tag/v1.7.13), 1 week ago) - A glossy Matrix collaboration client for the web.
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 2 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 3 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations du vendredi à @l…”](https://social.logilab.org/@arthurlutz/105203418117678024) (2 days ago)
-- [arthurlutz: “L&#39;édition en ligne de la confé…”](https://social.logilab.org/@arthurlutz/105203190738676463) (2 days ago)
-- [arthurlutz: “@julietteTaka bravo pour debia…”](https://social.logilab.org/@arthurlutz/105197570382781053) (3 days ago)
+- [arthurlutz: “Présentations du vendredi à @l…”](https://social.logilab.org/@arthurlutz/105203418117678024) (3 days ago)
+- [arthurlutz: “L&#39;édition en ligne de la confé…”](https://social.logilab.org/@arthurlutz/105203190738676463) (3 days ago)
+- [arthurlutz: “@julietteTaka bravo pour debia…”](https://social.logilab.org/@arthurlutz/105197570382781053) (4 days ago)
 - [arthurlutz: “A small online sprint to talk…”](https://social.logilab.org/@arthurlutz/105158751224253183) (1 week ago)
 - [arthurlutz: “De fil en aiguille je suis tom…”](https://social.logilab.org/@arthurlutz/105158648856440523) (1 week ago)
 
