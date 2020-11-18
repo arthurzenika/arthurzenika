@@ -15,6 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (today)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (1 month ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (2 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (2 months ago)
@@ -24,7 +25,6 @@ Say Hello, I don't bite!
 - [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (3 months ago)
 - [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (4 months ago)
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web. (5 months ago)
-- [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -  (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
