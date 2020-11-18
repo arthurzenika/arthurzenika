@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-13T20-10-18Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-13T20-10-18Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 5 days ago) - Testinfra test your infrastructures
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-13T20-10-18Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-13T20-10-18Z), 5 days ago) - High Performance, Kubernetes Native Object Storage
+- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 6 days ago) - Testinfra test your infrastructures
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.13](https://github.com/vector-im/element-web/releases/tag/v1.7.13), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 2 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#osis #osis2020 …”](https://social.logilab.org/@arthurlutz/105225963006060281) (today)
-- [arthurlutz: “#osis #osis2020 …”](https://social.logilab.org/@arthurlutz/105225913288518319) (today)
-- [arthurlutz: “Conférence &#34;Open Source Innova…”](https://social.logilab.org/@arthurlutz/105225885033994297) (today)
-- [arthurlutz: “A guide to setting up Kubernet…”](https://social.logilab.org/@arthurlutz/105225509628441498) (today)
-- [arthurlutz: “En train de &#34;participer&#34; (en l…”](https://social.logilab.org/@arthurlutz/105225342881482390) (today)
+- [arthurlutz: “#osis #osis2020 …”](https://social.logilab.org/@arthurlutz/105225963006060281) (1 day ago)
+- [arthurlutz: “#osis #osis2020 …”](https://social.logilab.org/@arthurlutz/105225913288518319) (1 day ago)
+- [arthurlutz: “Conférence &#34;Open Source Innova…”](https://social.logilab.org/@arthurlutz/105225885033994297) (1 day ago)
+- [arthurlutz: “A guide to setting up Kubernet…”](https://social.logilab.org/@arthurlutz/105225509628441498) (1 day ago)
+- [arthurlutz: “En train de &#34;participer&#34; (en l…”](https://social.logilab.org/@arthurlutz/105225342881482390) (1 day ago)
 
 #### 🌱 My latest projects
 
