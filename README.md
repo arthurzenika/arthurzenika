@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237289578273577) (today)
 - [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237083263175373) (today)
 - [arthurlutz: “https://linuxfr.org/news/sorti…”](https://social.logilab.org/@arthurlutz/105236968656471139) (today)
 - [arthurlutz: “#semwebpro ♟️…”](https://social.logilab.org/@arthurlutz/105236430904157047) (today)
 - [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105236370550388974) (today)
-- [arthurlutz: “#SemWebPro …”](https://social.logilab.org/@arthurlutz/105236313737893150) (today)
 
 #### 🌱 My latest projects
 
