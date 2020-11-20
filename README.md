@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-19T23-48-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-19T23-48-16Z), today) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.14-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.14-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-13T20-10-18Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-13T20-10-18Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 week ago) - Testinfra test your infrastructures
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 2 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
