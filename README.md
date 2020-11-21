@@ -66,6 +66,7 @@ Say Hello, I don't bite!
 
 - [arthurlogilab/datocms-gatsby-portfolio-website-demo](https://github.com/arthurlogilab/datocms-gatsby-portfolio-website-demo) - 
 - [arthurlogilab/datocms-vue.js-profile-card-website-demo](https://github.com/arthurlogilab/datocms-vue.js-profile-card-website-demo) - 
+- [arthurlogilab/kitchen-transport-rsync](https://github.com/arthurlogilab/kitchen-transport-rsync) - 
 - [arthurlogilab/cubicweb-formula](https://github.com/arthurlogilab/cubicweb-formula) - 
 - [arthurlogilab/uptime-formula](https://github.com/arthurlogilab/uptime-formula) -  Set up and configure an uptime monitor with saltstack
 - [arthurlogilab/d14n.github.io](https://github.com/arthurlogilab/d14n.github.io) - d14n.github.io
