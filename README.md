@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (2 days ago)
+- [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (3 days ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (1 month ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (2 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (2 months ago)
@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-19T23-48-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-19T23-48-16Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.14-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.14-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-19T23-48-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-19T23-48-16Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.14-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.14-rc.1), 3 days ago) - A glossy Matrix collaboration client for the web.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 week ago) - Testinfra test your infrastructures
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 2 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237551695627586) (1 day ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237289578273577) (1 day ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237083263175373) (1 day ago)
-- [arthurlutz: “https://linuxfr.org/news/sorti…”](https://social.logilab.org/@arthurlutz/105236968656471139) (1 day ago)
-- [arthurlutz: “#semwebpro ♟️…”](https://social.logilab.org/@arthurlutz/105236430904157047) (1 day ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237551695627586) (2 days ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237289578273577) (2 days ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237083263175373) (2 days ago)
+- [arthurlutz: “https://linuxfr.org/news/sorti…”](https://social.logilab.org/@arthurlutz/105236968656471139) (2 days ago)
+- [arthurlutz: “#semwebpro ♟️…”](https://social.logilab.org/@arthurlutz/105236430904157047) (2 days ago)
 
 #### 🌱 My latest projects
 
