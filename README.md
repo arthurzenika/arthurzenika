@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-25T22-36-25Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-25T22-36-25Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.14](https://github.com/vector-im/element-web/releases/tag/v1.7.14), 2 days ago) - A glossy Matrix collaboration client for the web.
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 week ago) - Testinfra test your infrastructures
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-25T22-36-25Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-25T22-36-25Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.14](https://github.com/vector-im/element-web/releases/tag/v1.7.14), 3 days ago) - A glossy Matrix collaboration client for the web.
+- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 2 weeks ago) - Testinfra test your infrastructures
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 4 months ago) - A toolkit for building secure, portable and lean operating systems for containers
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237551695627586) (6 days ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237289578273577) (6 days ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237083263175373) (6 days ago)
-- [arthurlutz: “https://linuxfr.org/news/sorti…”](https://social.logilab.org/@arthurlutz/105236968656471139) (6 days ago)
-- [arthurlutz: “#semwebpro ♟️…”](https://social.logilab.org/@arthurlutz/105236430904157047) (6 days ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237551695627586) (1 week ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237289578273577) (1 week ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105237083263175373) (1 week ago)
+- [arthurlutz: “https://linuxfr.org/news/sorti…”](https://social.logilab.org/@arthurlutz/105236968656471139) (1 week ago)
+- [arthurlutz: “#semwebpro ♟️…”](https://social.logilab.org/@arthurlutz/105236430904157047) (1 week ago)
 
 #### 🌱 My latest projects
 
