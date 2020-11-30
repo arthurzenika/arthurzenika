@@ -24,15 +24,15 @@ Say Hello, I don't bite!
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (2 months ago)
 - [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (3 months ago)
 - [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (4 months ago)
-- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web. (5 months ago)
+- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web. (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-25T22-36-25Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-25T22-36-25Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.14](https://github.com/vector-im/element-web/releases/tag/v1.7.14), 6 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-25T22-36-25Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-25T22-36-25Z), 5 days ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.14](https://github.com/vector-im/element-web/releases/tag/v1.7.14), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 2 weeks ago) - Testinfra test your infrastructures
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 4 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 months ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 4 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105282643588982024) (2 days ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276964819680501) (3 days ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276744060700904) (3 days ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276738047012984) (3 days ago)
-- [arthurlutz: “#semwebpro Session de question…”](https://social.logilab.org/@arthurlutz/105276572986839644) (3 days ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105282643588982024) (3 days ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276964819680501) (4 days ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276744060700904) (4 days ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276738047012984) (4 days ago)
+- [arthurlutz: “#semwebpro Session de question…”](https://social.logilab.org/@arthurlutz/105276572986839644) (4 days ago)
 
 #### 🌱 My latest projects
 
