@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.15-rc.1), today) - A glossy Matrix collaboration client for the web.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.15-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-11-25T22-36-25Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-11-25T22-36-25Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 2 weeks ago) - Testinfra test your infrastructures
+- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 3 weeks ago) - Testinfra test your infrastructures
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 months ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 4 months ago) - A toolkit for building secure, portable and lean operating systems for containers
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105282643588982024) (5 days ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276964819680501) (6 days ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276744060700904) (6 days ago)
-- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276738047012984) (6 days ago)
-- [arthurlutz: “#semwebpro Session de question…”](https://social.logilab.org/@arthurlutz/105276572986839644) (6 days ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105282643588982024) (6 days ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276964819680501) (1 week ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276744060700904) (1 week ago)
+- [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276738047012984) (1 week ago)
+- [arthurlutz: “#semwebpro Session de question…”](https://social.logilab.org/@arthurlutz/105276572986839644) (1 week ago)
 
 #### 🌱 My latest projects
 
