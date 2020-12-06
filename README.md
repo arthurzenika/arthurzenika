@@ -23,14 +23,14 @@ Say Hello, I don't bite!
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (2 months ago)
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (3 months ago)
 - [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (3 months ago)
-- [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (4 months ago)
+- [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (5 months ago)
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web. (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-03T05-49-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-03T05-49-24Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.15-rc.1), 3 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-03T05-49-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-03T05-49-24Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.15-rc.1), 4 days ago) - A glossy Matrix collaboration client for the web.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 3 weeks ago) - Testinfra test your infrastructures
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 months ago) - Stork - Storage Orchestration Runtime for Kubernetes
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105322515004027847) (1 day ago)
-- [arthurlutz: “Atelier Python Performance 🚤 ⏩…”](https://social.logilab.org/@arthurlutz/105321452301941335) (1 day ago)
-- [arthurlutz: “After upgrading to version 0.1…”](https://social.logilab.org/@arthurlutz/105317128490342082) (2 days ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105322515004027847) (2 days ago)
+- [arthurlutz: “Atelier Python Performance 🚤 ⏩…”](https://social.logilab.org/@arthurlutz/105321452301941335) (2 days ago)
+- [arthurlutz: “After upgrading to version 0.1…”](https://social.logilab.org/@arthurlutz/105317128490342082) (3 days ago)
 - [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105282643588982024) (1 week ago)
 - [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276964819680501) (1 week ago)
 
