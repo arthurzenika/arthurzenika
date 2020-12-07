@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-03T05-49-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-03T05-49-24Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.15-rc.1), 4 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-03T05-49-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-03T05-49-24Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.15-rc.1), 5 days ago) - A glossy Matrix collaboration client for the web.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 3 weeks ago) - Testinfra test your infrastructures
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 months ago) - Stork - Storage Orchestration Runtime for Kubernetes
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105322515004027847) (2 days ago)
-- [arthurlutz: “Atelier Python Performance 🚤 ⏩…”](https://social.logilab.org/@arthurlutz/105321452301941335) (2 days ago)
-- [arthurlutz: “After upgrading to version 0.1…”](https://social.logilab.org/@arthurlutz/105317128490342082) (3 days ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105322515004027847) (3 days ago)
+- [arthurlutz: “Atelier Python Performance 🚤 ⏩…”](https://social.logilab.org/@arthurlutz/105321452301941335) (3 days ago)
+- [arthurlutz: “After upgrading to version 0.1…”](https://social.logilab.org/@arthurlutz/105317128490342082) (4 days ago)
 - [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105282643588982024) (1 week ago)
 - [arthurlutz: “#semwebpro …”](https://social.logilab.org/@arthurlutz/105276964819680501) (1 week ago)
 
