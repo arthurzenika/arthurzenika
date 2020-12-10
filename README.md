@@ -19,19 +19,19 @@ Say Hello, I don't bite!
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (2 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (2 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (2 months ago)
-- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (2 months ago)
+- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (3 months ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (3 months ago)
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (3 months ago)
-- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (3 months ago)
+- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (4 months ago)
 - [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (5 months ago)
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web. (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15](https://github.com/vector-im/element-web/releases/tag/v1.7.15), 2 days ago) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-03T05-49-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-03T05-49-24Z), 6 days ago) - High Performance, Kubernetes Native Object Storage
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 3 weeks ago) - Testinfra test your infrastructures
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15](https://github.com/vector-im/element-web/releases/tag/v1.7.15), 3 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-03T05-49-24Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-03T05-49-24Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
+- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 4 weeks ago) - Testinfra test your infrastructures
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 months ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 4 months ago) - A toolkit for building secure, portable and lean operating systems for containers
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Si vous faites de la formation…”](https://social.logilab.org/@arthurlutz/105350825235158984) (today)
-- [arthurlutz: “#confinement #télétravail #pro…”](https://social.logilab.org/@arthurlutz/105349203632474533) (today)
-- [arthurlutz: “Un collègue me dit du bien de …”](https://social.logilab.org/@arthurlutz/105349174863263964) (today)
-- [arthurlutz: “@ethibox@mastodon.ethibox.fr b…”](https://social.logilab.org/@arthurlutz/105345324809702591) (1 day ago)
-- [arthurlutz: “@mdk@mamot.fr Merci pour le ne…”](https://social.logilab.org/@arthurlutz/105343678932103366) (1 day ago)
+- [arthurlutz: “Si vous faites de la formation…”](https://social.logilab.org/@arthurlutz/105350825235158984) (1 day ago)
+- [arthurlutz: “#confinement #télétravail #pro…”](https://social.logilab.org/@arthurlutz/105349203632474533) (1 day ago)
+- [arthurlutz: “Un collègue me dit du bien de …”](https://social.logilab.org/@arthurlutz/105349174863263964) (1 day ago)
+- [arthurlutz: “@ethibox@mastodon.ethibox.fr b…”](https://social.logilab.org/@arthurlutz/105345324809702591) (2 days ago)
+- [arthurlutz: “@mdk@mamot.fr Merci pour le ne…”](https://social.logilab.org/@arthurlutz/105343678932103366) (2 days ago)
 
 #### 🌱 My latest projects
 
