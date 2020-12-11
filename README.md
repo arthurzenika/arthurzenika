@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-10T01-54-29Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-10T01-54-29Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15](https://github.com/vector-im/element-web/releases/tag/v1.7.15), 3 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-10T01-54-29Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-10T01-54-29Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15](https://github.com/vector-im/element-web/releases/tag/v1.7.15), 4 days ago) - A glossy Matrix collaboration client for the web.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 4 weeks ago) - Testinfra test your infrastructures
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.5.0](https://github.com/libopenstorage/stork/releases/tag/v2.5.0), 2 months ago) - Stork - Storage Orchestration Runtime for Kubernetes
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#protip #confinement #télétrav…”](https://social.logilab.org/@arthurlutz/105356052283141173) (today)
-- [arthurlutz: “Si vous faites de la formation…”](https://social.logilab.org/@arthurlutz/105350825235158984) (1 day ago)
-- [arthurlutz: “#confinement #télétravail #pro…”](https://social.logilab.org/@arthurlutz/105349203632474533) (1 day ago)
-- [arthurlutz: “Un collègue me dit du bien de …”](https://social.logilab.org/@arthurlutz/105349174863263964) (1 day ago)
-- [arthurlutz: “@ethibox@mastodon.ethibox.fr b…”](https://social.logilab.org/@arthurlutz/105345324809702591) (2 days ago)
+- [arthurlutz: “#protip #confinement #télétrav…”](https://social.logilab.org/@arthurlutz/105356052283141173) (1 day ago)
+- [arthurlutz: “Si vous faites de la formation…”](https://social.logilab.org/@arthurlutz/105350825235158984) (2 days ago)
+- [arthurlutz: “#confinement #télétravail #pro…”](https://social.logilab.org/@arthurlutz/105349203632474533) (2 days ago)
+- [arthurlutz: “Un collègue me dit du bien de …”](https://social.logilab.org/@arthurlutz/105349174863263964) (2 days ago)
+- [arthurlutz: “@ethibox@mastodon.ethibox.fr b…”](https://social.logilab.org/@arthurlutz/105345324809702591) (3 days ago)
 
 #### 🌱 My latest projects
 
