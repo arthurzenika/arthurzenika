@@ -57,11 +57,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations ⚡ du vendredi so…”](https://social.logilab.org/@arthurlutz/105362631204718829) (4 days ago)
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105362168664541265) (4 days ago)
-- [arthurlutz: “#protip #confinement #télétrav…”](https://social.logilab.org/@arthurlutz/105356052283141173) (5 days ago)
-- [arthurlutz: “Si vous faites de la formation…”](https://social.logilab.org/@arthurlutz/105350825235158984) (6 days ago)
-- [arthurlutz: “#confinement #télétravail #pro…”](https://social.logilab.org/@arthurlutz/105349203632474533) (6 days ago)
+- [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105384105550067702) (today)
+- [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105384099705013097) (today)
+- [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105384095764268353) (today)
+- [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105383990623200346) (today)
+- [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105383944671627697) (today)
 
 #### 🌱 My latest projects
 
