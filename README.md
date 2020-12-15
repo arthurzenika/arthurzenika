@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.6.1-beta.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.6.1-beta.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.6.1](https://github.com/devspace-cloud/devspace/releases/tag/v5.6.1), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-12T08-39-07Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-12T08-39-07Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.15](https://github.com/vector-im/element-web/releases/tag/v1.7.15), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 month ago) - Testinfra test your infrastructures
