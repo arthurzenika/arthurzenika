@@ -29,12 +29,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), today) - The Open Distro for Elasticsearch documentation.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.16-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.16-rc.1), today) - A glossy Matrix collaboration client for the web.
 - [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.6.2](https://github.com/devspace-cloud/devspace/releases/tag/v5.6.2), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-16T05-05-17Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-16T05-05-17Z), today) - High Performance, Kubernetes Native Object Storage
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 1 day ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 month ago) - Testinfra test your infrastructures
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.11.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.11.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 4 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
