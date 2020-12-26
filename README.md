@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-23T02-24-12Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-23T02-24-12Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-26T01-35-54Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-26T01-35-54Z), today) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.16](https://github.com/vector-im/element-web/releases/tag/v1.7.16), 5 days ago) - A glossy Matrix collaboration client for the web.
 - [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.6.4](https://github.com/devspace-cloud/devspace/releases/tag/v5.6.4), 5 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 week ago) - The Open Distro for Elasticsearch documentation.
