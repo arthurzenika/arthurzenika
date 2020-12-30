@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (2 weeks ago)
+- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (3 weeks ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (1 month ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (2 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (3 months ago)
@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-26T01-35-54Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-26T01-35-54Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-12-29T23-29-29Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-12-29T23-29-29Z), today) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.16](https://github.com/vector-im/element-web/releases/tag/v1.7.16), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.6.4](https://github.com/devspace-cloud/devspace/releases/tag/v5.6.4), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 week ago) - The Open Distro for Elasticsearch documentation.
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 2 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 2 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 month ago) - Testinfra test your infrastructures
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 5 months ago) - A toolkit for building secure, portable and lean operating systems for containers
@@ -57,8 +57,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “La classe 🤩 😍  : la nouvelle v…”](https://social.logilab.org/@arthurlutz/105390757611779881) (1 week ago)
-- [arthurlutz: “Automating Inclusive Documenta…”](https://social.logilab.org/@arthurlutz/105390298645073247) (1 week ago)
+- [arthurlutz: “La classe 🤩 😍  : la nouvelle v…”](https://social.logilab.org/@arthurlutz/105390757611779881) (2 weeks ago)
+- [arthurlutz: “Automating Inclusive Documenta…”](https://social.logilab.org/@arthurlutz/105390298645073247) (2 weeks ago)
 - [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105384105550067702) (2 weeks ago)
 - [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105384099705013097) (2 weeks ago)
 - [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105384095764268353) (2 weeks ago)
