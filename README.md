@@ -36,7 +36,6 @@ Say Hello, I don't bite!
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 3 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 month ago) - Testinfra test your infrastructures
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 5 months ago) - A toolkit for building secure, portable and lean operating systems for containers
-- [saltstack/kitchen-salt](https://github.com/saltstack/kitchen-salt) ([v0.2.0](https://github.com/saltstack/kitchen-salt/releases/tag/v0.2.0), 2 years ago) - SaltStack provisioner for test-kitchen
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
 #### 📜 My recent blog posts in 🇫🇷
