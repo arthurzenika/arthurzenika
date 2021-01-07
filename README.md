@@ -17,11 +17,11 @@ Say Hello, I don't bite!
 
 - [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (4 weeks ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (1 month ago)
-- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (2 months ago)
+- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (3 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (3 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (3 months ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (3 months ago)
-- [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (3 months ago)
+- [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (4 months ago)
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (4 months ago)
 - [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (4 months ago)
 - [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (6 months ago)
@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.0-beta.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.0-beta.0), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-05T05-22-38Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-05T05-22-38Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.0-beta.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.0-beta.0), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-05T05-22-38Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-05T05-22-38Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.16](https://github.com/vector-im/element-web/releases/tag/v1.7.16), 2 weeks ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 3 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
