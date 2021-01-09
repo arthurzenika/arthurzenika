@@ -20,17 +20,17 @@ Say Hello, I don't bite!
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (3 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (3 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (3 months ago)
-- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (3 months ago)
+- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (4 months ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (4 months ago)
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (4 months ago)
-- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (4 months ago)
+- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (5 months ago)
 - [jdhirst1/ncc_cli](https://github.com/jdhirst1/ncc_cli) - NextCloud  / ownCloud CLI Client - ncc_cli (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-08T21-18-21Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-08T21-18-21Z), today) - High Performance, Kubernetes Native Object Storage
-- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-08T21-18-21Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-08T21-18-21Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.0), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.16](https://github.com/vector-im/element-web/releases/tag/v1.7.16), 2 weeks ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 3 weeks ago) - Stork - Storage Orchestration Runtime for Kubernetes
@@ -56,8 +56,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Réunion #R&amp;D à @logilab …”](https://social.logilab.org/@arthurlutz/105519902361492665) (today)
-- [arthurlutz: “Un collègue a partagé cet outi…”](https://social.logilab.org/@arthurlutz/105513699004240571) (1 day ago)
+- [arthurlutz: “Réunion #R&amp;D à @logilab …”](https://social.logilab.org/@arthurlutz/105519902361492665) (1 day ago)
+- [arthurlutz: “Un collègue a partagé cet outi…”](https://social.logilab.org/@arthurlutz/105513699004240571) (2 days ago)
 - [arthurlutz: “La classe 🤩 😍  : la nouvelle v…”](https://social.logilab.org/@arthurlutz/105390757611779881) (3 weeks ago)
 - [arthurlutz: “Automating Inclusive Documenta…”](https://social.logilab.org/@arthurlutz/105390298645073247) (3 weeks ago)
 - [arthurlutz: “#meetup #nantes #devops sur AW…”](https://social.logilab.org/@arthurlutz/105384105550067702) (3 weeks ago)
