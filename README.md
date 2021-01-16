@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.2-alpha.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.2-alpha.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.17-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.17-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.2-alpha.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.2-alpha.0), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.17-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.17-rc.1), 3 days ago) - A glossy Matrix collaboration client for the web.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-08T21-18-21Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-08T21-18-21Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “[blog]  Link dump - rencontres…”](https://social.logilab.org/@arthurlutz/105560317150204694) (today)
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105560014901055307) (today)
-- [arthurlutz: “Merci pour vos retours sur les…”](https://social.logilab.org/@arthurlutz/105542110744187511) (3 days ago)
+- [arthurlutz: “[blog]  Link dump - rencontres…”](https://social.logilab.org/@arthurlutz/105560317150204694) (1 day ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105560014901055307) (1 day ago)
+- [arthurlutz: “Merci pour vos retours sur les…”](https://social.logilab.org/@arthurlutz/105542110744187511) (4 days ago)
 - [arthurlutz: “Réunion #R&amp;D à @logilab …”](https://social.logilab.org/@arthurlutz/105519902361492665) (1 week ago)
 - [arthurlutz: “Un collègue a partagé cet outi…”](https://social.logilab.org/@arthurlutz/105513699004240571) (1 week ago)
 
