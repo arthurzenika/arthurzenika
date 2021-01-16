@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-16T02-19-44Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-16T02-19-44Z), today) - High Performance, Kubernetes Native Object Storage
 - [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.2-alpha.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.2-alpha.0), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.17-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.17-rc.1), 3 days ago) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-08T21-18-21Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-08T21-18-21Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 2 months ago) - Testinfra test your infrastructures
