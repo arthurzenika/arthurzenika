@@ -34,7 +34,6 @@ Say Hello, I don't bite!
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.17-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.17-rc.1), 4 days ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 2 months ago) - Testinfra test your infrastructures
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 5 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
