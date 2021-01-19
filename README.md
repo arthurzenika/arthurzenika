@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.17](https://github.com/vector-im/element-web/releases/tag/v1.7.17), today) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-16T02-19-44Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-16T02-19-44Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
-- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.2-alpha.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.2-alpha.0), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.17](https://github.com/vector-im/element-web/releases/tag/v1.7.17), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-16T02-19-44Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-16T02-19-44Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.2-alpha.0](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.2-alpha.0), 4 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 5 months ago) - A toolkit for building secure, portable and lean operating systems for containers
@@ -55,9 +55,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “[blog]  Link dump - rencontres…”](https://social.logilab.org/@arthurlutz/105560317150204694) (3 days ago)
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105560014901055307) (3 days ago)
-- [arthurlutz: “Merci pour vos retours sur les…”](https://social.logilab.org/@arthurlutz/105542110744187511) (6 days ago)
+- [arthurlutz: “[blog]  Link dump - rencontres…”](https://social.logilab.org/@arthurlutz/105560317150204694) (4 days ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/105560014901055307) (4 days ago)
+- [arthurlutz: “Merci pour vos retours sur les…”](https://social.logilab.org/@arthurlutz/105542110744187511) (1 week ago)
 - [arthurlutz: “Réunion #R&amp;D à @logilab …”](https://social.logilab.org/@arthurlutz/105519902361492665) (1 week ago)
 - [arthurlutz: “Un collègue a partagé cet outi…”](https://social.logilab.org/@arthurlutz/105513699004240571) (1 week ago)
 
