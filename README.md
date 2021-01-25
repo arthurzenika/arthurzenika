@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (1 month ago)
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (1 month ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (2 months ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (3 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (4 months ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [devspace-cloud/devspace](https://github.com/devspace-cloud/devspace) ([v5.7.3](https://github.com/devspace-cloud/devspace/releases/tag/v5.7.3), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.3](https://github.com/loft-sh/devspace/releases/tag/v5.7.3), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.17](https://github.com/vector-im/element-web/releases/tag/v1.7.17), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-16T02-19-44Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-16T02-19-44Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
