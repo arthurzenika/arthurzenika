@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.4](https://github.com/loft-sh/devspace/releases/tag/v5.7.4), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.4](https://github.com/loft-sh/devspace/releases/tag/v5.7.4), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.17](https://github.com/vector-im/element-web/releases/tag/v1.7.17), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-01-16T02-19-44Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-01-16T02-19-44Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598876140136237) (3 days ago)
-- [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598810992628906) (3 days ago)
-- [arthurlutz: “This forum discussion about #A…”](https://social.logilab.org/@arthurlutz/105598633418914194) (3 days ago)
-- [arthurlutz: “En formation sur le machine le…”](https://social.logilab.org/@arthurlutz/105593844596629719) (4 days ago)
-- [arthurlutz: “La discussion a mené au dépot …”](https://social.logilab.org/@arthurlutz/105582794776173958) (6 days ago)
+- [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598876140136237) (4 days ago)
+- [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598810992628906) (4 days ago)
+- [arthurlutz: “This forum discussion about #A…”](https://social.logilab.org/@arthurlutz/105598633418914194) (4 days ago)
+- [arthurlutz: “En formation sur le machine le…”](https://social.logilab.org/@arthurlutz/105593844596629719) (5 days ago)
+- [arthurlutz: “La discussion a mené au dépot …”](https://social.logilab.org/@arthurlutz/105582794776173958) (1 week ago)
 
 #### 🌱 My latest projects
 
