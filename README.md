@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “Les hébergeurs qui foirent leu…”](https://social.logilab.org/@arthurlutz/105632375859761318) (today)
 - [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598876140136237) (6 days ago)
 - [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598810992628906) (6 days ago)
 - [arthurlutz: “This forum discussion about #A…”](https://social.logilab.org/@arthurlutz/105598633418914194) (6 days ago)
 - [arthurlutz: “En formation sur le machine le…”](https://social.logilab.org/@arthurlutz/105593844596629719) (1 week ago)
-- [arthurlutz: “La discussion a mené au dépot …”](https://social.logilab.org/@arthurlutz/105582794776173958) (1 week ago)
 
 #### 🌱 My latest projects
 
