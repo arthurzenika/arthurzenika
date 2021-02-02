@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.5-alpha.1](https://github.com/loft-sh/devspace/releases/tag/v5.7.5-alpha.1), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.5](https://github.com/loft-sh/devspace/releases/tag/v5.7.5), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-01T22-56-52Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-01T22-56-52Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.19-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.19-rc.1), 4 days ago) - A glossy Matrix collaboration client for the web.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 5 days ago) - NextCloud  / ownCloud CLI Client - ncc_cli
