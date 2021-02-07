@@ -36,7 +36,6 @@ Say Hello, I don't bite!
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 1 week ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
-- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ([v0.8](https://github.com/linuxkit/linuxkit/releases/tag/v0.8), 6 months ago) - A toolkit for building secure, portable and lean operating systems for containers
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
 #### 📜 My recent blog posts in 🇫🇷
