@@ -15,8 +15,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (4 days ago)
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (1 month ago)
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (5 days ago)
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (2 months ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (2 months ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (4 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (4 months ago)
@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.20](https://github.com/vector-im/element-web/releases/tag/v1.7.20), 2 days ago) - A glossy Matrix collaboration client for the web.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0-alpha.2](https://github.com/lensapp/lens/releases/tag/v4.1.0-alpha.2), 3 days ago) - Lens - The Kubernetes IDE
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.5](https://github.com/loft-sh/devspace/releases/tag/v5.7.5), 4 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-01T22-56-52Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-01T22-56-52Z), 5 days ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.20](https://github.com/vector-im/element-web/releases/tag/v1.7.20), 3 days ago) - A glossy Matrix collaboration client for the web.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0-alpha.2](https://github.com/lensapp/lens/releases/tag/v4.1.0-alpha.2), 4 days ago) - Lens - The Kubernetes IDE
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.5](https://github.com/loft-sh/devspace/releases/tag/v5.7.5), 5 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-01T22-56-52Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-01T22-56-52Z), 6 days ago) - High Performance, Kubernetes Native Object Storage
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 1 week ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
