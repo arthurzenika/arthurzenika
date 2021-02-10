@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.21-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.21-rc.1), today) - A glossy Matrix collaboration client for the web.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0-beta.2](https://github.com/lensapp/lens/releases/tag/v4.1.0-beta.2), 1 day ago) - Lens - The Kubernetes IDE
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-07T01-31-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-07T01-31-02Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.20](https://github.com/vector-im/element-web/releases/tag/v1.7.20), 6 days ago) - A glossy Matrix collaboration client for the web.
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.5](https://github.com/loft-sh/devspace/releases/tag/v5.7.5), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 1 week ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
