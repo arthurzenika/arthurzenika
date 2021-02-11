@@ -29,11 +29,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.21-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.21-rc.1), today) - A glossy Matrix collaboration client for the web.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0-beta.2](https://github.com/lensapp/lens/releases/tag/v4.1.0-beta.2), 1 day ago) - Lens - The Kubernetes IDE
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-07T01-31-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-07T01-31-02Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.21-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.21-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0-beta.2](https://github.com/lensapp/lens/releases/tag/v4.1.0-beta.2), 2 days ago) - Lens - The Kubernetes IDE
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-07T01-31-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-07T01-31-02Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.5](https://github.com/loft-sh/devspace/releases/tag/v5.7.5), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 1 week ago) - NextCloud  / ownCloud CLI Client - ncc_cli
+- [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 2 weeks ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) ([v2.6.0](https://github.com/libopenstorage/stork/releases/tag/v2.6.0), 1 month ago) - Stork - Storage Orchestration Runtime for Kubernetes
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Les hébergeurs qui foirent leu…”](https://social.logilab.org/@arthurlutz/105632375859761318) (1 week ago)
+- [arthurlutz: “Les hébergeurs qui foirent leu…”](https://social.logilab.org/@arthurlutz/105632375859761318) (2 weeks ago)
 - [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598876140136237) (2 weeks ago)
 - [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598810992628906) (2 weeks ago)
 - [arthurlutz: “This forum discussion about #A…”](https://social.logilab.org/@arthurlutz/105598633418914194) (2 weeks ago)
-- [arthurlutz: “En formation sur le machine le…”](https://social.logilab.org/@arthurlutz/105593844596629719) (2 weeks ago)
+- [arthurlutz: “En formation sur le machine le…”](https://social.logilab.org/@arthurlutz/105593844596629719) (3 weeks ago)
 
 #### 🌱 My latest projects
 
