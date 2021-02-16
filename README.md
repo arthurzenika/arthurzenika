@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0](https://github.com/lensapp/lens/releases/tag/v4.1.0), today) - Lens - The Kubernetes IDE
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.21](https://github.com/vector-im/element-web/releases/tag/v1.7.21), today) - A glossy Matrix collaboration client for the web.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0-rc.2](https://github.com/lensapp/lens/releases/tag/v4.1.0-rc.2), 1 day ago) - Lens - The Kubernetes IDE
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-14T04-01-33Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-14T04-01-33Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.7.6](https://github.com/loft-sh/devspace/releases/tag/v5.7.6), 5 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 2 weeks ago) - NextCloud  / ownCloud CLI Client - ncc_cli
