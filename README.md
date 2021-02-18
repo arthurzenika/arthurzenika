@@ -29,11 +29,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.0](https://github.com/loft-sh/devspace/releases/tag/v5.8.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0](https://github.com/lensapp/lens/releases/tag/v4.1.0), 1 day ago) - Lens - The Kubernetes IDE
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.21](https://github.com/vector-im/element-web/releases/tag/v1.7.21), 1 day ago) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-14T04-01-33Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-14T04-01-33Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
-- [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 2 weeks ago) - NextCloud  / ownCloud CLI Client - ncc_cli
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.0](https://github.com/loft-sh/devspace/releases/tag/v5.8.0), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.0](https://github.com/lensapp/lens/releases/tag/v4.1.0), 2 days ago) - Lens - The Kubernetes IDE
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.21](https://github.com/vector-im/element-web/releases/tag/v1.7.21), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-14T04-01-33Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-14T04-01-33Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
+- [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 3 weeks ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.12.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.12.0), 2 months ago) - The Open Distro for Elasticsearch documentation.
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Les hébergeurs qui foirent leu…”](https://social.logilab.org/@arthurlutz/105632375859761318) (2 weeks ago)
+- [arthurlutz: “Les hébergeurs qui foirent leu…”](https://social.logilab.org/@arthurlutz/105632375859761318) (3 weeks ago)
 - [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598876140136237) (3 weeks ago)
 - [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598810992628906) (3 weeks ago)
 - [arthurlutz: “This forum discussion about #A…”](https://social.logilab.org/@arthurlutz/105598633418914194) (3 weeks ago)
-- [arthurlutz: “En formation sur le machine le…”](https://social.logilab.org/@arthurlutz/105593844596629719) (3 weeks ago)
+- [arthurlutz: “En formation sur le machine le…”](https://social.logilab.org/@arthurlutz/105593844596629719) (4 weeks ago)
 
 #### 🌱 My latest projects
 
