@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.1-beta.0](https://github.com/loft-sh/devspace/releases/tag/v5.8.1-beta.0), 4 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.1](https://github.com/loft-sh/devspace/releases/tag/v5.8.1), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-19T04-38-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-19T04-38-02Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 5 days ago) - The Open Distro for Elasticsearch documentation.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.2](https://github.com/lensapp/lens/releases/tag/v4.1.2), 5 days ago) - Lens - The Kubernetes IDE
