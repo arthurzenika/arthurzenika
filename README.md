@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-02-24T18-44-45Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-02-24T18-44-45Z), 5 days ago) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-01T04-20-55Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-01T04-20-55Z), today) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.22-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.22-rc.1), 5 days ago) - A glossy Matrix collaboration client for the web.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.3](https://github.com/lensapp/lens/releases/tag/v4.1.3), 5 days ago) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.1](https://github.com/loft-sh/devspace/releases/tag/v5.8.1), 6 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
