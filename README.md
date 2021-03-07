@@ -18,13 +18,13 @@ Say Hello, I don't bite!
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (1 month ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (2 months ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (3 months ago)
+- [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (3 months ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (4 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (5 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (5 months ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (5 months ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (5 months ago)
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (6 months ago)
-- [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs &amp; guides of OVH Group (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
