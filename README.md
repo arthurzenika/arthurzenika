@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (1 month ago)
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (2 months ago)
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (3 months ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (3 months ago)
 - [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (3 months ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (5 months ago)
@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.4](https://github.com/loft-sh/devspace/releases/tag/v5.8.4), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v4.2.0-alpha.1), 3 days ago) - Lens - The Kubernetes IDE
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-04T00-53-13Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-04T00-53-13Z), 4 days ago) - High Performance, Kubernetes Native Object Storage
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.4](https://github.com/loft-sh/devspace/releases/tag/v5.8.4), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v4.2.0-alpha.1), 4 days ago) - Lens - The Kubernetes IDE
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-04T00-53-13Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-04T00-53-13Z), 5 days ago) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.22](https://github.com/vector-im/element-web/releases/tag/v1.7.22), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 2 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 1 month ago) - NextCloud  / ownCloud CLI Client - ncc_cli
