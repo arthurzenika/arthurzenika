@@ -29,11 +29,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.23-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.23-rc.1), today) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-10T05-11-33Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-10T05-11-33Z), today) - High Performance, Kubernetes Native Object Storage
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.4](https://github.com/loft-sh/devspace/releases/tag/v5.8.4), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v4.2.0-alpha.1), 5 days ago) - Lens - The Kubernetes IDE
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 2 weeks ago) - The Open Distro for Elasticsearch documentation.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.23-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.23-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-10T05-11-33Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-10T05-11-33Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.8.4](https://github.com/loft-sh/devspace/releases/tag/v5.8.4), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v4.2.0-alpha.1), 6 days ago) - Lens - The Kubernetes IDE
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 1 month ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
@@ -55,7 +55,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Une pensée pour toutes les per…”](https://social.logilab.org/@arthurlutz/105866616448889986) (today)
+- [arthurlutz: “Une pensée pour toutes les per…”](https://social.logilab.org/@arthurlutz/105866616448889986) (1 day ago)
 - [arthurlutz: “Les hébergeurs qui foirent leu…”](https://social.logilab.org/@arthurlutz/105632375859761318) (1 month ago)
 - [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598876140136237) (1 month ago)
 - [arthurlutz: “Présentation sur proxmox avec …”](https://social.logilab.org/@arthurlutz/105598810992628906) (1 month ago)
