@@ -17,7 +17,7 @@ Say Hello, I don't bite!
 
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (1 month ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (3 months ago)
-- [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (3 months ago)
+- [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (4 months ago)
 - [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (4 months ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (5 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (6 months ago)
@@ -29,11 +29,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-17T02-33-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-17T02-33-02Z), today) - High Performance, Kubernetes Native Object Storage
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.23](https://github.com/vector-im/element-web/releases/tag/v1.7.23), 2 days ago) - A glossy Matrix collaboration client for the web.
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.9.0](https://github.com/loft-sh/devspace/releases/tag/v5.9.0), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-beta.1](https://github.com/lensapp/lens/releases/tag/v4.2.0-beta.1), 5 days ago) - Lens - The Kubernetes IDE
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-17T02-33-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-17T02-33-02Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.23](https://github.com/vector-im/element-web/releases/tag/v1.7.23), 3 days ago) - A glossy Matrix collaboration client for the web.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.9.0](https://github.com/loft-sh/devspace/releases/tag/v5.9.0), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-beta.1](https://github.com/lensapp/lens/releases/tag/v4.2.0-beta.1), 6 days ago) - Lens - The Kubernetes IDE
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 4 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 1 month ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
@@ -55,10 +55,10 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “On explore plusieurs manières …”](https://social.logilab.org/@arthurlutz/105905464100110205) (today)
-- [arthurlutz: “@jdll@framapiaf.org bonjour, j…”](https://social.logilab.org/@arthurlutz/105904281336929798) (today)
-- [arthurlutz: “@appsedu@mastodon.etalab.gouv.…”](https://social.logilab.org/@arthurlutz/105900329612330177) (1 day ago)
-- [arthurlutz: “Dans 15 minutes commence le me…”](https://social.logilab.org/@arthurlutz/105899079922239903) (1 day ago)
+- [arthurlutz: “On explore plusieurs manières …”](https://social.logilab.org/@arthurlutz/105905464100110205) (1 day ago)
+- [arthurlutz: “@jdll@framapiaf.org bonjour, j…”](https://social.logilab.org/@arthurlutz/105904281336929798) (1 day ago)
+- [arthurlutz: “@appsedu@mastodon.etalab.gouv.…”](https://social.logilab.org/@arthurlutz/105900329612330177) (2 days ago)
+- [arthurlutz: “Dans 15 minutes commence le me…”](https://social.logilab.org/@arthurlutz/105899079922239903) (2 days ago)
 - [arthurlutz: “Une pensée pour toutes les per…”](https://social.logilab.org/@arthurlutz/105866616448889986) (1 week ago)
 
 #### 🌱 My latest projects
