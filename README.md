@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-rc.1](https://github.com/lensapp/lens/releases/tag/v4.2.0-rc.1), 4 days ago) - Lens - The Kubernetes IDE
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.9.1](https://github.com/loft-sh/devspace/releases/tag/v5.9.1), 4 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-17T02-33-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-17T02-33-02Z), 5 days ago) - High Performance, Kubernetes Native Object Storage
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-rc.1](https://github.com/lensapp/lens/releases/tag/v4.2.0-rc.1), 5 days ago) - Lens - The Kubernetes IDE
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.9.1](https://github.com/loft-sh/devspace/releases/tag/v5.9.1), 5 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-17T02-33-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-17T02-33-02Z), 6 days ago) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.23](https://github.com/vector-im/element-web/releases/tag/v1.7.23), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 1 month ago) - NextCloud  / ownCloud CLI Client - ncc_cli
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/105916936112114726) (3 days ago)
-- [arthurlutz: “On explore plusieurs manières …”](https://social.logilab.org/@arthurlutz/105905464100110205) (5 days ago)
-- [arthurlutz: “@jdll@framapiaf.org bonjour, j…”](https://social.logilab.org/@arthurlutz/105904281336929798) (5 days ago)
-- [arthurlutz: “@appsedu@mastodon.etalab.gouv.…”](https://social.logilab.org/@arthurlutz/105900329612330177) (6 days ago)
-- [arthurlutz: “Dans 15 minutes commence le me…”](https://social.logilab.org/@arthurlutz/105899079922239903) (6 days ago)
+- [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/105916936112114726) (4 days ago)
+- [arthurlutz: “On explore plusieurs manières …”](https://social.logilab.org/@arthurlutz/105905464100110205) (6 days ago)
+- [arthurlutz: “@jdll@framapiaf.org bonjour, j…”](https://social.logilab.org/@arthurlutz/105904281336929798) (6 days ago)
+- [arthurlutz: “@appsedu@mastodon.etalab.gouv.…”](https://social.logilab.org/@arthurlutz/105900329612330177) (1 week ago)
+- [arthurlutz: “Dans 15 minutes commence le me…”](https://social.logilab.org/@arthurlutz/105899079922239903) (1 week ago)
 
 #### 🌱 My latest projects
 
