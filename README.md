@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.10.0](https://github.com/loft-sh/devspace/releases/tag/v5.10.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.5](https://github.com/lensapp/lens/releases/tag/v4.1.5), today) - Lens - The Kubernetes IDE
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.10.0-beta.2](https://github.com/loft-sh/devspace/releases/tag/v5.10.0-beta.2), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-26T00-00-41Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-26T00-00-41Z), today) - High Performance, Kubernetes Native Object Storage
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.24-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.24-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
