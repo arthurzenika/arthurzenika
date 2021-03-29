@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0-rc.3](https://github.com/lensapp/lens/releases/tag/v4.2.0-rc.3), today) - Lens - The Kubernetes IDE
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.24](https://github.com/vector-im/element-web/releases/tag/v1.7.24), today) - A glossy Matrix collaboration client for the web.
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.10.0](https://github.com/loft-sh/devspace/releases/tag/v5.10.0), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.5](https://github.com/lensapp/lens/releases/tag/v4.1.5), 3 days ago) - Lens - The Kubernetes IDE
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-26T00-00-41Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-26T00-00-41Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.1.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.1.0), 5 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
