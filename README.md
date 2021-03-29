@@ -15,6 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (3 days ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (1 month ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (3 months ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (4 months ago)
@@ -24,7 +25,6 @@ Say Hello, I don't bite!
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (6 months ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (6 months ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (6 months ago)
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) - The Open Distro for Elasticsearch documentation. (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -33,6 +33,7 @@ Say Hello, I don't bite!
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.10.0](https://github.com/loft-sh/devspace/releases/tag/v5.10.0), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v4.1.5](https://github.com/lensapp/lens/releases/tag/v4.1.5), 3 days ago) - Lens - The Kubernetes IDE
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-03-26T00-00-41Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-03-26T00-00-41Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.1.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.1.0), 5 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.0](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.0), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 2 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
