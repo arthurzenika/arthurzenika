@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “Pour les Journées du Logiciel …”](https://social.logilab.org/@arthurlutz/105994826290140371) (today)
+- [arthurlutz: “Avec ma collègue Carine, nous …”](https://social.logilab.org/@arthurlutz/105994772908763949) (today)
 - [arthurlutz: “@NGIZero@mastodon.xyz  are you…”](https://social.logilab.org/@arthurlutz/105985043309463036) (2 days ago)
 - [arthurlutz: “Great news for the fediverse a…”](https://social.logilab.org/@arthurlutz/105985041778661705) (2 days ago)
 - [arthurlutz: “Pour les présentations du vend…”](https://social.logilab.org/@arthurlutz/105957080582230367) (1 week ago)
-- [arthurlutz: “Bientôt le weekend... …”](https://social.logilab.org/@arthurlutz/105956761599741745) (1 week ago)
-- [arthurlutz: “#security …”](https://social.logilab.org/@arthurlutz/105951319793774727) (1 week ago)
 
 #### 🌱 My latest projects
 
