@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (1 week ago)
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (2 weeks ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (2 months ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (4 months ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (4 months ago)
@@ -23,16 +23,16 @@ Say Hello, I don't bite!
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (6 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (6 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (6 months ago)
-- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (6 months ago)
+- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (7 months ago)
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.11.0-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.11.0-beta.1), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.25-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.25-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-04-06T23-11-00Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-04-06T23-11-00Z), 2 days ago) - High Performance, Kubernetes Native Object Storage
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 3 days ago) - The Open Distro for Elasticsearch documentation.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.11.0-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.11.0-beta.1), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.25-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.25-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-04-06T23-11-00Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-04-06T23-11-00Z), 3 days ago) - High Performance, Kubernetes Native Object Storage
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 4 days ago) - The Open Distro for Elasticsearch documentation.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v4.2.0](https://github.com/lensapp/lens/releases/tag/v4.2.0), 1 week ago) - Lens - The Kubernetes IDE
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.1.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.1.0), 2 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 2 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/105995941085811301) (6 days ago)
-- [arthurlutz: “Pour les Journées du Logiciel …”](https://social.logilab.org/@arthurlutz/105994826290140371) (6 days ago)
-- [arthurlutz: “Avec ma collègue Carine, nous …”](https://social.logilab.org/@arthurlutz/105994772908763949) (6 days ago)
+- [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/105995941085811301) (1 week ago)
+- [arthurlutz: “Pour les Journées du Logiciel …”](https://social.logilab.org/@arthurlutz/105994826290140371) (1 week ago)
+- [arthurlutz: “Avec ma collègue Carine, nous …”](https://social.logilab.org/@arthurlutz/105994772908763949) (1 week ago)
 - [arthurlutz: “@NGIZero@mastodon.xyz  are you…”](https://social.logilab.org/@arthurlutz/105985043309463036) (1 week ago)
 - [arthurlutz: “Great news for the fediverse a…”](https://social.logilab.org/@arthurlutz/105985041778661705) (1 week ago)
 
