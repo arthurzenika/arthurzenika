@@ -29,13 +29,13 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v5.0.0-alpha.4), today) - Lens - The Kubernetes IDE
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.26](https://github.com/vector-im/element-web/releases/tag/v1.7.26), 1 day ago) - A glossy Matrix collaboration client for the web.
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.12.1](https://github.com/loft-sh/devspace/releases/tag/v5.12.1), 4 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-04-22T15-44-28Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-04-22T15-44-28Z), 5 days ago) - High Performance, Kubernetes Native Object Storage
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v5.0.0-alpha.4), 1 day ago) - Lens - The Kubernetes IDE
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.26](https://github.com/vector-im/element-web/releases/tag/v1.7.26), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.12.1](https://github.com/loft-sh/devspace/releases/tag/v5.12.1), 5 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-04-22T15-44-28Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-04-22T15-44-28Z), 6 days ago) - High Performance, Kubernetes Native Object Storage
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.1.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.1.0), 1 month ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 2 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
+- [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 3 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 - [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
 #### 📜 My recent blog posts in 🇫🇷
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Bonne et mauvaise nouvelle wor…”](https://social.logilab.org/@arthurlutz/106136574379627014) (today)
-- [arthurlutz: “Workadventure https://workadve…”](https://social.logilab.org/@arthurlutz/106136363328944285) (today)
-- [arthurlutz: “Dear ActivityPub &#43; Github &#43; Ma…”](https://social.logilab.org/@arthurlutz/106103379569260404) (6 days ago)
+- [arthurlutz: “Bonne et mauvaise nouvelle wor…”](https://social.logilab.org/@arthurlutz/106136574379627014) (1 day ago)
+- [arthurlutz: “Workadventure https://workadve…”](https://social.logilab.org/@arthurlutz/106136363328944285) (1 day ago)
+- [arthurlutz: “Dear ActivityPub &#43; Github &#43; Ma…”](https://social.logilab.org/@arthurlutz/106103379569260404) (1 week ago)
 - [arthurlutz: “@ayo@lonely.town hey ! I wante…”](https://social.logilab.org/@arthurlutz/106069470462494020) (1 week ago)
 - [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/105995941085811301) (3 weeks ago)
 
