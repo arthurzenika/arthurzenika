@@ -32,7 +32,6 @@ Say Hello, I don't bite!
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.2), today) - Lens - The Kubernetes IDE
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.26](https://github.com/vector-im/element-web/releases/tag/v1.7.26), 3 days ago) - A glossy Matrix collaboration client for the web.
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.12.1](https://github.com/loft-sh/devspace/releases/tag/v5.12.1), 6 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2021-04-22T15-44-28Z](https://github.com/minio/minio/releases/tag/RELEASE.2021-04-22T15-44-28Z), 1 week ago) - High Performance, Kubernetes Native Object Storage
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 3 weeks ago) - The Open Distro for Elasticsearch documentation.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.1.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.1.0), 1 month ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 3 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
