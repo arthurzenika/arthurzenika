@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.2), 4 days ago) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.2), 5 days ago) - Lens - The Kubernetes IDE
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.26](https://github.com/vector-im/element-web/releases/tag/v1.7.26), 1 week ago) - A glossy Matrix collaboration client for the web.
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.12.1](https://github.com/loft-sh/devspace/releases/tag/v5.12.1), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 4 weeks ago) - The Open Distro for Elasticsearch documentation.
@@ -55,8 +55,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Bonne et mauvaise nouvelle wor…”](https://social.logilab.org/@arthurlutz/106136574379627014) (6 days ago)
-- [arthurlutz: “Workadventure https://workadve…”](https://social.logilab.org/@arthurlutz/106136363328944285) (6 days ago)
+- [arthurlutz: “Bonne et mauvaise nouvelle wor…”](https://social.logilab.org/@arthurlutz/106136574379627014) (1 week ago)
+- [arthurlutz: “Workadventure https://workadve…”](https://social.logilab.org/@arthurlutz/106136363328944285) (1 week ago)
 - [arthurlutz: “Dear ActivityPub &#43; Github &#43; Ma…”](https://social.logilab.org/@arthurlutz/106103379569260404) (1 week ago)
 - [arthurlutz: “@ayo@lonely.town hey ! I wante…”](https://social.logilab.org/@arthurlutz/106069470462494020) (2 weeks ago)
 - [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/105995941085811301) (1 month ago)
