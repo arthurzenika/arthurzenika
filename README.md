@@ -35,7 +35,6 @@ Say Hello, I don't bite!
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.1.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.1.0), 1 month ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 3 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
-- [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) ([v0.0.9](https://github.com/projectatomic/dockerfile_lint/releases/tag/v0.0.9), 5 years ago) - 
 
 #### 📜 My recent blog posts in 🇫🇷
 
