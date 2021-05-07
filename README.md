@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.3](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.3), 1 day ago) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.4](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.4), today) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.12.2](https://github.com/loft-sh/devspace/releases/tag/v5.12.2), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.27-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.27-rc.1), 3 days ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
