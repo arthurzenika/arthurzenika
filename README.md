@@ -20,18 +20,18 @@ Say Hello, I don't bite!
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (4 months ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (5 months ago)
 - [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (5 months ago)
-- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (6 months ago)
+- [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (7 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (7 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (7 months ago)
 - [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (7 months ago)
-- [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (7 months ago)
+- [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization (8 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.3](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.3), today) - Lens - The Kubernetes IDE
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.12.2](https://github.com/loft-sh/devspace/releases/tag/v5.12.2), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.27-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.27-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.3](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.3), 1 day ago) - Lens - The Kubernetes IDE
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.12.2](https://github.com/loft-sh/devspace/releases/tag/v5.12.2), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.27-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.27-rc.1), 3 days ago) - A glossy Matrix collaboration client for the web.
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.1.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.1.0), 1 month ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 3 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
@@ -54,8 +54,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Switch fiberchannel  (https://…”](https://social.logilab.org/@arthurlutz/106188385038716935) (today)
-- [arthurlutz: “Pro tip: resserer les vis de s…”](https://social.logilab.org/@arthurlutz/106176338365005602) (2 days ago)
+- [arthurlutz: “Switch fiberchannel  (https://…”](https://social.logilab.org/@arthurlutz/106188385038716935) (1 day ago)
+- [arthurlutz: “Pro tip: resserer les vis de s…”](https://social.logilab.org/@arthurlutz/106176338365005602) (3 days ago)
 - [arthurlutz: “Bonne et mauvaise nouvelle wor…”](https://social.logilab.org/@arthurlutz/106136574379627014) (1 week ago)
 - [arthurlutz: “Workadventure https://workadve…”](https://social.logilab.org/@arthurlutz/106136363328944285) (1 week ago)
 - [arthurlutz: “Dear ActivityPub &#43; Github &#43; Ma…”](https://social.logilab.org/@arthurlutz/106103379569260404) (2 weeks ago)
