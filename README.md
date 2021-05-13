@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0-beta.0](https://github.com/loft-sh/devspace/releases/tag/v5.13.0-beta.0), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.28-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.28-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.0-rc.1), 1 day ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.4](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.4), 5 days ago) - Lens - The Kubernetes IDE
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0-beta.0](https://github.com/loft-sh/devspace/releases/tag/v5.13.0-beta.0), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.28-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.28-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.0-rc.1), 2 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.4](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.4), 6 days ago) - Lens - The Kubernetes IDE
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 3 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 
@@ -54,7 +54,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Switch fiberchannel  (https://…”](https://social.logilab.org/@arthurlutz/106188385038716935) (6 days ago)
+- [arthurlutz: “Switch fiberchannel  (https://…”](https://social.logilab.org/@arthurlutz/106188385038716935) (1 week ago)
 - [arthurlutz: “Pro tip: resserer les vis de s…”](https://social.logilab.org/@arthurlutz/106176338365005602) (1 week ago)
 - [arthurlutz: “Bonne et mauvaise nouvelle wor…”](https://social.logilab.org/@arthurlutz/106136574379627014) (2 weeks ago)
 - [arthurlutz: “Workadventure https://workadve…”](https://social.logilab.org/@arthurlutz/106136363328944285) (2 weeks ago)
