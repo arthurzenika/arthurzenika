@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (1 month ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (3 months ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (5 months ago)
-- [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (5 months ago)
+- [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (6 months ago)
 - [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (6 months ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (7 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (8 months ago)
@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.13.0-beta.1), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.28-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.28-rc.1), 5 days ago) - A glossy Matrix collaboration client for the web.
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.0-rc.1), 5 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.13.0-beta.1), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.28-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.28-rc.1), 6 days ago) - A glossy Matrix collaboration client for the web.
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.0-rc.1), 6 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.4](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.4), 1 week ago) - Lens - The Kubernetes IDE
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 3 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
