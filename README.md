@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.13.0-beta.1), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0](https://github.com/loft-sh/devspace/releases/tag/v5.13.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.28-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.28-rc.1), 6 days ago) - A glossy Matrix collaboration client for the web.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.0-rc.1), 6 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.4](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.4), 1 week ago) - Lens - The Kubernetes IDE
