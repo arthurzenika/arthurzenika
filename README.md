@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.6](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.6), today) - Lens - The Kubernetes IDE
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.29-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.29-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.5](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.5), 2 days ago) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0](https://github.com/loft-sh/devspace/releases/tag/v5.13.0), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.0-rc.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
