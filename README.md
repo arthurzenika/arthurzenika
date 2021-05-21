@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.6](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.6), today) - Lens - The Kubernetes IDE
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.29-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.29-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0](https://github.com/loft-sh/devspace/releases/tag/v5.13.0), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.6](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.6), 1 day ago) - Lens - The Kubernetes IDE
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.29-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.29-rc.1), 2 days ago) - A glossy Matrix collaboration client for the web.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0](https://github.com/loft-sh/devspace/releases/tag/v5.13.0), 4 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.0-rc.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 3 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
@@ -58,7 +58,7 @@ Say Hello, I don't bite!
 - [arthurlutz: “Pro tip: resserer les vis de s…”](https://social.logilab.org/@arthurlutz/106176338365005602) (2 weeks ago)
 - [arthurlutz: “Bonne et mauvaise nouvelle wor…”](https://social.logilab.org/@arthurlutz/106136574379627014) (3 weeks ago)
 - [arthurlutz: “Workadventure https://workadve…”](https://social.logilab.org/@arthurlutz/106136363328944285) (3 weeks ago)
-- [arthurlutz: “Dear ActivityPub &#43; Github &#43; Ma…”](https://social.logilab.org/@arthurlutz/106103379569260404) (4 weeks ago)
+- [arthurlutz: “Dear ActivityPub &#43; Github &#43; Ma…”](https://social.logilab.org/@arthurlutz/106103379569260404) (1 month ago)
 
 #### 🌱 My latest projects
 
