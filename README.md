@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.29](https://github.com/vector-im/element-web/releases/tag/v1.7.29), 2 days ago) - A glossy Matrix collaboration client for the web.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.6](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.6), 6 days ago) - Lens - The Kubernetes IDE
+- [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.29](https://github.com/vector-im/element-web/releases/tag/v1.7.29), 3 days ago) - A glossy Matrix collaboration client for the web.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.6](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.6), 1 week ago) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.13.0](https://github.com/loft-sh/devspace/releases/tag/v5.13.0), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.0-rc.1), 2 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
@@ -54,10 +54,10 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Est-ce que ce serait https://e…”](https://social.logilab.org/@arthurlutz/106302019375764147) (today)
-- [arthurlutz: “Hey, les fans de #debian il y …”](https://social.logilab.org/@arthurlutz/106302015722287962) (today)
-- [arthurlutz: “Présentation du vendredi #5min…”](https://social.logilab.org/@arthurlutz/106273374088713226) (5 days ago)
-- [arthurlutz: “Switch fiberchannel  (https://…”](https://social.logilab.org/@arthurlutz/106188385038716935) (2 weeks ago)
+- [arthurlutz: “Est-ce que ce serait https://e…”](https://social.logilab.org/@arthurlutz/106302019375764147) (1 day ago)
+- [arthurlutz: “Hey, les fans de #debian il y …”](https://social.logilab.org/@arthurlutz/106302015722287962) (1 day ago)
+- [arthurlutz: “Présentation du vendredi #5min…”](https://social.logilab.org/@arthurlutz/106273374088713226) (6 days ago)
+- [arthurlutz: “Switch fiberchannel  (https://…”](https://social.logilab.org/@arthurlutz/106188385038716935) (3 weeks ago)
 - [arthurlutz: “Pro tip: resserer les vis de s…”](https://social.logilab.org/@arthurlutz/106176338365005602) (3 weeks ago)
 
 #### 🌱 My latest projects
