@@ -16,6 +16,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. (4 days ago)
+- [AndreaGreco/prometeus_uwsgi_exporter](https://github.com/AndreaGreco/prometeus_uwsgi_exporter) -  (1 week ago)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (2 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (3 months ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (5 months ago)
@@ -24,7 +25,6 @@ Say Hello, I don't bite!
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (7 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (8 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (8 months ago)
-- [Yelp/py_zipkin](https://github.com/Yelp/py_zipkin) - Provides utilities to facilitate the usage of Zipkin in Python (8 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
