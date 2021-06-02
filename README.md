@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.0-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.14.0-beta.1), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.16.0](https://github.com/certbot/certbot/releases/tag/v1.16.0), 1 day ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [vector-im/element-web](https://github.com/vector-im/element-web) ([v1.7.30-rc.1](https://github.com/vector-im/element-web/releases/tag/v1.7.30-rc.1), 1 day ago) - A glossy Matrix collaboration client for the web.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.1), 1 day ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
