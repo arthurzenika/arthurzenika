@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. (1 week ago)
-- [AndreaGreco/prometeus_uwsgi_exporter](https://github.com/AndreaGreco/prometeus_uwsgi_exporter) -  (1 week ago)
+- [AndreaGreco/prometeus_uwsgi_exporter](https://github.com/AndreaGreco/prometeus_uwsgi_exporter) -  (2 weeks ago)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (2 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (4 months ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (5 months ago)
@@ -29,11 +29,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.0), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [certbot/certbot](https://github.com/certbot/certbot) ([v1.16.0](https://github.com/certbot/certbot/releases/tag/v1.16.0), 2 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.1), 2 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.0), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [certbot/certbot](https://github.com/certbot/certbot) ([v1.16.0](https://github.com/certbot/certbot/releases/tag/v1.16.0), 3 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.1), 3 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.6](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.6), 2 weeks ago) - Lens - The Kubernetes IDE
-- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 1 month ago) - The Open Distro for Elasticsearch documentation.
+- [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 2 months ago) - The Open Distro for Elasticsearch documentation.
 - [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 4 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 
 #### 📜 My recent blog posts in 🇫🇷
@@ -56,7 +56,7 @@ Say Hello, I don't bite!
 
 - [arthurlutz: “Est-ce que ce serait https://e…”](https://social.logilab.org/@arthurlutz/106302019375764147) (1 week ago)
 - [arthurlutz: “Hey, les fans de #debian il y …”](https://social.logilab.org/@arthurlutz/106302015722287962) (1 week ago)
-- [arthurlutz: “Présentation du vendredi #5min…”](https://social.logilab.org/@arthurlutz/106273374088713226) (1 week ago)
+- [arthurlutz: “Présentation du vendredi #5min…”](https://social.logilab.org/@arthurlutz/106273374088713226) (2 weeks ago)
 - [arthurlutz: “Switch fiberchannel  (https://…”](https://social.logilab.org/@arthurlutz/106188385038716935) (4 weeks ago)
 - [arthurlutz: “Pro tip: resserer les vis de s…”](https://social.logilab.org/@arthurlutz/106176338365005602) (1 month ago)
 
