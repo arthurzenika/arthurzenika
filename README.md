@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.7](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.7), today) - Lens - The Kubernetes IDE
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.0), 6 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.7](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.7), 1 day ago) - Lens - The Kubernetes IDE
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.0), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.16.0](https://github.com/certbot/certbot/releases/tag/v1.16.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 2 months ago) - The Open Distro for Elasticsearch documentation.
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “☸️ https://github.com/wercker/…”](https://social.logilab.org/@arthurlutz/106353038528764082) (4 days ago)
-- [arthurlutz: “Présentation #5mintalk #logila…”](https://social.logilab.org/@arthurlutz/106353021172024239) (4 days ago)
-- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351741349088366) (4 days ago)
-- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351705562795336) (4 days ago)
-- [arthurlutz: “Pour celles et ceux qui ne sav…”](https://social.logilab.org/@arthurlutz/106351686728651554) (4 days ago)
+- [arthurlutz: “☸️ https://github.com/wercker/…”](https://social.logilab.org/@arthurlutz/106353038528764082) (5 days ago)
+- [arthurlutz: “Présentation #5mintalk #logila…”](https://social.logilab.org/@arthurlutz/106353021172024239) (5 days ago)
+- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351741349088366) (5 days ago)
+- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351705562795336) (5 days ago)
+- [arthurlutz: “Pour celles et ceux qui ne sav…”](https://social.logilab.org/@arthurlutz/106351686728651554) (5 days ago)
 
 #### 🌱 My latest projects
 
