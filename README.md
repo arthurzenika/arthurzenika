@@ -16,12 +16,12 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. (2 weeks ago)
-- [AndreaGreco/prometeus_uwsgi_exporter](https://github.com/AndreaGreco/prometeus_uwsgi_exporter) -  (2 weeks ago)
+- [AndreaGreco/prometeus_uwsgi_exporter](https://github.com/AndreaGreco/prometeus_uwsgi_exporter) -  (3 weeks ago)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (2 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (4 months ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (6 months ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (6 months ago)
-- [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (6 months ago)
+- [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (7 months ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (8 months ago)
 - [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (8 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (8 months ago)
@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.1-beta.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.1-beta.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.7](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.7), 2 days ago) - Lens - The Kubernetes IDE
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.1-beta.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.1-beta.0), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.7](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.7), 3 days ago) - Lens - The Kubernetes IDE
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.16.0](https://github.com/certbot/certbot/releases/tag/v1.16.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 2 months ago) - The Open Distro for Elasticsearch documentation.
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “☸️ https://github.com/wercker/…”](https://social.logilab.org/@arthurlutz/106353038528764082) (6 days ago)
-- [arthurlutz: “Présentation #5mintalk #logila…”](https://social.logilab.org/@arthurlutz/106353021172024239) (6 days ago)
-- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351741349088366) (6 days ago)
-- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351705562795336) (6 days ago)
-- [arthurlutz: “Pour celles et ceux qui ne sav…”](https://social.logilab.org/@arthurlutz/106351686728651554) (6 days ago)
+- [arthurlutz: “☸️ https://github.com/wercker/…”](https://social.logilab.org/@arthurlutz/106353038528764082) (1 week ago)
+- [arthurlutz: “Présentation #5mintalk #logila…”](https://social.logilab.org/@arthurlutz/106353021172024239) (1 week ago)
+- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351741349088366) (1 week ago)
+- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351705562795336) (1 week ago)
+- [arthurlutz: “Pour celles et ceux qui ne sav…”](https://social.logilab.org/@arthurlutz/106351686728651554) (1 week ago)
 
 #### 🌱 My latest projects
 
