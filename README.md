@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “Atelier #BlueHats …”](https://social.logilab.org/@arthurlutz/106391498872523388) (today)
 - [arthurlutz: “☸️ https://github.com/wercker/…”](https://social.logilab.org/@arthurlutz/106353038528764082) (1 week ago)
 - [arthurlutz: “Présentation #5mintalk #logila…”](https://social.logilab.org/@arthurlutz/106353021172024239) (1 week ago)
 - [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351741349088366) (1 week ago)
 - [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351705562795336) (1 week ago)
-- [arthurlutz: “Pour celles et ceux qui ne sav…”](https://social.logilab.org/@arthurlutz/106351686728651554) (1 week ago)
 
 #### 🌱 My latest projects
 
