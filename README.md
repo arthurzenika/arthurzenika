@@ -23,14 +23,14 @@ Say Hello, I don't bite!
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (6 months ago)
 - [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (7 months ago)
 - [mikegajda/gatsby-transformer-open-graph](https://github.com/mikegajda/gatsby-transformer-open-graph) - Gastby Transformer to Add Open Graph Data to a Node (8 months ago)
-- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (8 months ago)
+- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages (9 months ago)
 - [maelstrom-cms/odin](https://github.com/maelstrom-cms/odin) - An open-source domain monitoring tool built using Maelstrom 🤖 Uptime Robot &#43; 🧐 Oh Dear &#43; 🧪 SSL Labs &#43; ⏰ Cronitor &#43; 🕵🏻‍♂️ DNS Spy (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.8](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.8), 2 days ago) - Lens - The Kubernetes IDE
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.1-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.14.1-beta.1), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.8](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.8), 3 days ago) - Lens - The Kubernetes IDE
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.1-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.14.1-beta.1), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.16.0](https://github.com/certbot/certbot/releases/tag/v1.16.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.2.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.2.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 2 months ago) - The Open Distro for Elasticsearch documentation.
@@ -54,8 +54,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “☸️  Un opérateur Kubernetes po…”](https://social.logilab.org/@arthurlutz/106392968807200458) (2 days ago)
-- [arthurlutz: “Atelier #BlueHats …”](https://social.logilab.org/@arthurlutz/106391498872523388) (2 days ago)
+- [arthurlutz: “☸️  Un opérateur Kubernetes po…”](https://social.logilab.org/@arthurlutz/106392968807200458) (3 days ago)
+- [arthurlutz: “Atelier #BlueHats …”](https://social.logilab.org/@arthurlutz/106391498872523388) (3 days ago)
 - [arthurlutz: “☸️ https://github.com/wercker/…”](https://social.logilab.org/@arthurlutz/106353038528764082) (1 week ago)
 - [arthurlutz: “Présentation #5mintalk #logila…”](https://social.logilab.org/@arthurlutz/106353021172024239) (1 week ago)
 - [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351741349088366) (1 week ago)
