@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.2-beta.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.2-beta.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.2-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.14.2-beta.1), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.9](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.9), today) - Lens - The Kubernetes IDE
 - [salesforce/sloop](https://github.com/salesforce/sloop) ([v1.0](https://github.com/salesforce/sloop/releases/tag/v1.0), 2 days ago) - Kubernetes History Visualization
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.16.0](https://github.com/certbot/certbot/releases/tag/v1.16.0), 2 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
