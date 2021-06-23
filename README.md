@@ -64,6 +64,7 @@ Say Hello, I don't bite!
 
 #### 🌱 My latest projects
 
+- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) - 
 - [arthurlogilab/datocms-gatsby-portfolio-website-demo](https://github.com/arthurlogilab/datocms-gatsby-portfolio-website-demo) - 
 - [arthurlogilab/datocms-vue.js-profile-card-website-demo](https://github.com/arthurlogilab/datocms-vue.js-profile-card-website-demo) - 
 - [arthurlogilab/kitchen-transport-rsync](https://github.com/arthurlogilab/kitchen-transport-rsync) - 
