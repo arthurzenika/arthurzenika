@@ -16,6 +16,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
+- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (today)
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) - Run and manage Varnish clusters on Kubernetes (1 week ago)
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. (4 weeks ago)
@@ -24,7 +25,6 @@ Say Hello, I don't bite!
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (4 months ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (6 months ago)
 - [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (7 months ago)
-- [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -64,6 +64,7 @@ Say Hello, I don't bite!
 
 #### 🌱 My latest projects
 
+- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) - 
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) - 
 - [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) - 
 - [arthurlogilab/datocms-gatsby-portfolio-website-demo](https://github.com/arthurlogilab/datocms-gatsby-portfolio-website-demo) - 
