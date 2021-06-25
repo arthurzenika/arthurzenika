@@ -15,9 +15,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
-- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (today)
-- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
+- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 day ago)
+- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (1 day ago)
+- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (1 day ago)
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) - Run and manage Varnish clusters on Kubernetes (1 week ago)
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. (4 weeks ago)
 - [AndreaGreco/prometeus_uwsgi_exporter](https://github.com/AndreaGreco/prometeus_uwsgi_exporter) -  (1 month ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.11](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.11), today) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.0-beta.11](https://github.com/lensapp/lens/releases/tag/v5.0.0-beta.11), 1 day ago) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.2](https://github.com/loft-sh/devspace/releases/tag/v5.14.2), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [salesforce/sloop](https://github.com/salesforce/sloop) ([v1.0](https://github.com/salesforce/sloop/releases/tag/v1.0), 1 week ago) - Kubernetes History Visualization
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.16.0](https://github.com/certbot/certbot/releases/tag/v1.16.0), 3 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “☸️  Un opérateur Kubernetes po…”](https://social.logilab.org/@arthurlutz/106392968807200458) (1 week ago)
-- [arthurlutz: “Atelier #BlueHats …”](https://social.logilab.org/@arthurlutz/106391498872523388) (1 week ago)
-- [arthurlutz: “☸️ https://github.com/wercker/…”](https://social.logilab.org/@arthurlutz/106353038528764082) (2 weeks ago)
-- [arthurlutz: “Présentation #5mintalk #logila…”](https://social.logilab.org/@arthurlutz/106353021172024239) (2 weeks ago)
-- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351741349088366) (2 weeks ago)
+- [arthurlutz: “☸️  Un opérateur Kubernetes po…”](https://social.logilab.org/@arthurlutz/106392968807200458) (2 weeks ago)
+- [arthurlutz: “Atelier #BlueHats …”](https://social.logilab.org/@arthurlutz/106391498872523388) (2 weeks ago)
+- [arthurlutz: “☸️ https://github.com/wercker/…”](https://social.logilab.org/@arthurlutz/106353038528764082) (3 weeks ago)
+- [arthurlutz: “Présentation #5mintalk #logila…”](https://social.logilab.org/@arthurlutz/106353021172024239) (3 weeks ago)
+- [arthurlutz: “Atelier #BlueHats sur plotly/d…”](https://social.logilab.org/@arthurlutz/106351741349088366) (3 weeks ago)
 
 #### 🌱 My latest projects
 
