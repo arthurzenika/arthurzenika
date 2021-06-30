@@ -16,6 +16,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (today)
 - [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (6 days ago)
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) - Run and manage Varnish clusters on Kubernetes (2 weeks ago)
@@ -24,7 +25,6 @@ Say Hello, I don't bite!
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (3 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (4 months ago)
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. (6 months ago)
-- [DISIC/gazette-bluehats](https://github.com/DISIC/gazette-bluehats) - 🧢 La gazette du logiciel libre dans/pour l&#39;administration (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -64,6 +64,7 @@ Say Hello, I don't bite!
 
 #### 🌱 My latest projects
 
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) - 
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) - 
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) - 
 - [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) - 
