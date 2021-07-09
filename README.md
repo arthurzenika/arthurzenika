@@ -36,7 +36,6 @@ Say Hello, I don't bite!
 - [salesforce/sloop](https://github.com/salesforce/sloop) ([v1.1](https://github.com/salesforce/sloop/releases/tag/v1.1), 1 week ago) - Kubernetes History Visualization
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.27.3](https://github.com/IBM/varnish-operator/releases/tag/0.27.3), 2 months ago) - Run and manage Varnish clusters on Kubernetes
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 3 months ago) - The Open Distro for Elasticsearch documentation.
-- [jdhirst/ncc_cli](https://github.com/jdhirst/ncc_cli) ([0.0.7](https://github.com/jdhirst/ncc_cli/releases/tag/0.0.7), 5 months ago) - NextCloud  / ownCloud CLI Client - ncc_cli
 
 #### 📜 My recent blog posts in 🇫🇷
 
