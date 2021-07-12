@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.1.0-beta.1](https://github.com/lensapp/lens/releases/tag/v5.1.0-beta.1), today) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.4-beta.0](https://github.com/loft-sh/devspace/releases/tag/v5.14.4-beta.0), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.17.0](https://github.com/certbot/certbot/releases/tag/v1.17.0), 6 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.0.2](https://github.com/lensapp/lens/releases/tag/v5.0.2), 1 week ago) - Lens - The Kubernetes IDE
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.3.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.3.0-rc.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [salesforce/sloop](https://github.com/salesforce/sloop) ([v1.1](https://github.com/salesforce/sloop/releases/tag/v1.1), 2 weeks ago) - Kubernetes History Visualization
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.27.3](https://github.com/IBM/varnish-operator/releases/tag/0.27.3), 2 months ago) - Run and manage Varnish clusters on Kubernetes
