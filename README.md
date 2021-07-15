@@ -17,6 +17,7 @@ Say Hello, I don't bite!
 
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
 - [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (today)
+- [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (today)
 - [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
 - [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (1 week ago)
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (3 weeks ago)
@@ -24,13 +25,12 @@ Say Hello, I don't bite!
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. (1 month ago)
 - [AndreaGreco/prometeus_uwsgi_exporter](https://github.com/AndreaGreco/prometeus_uwsgi_exporter) -  (1 month ago)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser (3 months ago)
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.1.0](https://github.com/lensapp/lens/releases/tag/v5.1.0), today) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.4-beta.1](https://github.com/loft-sh/devspace/releases/tag/v5.14.4-beta.1), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.1.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.1.0-beta.2), 1 day ago) - Lens - The Kubernetes IDE
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.17.0](https://github.com/certbot/certbot/releases/tag/v1.17.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.3.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.3.0-rc.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [salesforce/sloop](https://github.com/salesforce/sloop) ([v1.1](https://github.com/salesforce/sloop/releases/tag/v1.1), 2 weeks ago) - Kubernetes History Visualization
@@ -63,6 +63,7 @@ Say Hello, I don't bite!
 
 #### 🌱 My latest projects
 
+- [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) - 
 - [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) - 
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) - 
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) - 
@@ -72,7 +73,6 @@ Say Hello, I don't bite!
 - [arthurlogilab/kitchen-transport-rsync](https://github.com/arthurlogilab/kitchen-transport-rsync) - 
 - [arthurlogilab/cubicweb-formula](https://github.com/arthurlogilab/cubicweb-formula) - 
 - [arthurlogilab/uptime-formula](https://github.com/arthurlogilab/uptime-formula) -  Set up and configure an uptime monitor with saltstack
-- [arthurlogilab/d14n.github.io](https://github.com/arthurlogilab/d14n.github.io) - d14n.github.io
 
 
 
