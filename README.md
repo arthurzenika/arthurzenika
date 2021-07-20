@@ -15,9 +15,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (today)
 - [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
-- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 day ago)
-- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (1 day ago)
 - [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (5 days ago)
 - [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (2 weeks ago)
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (3 weeks ago)
