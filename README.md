@@ -15,11 +15,11 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
-- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (today)
-- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
+- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 day ago)
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (1 day ago)
+- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (1 day ago)
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (1 week ago)
-- [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (1 week ago)
+- [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (2 weeks ago)
 - [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (3 weeks ago)
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (1 month ago)
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) - Run and manage Varnish clusters on Kubernetes (1 month ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.1.3](https://github.com/lensapp/lens/releases/tag/v5.1.3), 6 days ago) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.1.3](https://github.com/lensapp/lens/releases/tag/v5.1.3), 1 week ago) - Lens - The Kubernetes IDE
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.3.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.3.0), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.4](https://github.com/loft-sh/devspace/releases/tag/v5.14.4), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.17.0](https://github.com/certbot/certbot/releases/tag/v1.17.0), 3 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -55,7 +55,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentation du vendredi à @lo…”](https://social.logilab.org/@arthurlutz/106630296411279619) (5 days ago)
+- [arthurlutz: “Présentation du vendredi à @lo…”](https://social.logilab.org/@arthurlutz/106630296411279619) (6 days ago)
 - [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/106590760060732781) (1 week ago)
 - [arthurlutz: “Présentations du vendredi à Lo…”](https://social.logilab.org/@arthurlutz/106550809729011972) (2 weeks ago)
 - [arthurlutz: “Bringing emulation into the 21…”](https://social.logilab.org/@arthurlutz/106533490039812224) (3 weeks ago)
