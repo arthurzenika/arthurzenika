@@ -15,9 +15,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
-- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (today)
-- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
+- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 day ago)
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (1 day ago)
+- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (1 day ago)
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (1 week ago)
 - [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (2 weeks ago)
 - [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (3 weeks ago)
@@ -59,7 +59,7 @@ Say Hello, I don't bite!
 - [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/106590760060732781) (2 weeks ago)
 - [arthurlutz: “Présentations du vendredi à Lo…”](https://social.logilab.org/@arthurlutz/106550809729011972) (3 weeks ago)
 - [arthurlutz: “Bringing emulation into the 21…”](https://social.logilab.org/@arthurlutz/106533490039812224) (3 weeks ago)
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/106511288713918252) (4 weeks ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/106511288713918252) (1 month ago)
 
 #### 🌱 My latest projects
 
