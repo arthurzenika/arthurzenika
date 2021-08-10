@@ -15,10 +15,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
-- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (today)
-- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
-- [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (2 weeks ago)
+- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 day ago)
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (1 day ago)
+- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (1 day ago)
+- [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (3 weeks ago)
 - [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (3 weeks ago)
 - [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (1 month ago)
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (1 month ago)
@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [certbot/certbot](https://github.com/certbot/certbot) ([v1.18.0](https://github.com/certbot/certbot/releases/tag/v1.18.0), 6 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [certbot/certbot](https://github.com/certbot/certbot) ([v1.18.0](https://github.com/certbot/certbot/releases/tag/v1.18.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.1.3](https://github.com/lensapp/lens/releases/tag/v5.1.3), 2 weeks ago) - Lens - The Kubernetes IDE
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.3.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.3.0), 2 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.4](https://github.com/loft-sh/devspace/releases/tag/v5.14.4), 2 weeks ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.3.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.3.0), 3 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.4](https://github.com/loft-sh/devspace/releases/tag/v5.14.4), 3 weeks ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [salesforce/sloop](https://github.com/salesforce/sloop) ([v1.1](https://github.com/salesforce/sloop/releases/tag/v1.1), 1 month ago) - Kubernetes History Visualization
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.27.3](https://github.com/IBM/varnish-operator/releases/tag/0.27.3), 3 months ago) - Run and manage Varnish clusters on Kubernetes
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 4 months ago) - The Open Distro for Elasticsearch documentation.
