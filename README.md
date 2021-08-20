@@ -15,11 +15,11 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (today)
-- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
-- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (1 day ago)
-- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (1 day ago)
-- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (2 days ago)
+- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (1 day ago)
+- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 day ago)
+- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (2 days ago)
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (2 days ago)
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (3 days ago)
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (1 month ago)
 - [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (1 month ago)
 - [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (1 month ago)
@@ -29,12 +29,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.2.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.2.0-beta.2), 1 day ago) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.2.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.2.0-beta.2), 2 days ago) - Lens - The Kubernetes IDE
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.18.0](https://github.com/certbot/certbot/releases/tag/v1.18.0), 2 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.3.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.3.0), 1 month ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.14.4](https://github.com/loft-sh/devspace/releases/tag/v5.14.4), 1 month ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [salesforce/sloop](https://github.com/salesforce/sloop) ([v1.1](https://github.com/salesforce/sloop/releases/tag/v1.1), 1 month ago) - Kubernetes History Visualization
-- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.27.3](https://github.com/IBM/varnish-operator/releases/tag/0.27.3), 3 months ago) - Run and manage Varnish clusters on Kubernetes
+- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.27.3](https://github.com/IBM/varnish-operator/releases/tag/0.27.3), 4 months ago) - Run and manage Varnish clusters on Kubernetes
 - [opendistro/for-elasticsearch-docs](https://github.com/opendistro/for-elasticsearch-docs) ([v1.13.1](https://github.com/opendistro/for-elasticsearch-docs/releases/tag/v1.13.1), 4 months ago) - The Open Distro for Elasticsearch documentation.
 
 #### 📜 My recent blog posts in 🇫🇷
@@ -55,7 +55,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Présentation du vendredi à @lo…”](https://social.logilab.org/@arthurlutz/106630296411279619) (3 weeks ago)
+- [arthurlutz: “Présentation du vendredi à @lo…”](https://social.logilab.org/@arthurlutz/106630296411279619) (4 weeks ago)
 - [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/106590760060732781) (1 month ago)
 - [arthurlutz: “Présentations du vendredi à Lo…”](https://social.logilab.org/@arthurlutz/106550809729011972) (1 month ago)
 - [arthurlutz: “Bringing emulation into the 21…”](https://social.logilab.org/@arthurlutz/106533490039812224) (1 month ago)
