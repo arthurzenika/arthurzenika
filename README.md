@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “☸️ kubecolor : Colorize your k…”](https://social.logilab.org/@arthurlutz/106817034705966727) (today)
 - [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/106788624910156348) (5 days ago)
 - [arthurlutz: “☸️  kubescape is the first too…”](https://social.logilab.org/@arthurlutz/106787288656964215) (5 days ago)
 - [arthurlutz: “Présentation du vendredi à @lo…”](https://social.logilab.org/@arthurlutz/106630296411279619) (1 month ago)
 - [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/106590760060732781) (1 month ago)
-- [arthurlutz: “Présentations du vendredi à Lo…”](https://social.logilab.org/@arthurlutz/106550809729011972) (1 month ago)
 
 #### 🌱 My latest projects
 
