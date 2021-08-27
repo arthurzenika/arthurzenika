@@ -15,10 +15,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (3 days ago)
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (3 days ago)
-- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (6 days ago)
-- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (6 days ago)
+- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (4 days ago)
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (4 days ago)
+- [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (1 week ago)
+- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 week ago)
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (1 week ago)
 - [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (1 week ago)
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (1 month ago)
@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.376](https://github.com/bridgecrewio/checkov/releases/tag/2.0.376), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.15.0-beta.2](https://github.com/loft-sh/devspace/releases/tag/v5.15.0-beta.2), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.376](https://github.com/bridgecrewio/checkov/releases/tag/2.0.376), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.15.0-beta.2](https://github.com/loft-sh/devspace/releases/tag/v5.15.0-beta.2), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.2.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.2.0-beta.2), 1 week ago) - Lens - The Kubernetes IDE
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.18.0](https://github.com/certbot/certbot/releases/tag/v1.18.0), 3 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.3.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.3.0), 1 month ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “☸️ kubecolor : Colorize your k…”](https://social.logilab.org/@arthurlutz/106817034705966727) (1 day ago)
-- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/106788624910156348) (6 days ago)
-- [arthurlutz: “☸️  kubescape is the first too…”](https://social.logilab.org/@arthurlutz/106787288656964215) (6 days ago)
+- [arthurlutz: “☸️ kubecolor : Colorize your k…”](https://social.logilab.org/@arthurlutz/106817034705966727) (2 days ago)
+- [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/106788624910156348) (1 week ago)
+- [arthurlutz: “☸️  kubescape is the first too…”](https://social.logilab.org/@arthurlutz/106787288656964215) (1 week ago)
 - [arthurlutz: “Présentation du vendredi à @lo…”](https://social.logilab.org/@arthurlutz/106630296411279619) (1 month ago)
 - [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/106590760060732781) (1 month ago)
 
