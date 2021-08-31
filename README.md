@@ -15,12 +15,12 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (1 week ago)
+- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (today)
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (today)
+- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (today)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (1 week ago)
 - [arthurlogilab/dashlord-francearchives](https://github.com/arthurlogilab/dashlord-francearchives) -  (1 week ago)
-- [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 week ago)
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (1 week ago)
-- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (2 weeks ago)
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (1 month ago)
 - [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (1 month ago)
 - [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (1 month ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.384](https://github.com/bridgecrewio/checkov/releases/tag/2.0.384), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.385](https://github.com/bridgecrewio/checkov/releases/tag/2.0.385), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.0-rc.1), today) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.15.0-beta.2](https://github.com/loft-sh/devspace/releases/tag/v5.15.0-beta.2), 5 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.2.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.2.0-beta.2), 1 week ago) - Lens - The Kubernetes IDE
