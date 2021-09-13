@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.410](https://github.com/bridgecrewio/checkov/releases/tag/2.0.410), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.411](https://github.com/bridgecrewio/checkov/releases/tag/2.0.411), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.16.0-alpha.0](https://github.com/loft-sh/devspace/releases/tag/v5.16.0-alpha.0), 3 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.0), 4 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.2.0](https://github.com/lensapp/lens/releases/tag/v5.2.0), 5 days ago) - Lens - The Kubernetes IDE
