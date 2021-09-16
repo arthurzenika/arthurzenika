@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (3 days ago)
+- [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (4 days ago)
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (1 week ago)
 - [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (1 week ago)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (3 weeks ago)
@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.417](https://github.com/bridgecrewio/checkov/releases/tag/2.0.417), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.16.0-alpha.0](https://github.com/loft-sh/devspace/releases/tag/v5.16.0-alpha.0), 5 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.0), 6 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.417](https://github.com/bridgecrewio/checkov/releases/tag/2.0.417), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.16.0-alpha.0](https://github.com/loft-sh/devspace/releases/tag/v5.16.0-alpha.0), 6 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.0), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.2.0](https://github.com/lensapp/lens/releases/tag/v5.2.0), 1 week ago) - Lens - The Kubernetes IDE
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.19.0](https://github.com/certbot/certbot/releases/tag/v1.19.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.27.3](https://github.com/IBM/varnish-operator/releases/tag/0.27.3), 4 months ago) - Run and manage Varnish clusters on Kubernetes
@@ -54,7 +54,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “@xgarnier bienvenu sur notre i…”](https://social.logilab.org/@arthurlutz/106906828698280630) (5 days ago)
+- [arthurlutz: “@xgarnier bienvenu sur notre i…”](https://social.logilab.org/@arthurlutz/106906828698280630) (6 days ago)
 - [arthurlutz: “https://fasttrack.debian.net/ …”](https://social.logilab.org/@arthurlutz/106895965886808494) (1 week ago)
 - [arthurlutz: “☸️ kubecolor : Colorize your k…”](https://social.logilab.org/@arthurlutz/106817034705966727) (3 weeks ago)
 - [arthurlutz: “Présentations du vendredi #5mi…”](https://social.logilab.org/@arthurlutz/106788624910156348) (3 weeks ago)
