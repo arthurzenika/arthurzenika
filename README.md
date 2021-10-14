@@ -29,10 +29,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-alpha.2](https://github.com/lensapp/lens/releases/tag/v5.3.0-alpha.2), today) - Lens - The Kubernetes IDE
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.485](https://github.com/bridgecrewio/checkov/releases/tag/2.0.485), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.17.0-beta.4](https://github.com/loft-sh/devspace/releases/tag/v5.17.0-beta.4), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.1), 2 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-alpha.2](https://github.com/lensapp/lens/releases/tag/v5.3.0-alpha.2), 1 day ago) - Lens - The Kubernetes IDE
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.485](https://github.com/bridgecrewio/checkov/releases/tag/2.0.485), 2 days ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.17.0-beta.4](https://github.com/loft-sh/devspace/releases/tag/v5.17.0-beta.4), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.1), 3 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.20.0](https://github.com/certbot/certbot/releases/tag/v1.20.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.27.3](https://github.com/IBM/varnish-operator/releases/tag/0.27.3), 5 months ago) - Run and manage Varnish clusters on Kubernetes
 
@@ -54,7 +54,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Ça y est, j&#39;ai reçu mon badge …”](https://social.logilab.org/@arthurlutz/107088545428092883) (1 day ago)
+- [arthurlutz: “Ça y est, j&#39;ai reçu mon badge …”](https://social.logilab.org/@arthurlutz/107088545428092883) (2 days ago)
 - [arthurlutz: “#Paris #JeDonne #TeamRecup …”](https://social.logilab.org/@arthurlutz/107027124040831601) (1 week ago)
 - [arthurlutz: “Salut le #fediverse et les méd…”](https://social.logilab.org/@arthurlutz/107026844008763110) (1 week ago)
 - [arthurlutz: “Présentations du vendredi #log…”](https://social.logilab.org/@arthurlutz/107026516187430671) (1 week ago)
