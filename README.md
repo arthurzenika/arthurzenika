@@ -30,8 +30,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.556](https://github.com/bridgecrewio/checkov/releases/tag/2.0.556), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), today) - Run and manage Varnish clusters on Kubernetes
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.554](https://github.com/bridgecrewio/checkov/releases/tag/2.0.554), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-alpha.9](https://github.com/lensapp/lens/releases/tag/v5.3.0-alpha.9), 4 days ago) - Lens - The Kubernetes IDE
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.21.0](https://github.com/certbot/certbot/releases/tag/v1.21.0), 4 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.1), 4 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
