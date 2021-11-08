@@ -50,7 +50,7 @@ Say Hello, I don't bite!
 - [We went to FOSDEM 2016 (and cfgmgmtcamp)](https://www.logilab.org/blogentry/4253406) (5 years ago)
 - [Monitoring our websites before we deploy them using Salt](https://www.logilab.org/blogentry/288175) (6 years ago)
 - [A report on the Salt Sprint 2015 in Paris](https://www.logilab.org/blogentry/288007) (6 years ago)
-- [Generate stats from your SaltStack infrastructure](https://www.logilab.org/blogentry/283815) (6 years ago)
+- [Generate stats from your SaltStack infrastructure](https://www.logilab.org/blogentry/283815) (7 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
 
