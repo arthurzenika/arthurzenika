@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (4 days ago)
+- [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (5 days ago)
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (1 month ago)
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (2 months ago)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (2 months ago)
@@ -30,11 +30,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.554](https://github.com/bridgecrewio/checkov/releases/tag/2.0.554), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-alpha.9](https://github.com/lensapp/lens/releases/tag/v5.3.0-alpha.9), 3 days ago) - Lens - The Kubernetes IDE
-- [certbot/certbot](https://github.com/certbot/certbot) ([v1.21.0](https://github.com/certbot/certbot/releases/tag/v1.21.0), 3 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.554](https://github.com/bridgecrewio/checkov/releases/tag/2.0.554), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-alpha.9](https://github.com/lensapp/lens/releases/tag/v5.3.0-alpha.9), 4 days ago) - Lens - The Kubernetes IDE
+- [certbot/certbot](https://github.com/certbot/certbot) ([v1.21.0](https://github.com/certbot/certbot/releases/tag/v1.21.0), 4 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.0](https://github.com/IBM/varnish-operator/releases/tag/0.28.0), 2 weeks ago) - Run and manage Varnish clusters on Kubernetes
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.1), 3 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v3.4.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v3.4.1), 4 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 
 #### 📜 My recent blog posts in 🇫🇷
 
@@ -54,8 +54,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Mercredi prochain à Paris, nou…”](https://social.logilab.org/@arthurlutz/107225092816336760) (2 days ago)
-- [arthurlutz: “Mardi prochain à Paris, venez …”](https://social.logilab.org/@arthurlutz/107224985873850766) (2 days ago)
+- [arthurlutz: “Mercredi prochain à Paris, nou…”](https://social.logilab.org/@arthurlutz/107225092816336760) (3 days ago)
+- [arthurlutz: “Mardi prochain à Paris, venez …”](https://social.logilab.org/@arthurlutz/107224985873850766) (3 days ago)
 - [arthurlutz: “My colleages at @logilab ( 🗣️ …”](https://social.logilab.org/@arthurlutz/107132947215699732) (2 weeks ago)
 - [arthurlutz: “📻 🎧  Travail (en cours): A qui…”](https://social.logilab.org/@arthurlutz/107132397373759938) (2 weeks ago)
 - [arthurlutz: “Ça y est, j&#39;ai reçu mon badge …”](https://social.logilab.org/@arthurlutz/107088545428092883) (3 weeks ago)
