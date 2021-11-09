@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.558](https://github.com/bridgecrewio/checkov/releases/tag/2.0.558), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.559](https://github.com/bridgecrewio/checkov/releases/tag/2.0.559), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 1 day ago) - Run and manage Varnish clusters on Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-alpha.9](https://github.com/lensapp/lens/releases/tag/v5.3.0-alpha.9), 5 days ago) - Lens - The Kubernetes IDE
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.21.0](https://github.com/certbot/certbot/releases/tag/v1.21.0), 5 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247395070593166) (today)
-- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247341087515505) (today)
-- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247278646160217) (today)
-- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247239214883481) (today)
-- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247229020663953) (today)
+- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247619157562470) (today)
+- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247597045320388) (today)
+- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247584761331788) (today)
+- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247527012185880) (today)
+- [arthurlutz: “#OSXP2021 …”](https://social.logilab.org/@arthurlutz/107247517200648878) (today)
 
 #### 🌱 My latest projects
 
