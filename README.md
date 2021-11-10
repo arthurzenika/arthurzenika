@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.562](https://github.com/bridgecrewio/checkov/releases/tag/2.0.562), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.563](https://github.com/bridgecrewio/checkov/releases/tag/2.0.563), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-alpha.10](https://github.com/lensapp/lens/releases/tag/v5.3.0-alpha.10), 1 day ago) - Lens - The Kubernetes IDE
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 2 days ago) - Run and manage Varnish clusters on Kubernetes
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.21.0](https://github.com/certbot/certbot/releases/tag/v1.21.0), 6 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “#osxp2021…”](https://social.logilab.org/@arthurlutz/107252188264188489) (today)
+- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107252074253553572) (today)
+- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107252048126609985) (today)
 - [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107248025615335945) (1 day ago)
 - [arthurlutz: “#osxp2021  …”](https://social.logilab.org/@arthurlutz/107247992023847977) (1 day ago)
-- [arthurlutz: “#osxp2021 #bluehats …”](https://social.logilab.org/@arthurlutz/107247851903412416) (1 day ago)
-- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247619157562470) (1 day ago)
-- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107247597045320388) (1 day ago)
 
 #### 🌱 My latest projects
 
