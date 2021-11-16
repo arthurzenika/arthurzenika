@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.576](https://github.com/bridgecrewio/checkov/releases/tag/2.0.576), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.577](https://github.com/bridgecrewio/checkov/releases/tag/2.0.577), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-alpha.11](https://github.com/lensapp/lens/releases/tag/v5.3.0-alpha.11), 4 days ago) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.17.0](https://github.com/loft-sh/devspace/releases/tag/v5.17.0), 5 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 1 week ago) - Run and manage Varnish clusters on Kubernetes
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “🚀 Cloudron 7 released…”](https://social.logilab.org/@arthurlutz/107285896524900465) (today)
 - [arthurlutz: “#osxp2021 #diversité #womenint…”](https://social.logilab.org/@arthurlutz/107253711892470724) (6 days ago)
 - [arthurlutz: “#osxp2021 #diversité …”](https://social.logilab.org/@arthurlutz/107253553039324242) (6 days ago)
 - [arthurlutz: “#osxp2021  #diversité …”](https://social.logilab.org/@arthurlutz/107253540308541187) (6 days ago)
 - [arthurlutz: “#osxp2021  …”](https://social.logilab.org/@arthurlutz/107253531458808055) (6 days ago)
-- [arthurlutz: “#osxp2021 …”](https://social.logilab.org/@arthurlutz/107253356216850759) (6 days ago)
 
 #### 🌱 My latest projects
 
