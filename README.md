@@ -17,6 +17,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (1 day ago)
+- [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (1 day ago)
 - [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (2 weeks ago)
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (1 month ago)
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (2 months ago)
@@ -25,7 +26,6 @@ Say Hello, I don't bite!
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (3 months ago)
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (4 months ago)
 - [arthurlogilab/jupyterlite](https://github.com/arthurlogilab/jupyterlite) -  (4 months ago)
-- [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
