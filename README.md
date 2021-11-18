@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.586](https://github.com/bridgecrewio/checkov/releases/tag/2.0.586), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.587](https://github.com/bridgecrewio/checkov/releases/tag/2.0.587), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-beta.1](https://github.com/lensapp/lens/releases/tag/v5.3.0-beta.1), 1 day ago) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.17.0](https://github.com/loft-sh/devspace/releases/tag/v5.17.0), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 1 week ago) - Run and manage Varnish clusters on Kubernetes
