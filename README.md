@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.590](https://github.com/bridgecrewio/checkov/releases/tag/2.0.590), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.591](https://github.com/bridgecrewio/checkov/releases/tag/2.0.591), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.3.0-beta.2), 1 day ago) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.17.0](https://github.com/loft-sh/devspace/releases/tag/v5.17.0), 1 week ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 1 week ago) - Run and manage Varnish clusters on Kubernetes
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “🔒☁️ Meetup &#34;Cloud et Sécurité&#34;…”](https://social.logilab.org/@arthurlutz/107303070114719406) (today)
 - [arthurlutz: “#cloud #securité #YesWeScale …”](https://social.logilab.org/@arthurlutz/107297161268036142) (1 day ago)
 - [arthurlutz: “#cloud #securite #YesWeScale…”](https://social.logilab.org/@arthurlutz/107297148454889324) (1 day ago)
 - [arthurlutz: “Petite motivation pour un meet…”](https://social.logilab.org/@arthurlutz/107293452706445331) (2 days ago)
 - [arthurlutz: “🚀 Cloudron 7 released…”](https://social.logilab.org/@arthurlutz/107285896524900465) (3 days ago)
-- [arthurlutz: “#osxp2021 #diversité #womenint…”](https://social.logilab.org/@arthurlutz/107253711892470724) (1 week ago)
 
 #### 🌱 My latest projects
 
