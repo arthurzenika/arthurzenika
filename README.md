@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “Suite à la présentation, Yoeli…”](https://social.logilab.org/@arthurlutz/107327370446648830) (today)
+- [arthurlutz: “Présentation faite sur des exp…”](https://social.logilab.org/@arthurlutz/107327356869655695) (today)
 - [arthurlutz: “Open Source Experience 2021 - …”](https://social.logilab.org/@arthurlutz/107325679320775282) (today)
 - [arthurlutz: “🔒☁️ Meetup &#34;Cloud et Sécurité&#34;…”](https://social.logilab.org/@arthurlutz/107303070114719406) (4 days ago)
 - [arthurlutz: “#cloud #securité #YesWeScale …”](https://social.logilab.org/@arthurlutz/107297161268036142) (5 days ago)
-- [arthurlutz: “#cloud #securite #YesWeScale…”](https://social.logilab.org/@arthurlutz/107297148454889324) (5 days ago)
-- [arthurlutz: “Petite motivation pour un meet…”](https://social.logilab.org/@arthurlutz/107293452706445331) (6 days ago)
 
 #### 🌱 My latest projects
 
