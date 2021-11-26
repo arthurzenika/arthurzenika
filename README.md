@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 days ago)
+- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (3 days ago)
 - [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (1 week ago)
 - [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (1 week ago)
 - [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (3 weeks ago)
@@ -30,8 +30,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.605](https://github.com/bridgecrewio/checkov/releases/tag/2.0.605), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0](https://github.com/lensapp/lens/releases/tag/v5.3.0), today) - Lens - The Kubernetes IDE
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.605](https://github.com/bridgecrewio/checkov/releases/tag/2.0.605), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.0](https://github.com/lensapp/lens/releases/tag/v5.3.0), 1 day ago) - Lens - The Kubernetes IDE
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.17.0](https://github.com/loft-sh/devspace/releases/tag/v5.17.0), 2 weeks ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 2 weeks ago) - Run and manage Varnish clusters on Kubernetes
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.21.0](https://github.com/certbot/certbot/releases/tag/v1.21.0), 3 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “#TeamRecup …”](https://social.logilab.org/@arthurlutz/107338149098990120) (today)
-- [arthurlutz: “♻️  Hier, @logilab a fait don …”](https://social.logilab.org/@arthurlutz/107336905564460357) (today)
-- [arthurlutz: “Et les projets dont parle la c…”](https://social.logilab.org/@arthurlutz/107331050649220341) (1 day ago)
-- [arthurlutz: “Ce qui m&#39;a ensuite amené à reg…”](https://social.logilab.org/@arthurlutz/107331027737323570) (1 day ago)
-- [arthurlutz: “#OSXP2021 …”](https://social.logilab.org/@arthurlutz/107331022496584230) (1 day ago)
+- [arthurlutz: “#TeamRecup …”](https://social.logilab.org/@arthurlutz/107338149098990120) (1 day ago)
+- [arthurlutz: “♻️  Hier, @logilab a fait don …”](https://social.logilab.org/@arthurlutz/107336905564460357) (1 day ago)
+- [arthurlutz: “Et les projets dont parle la c…”](https://social.logilab.org/@arthurlutz/107331050649220341) (2 days ago)
+- [arthurlutz: “Ce qui m&#39;a ensuite amené à reg…”](https://social.logilab.org/@arthurlutz/107331027737323570) (2 days ago)
+- [arthurlutz: “#OSXP2021 …”](https://social.logilab.org/@arthurlutz/107331022496584230) (2 days ago)
 
 #### 🌱 My latest projects
 
