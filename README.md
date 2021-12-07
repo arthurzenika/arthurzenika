@@ -30,8 +30,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.18.0-beta.3](https://github.com/loft-sh/devspace/releases/tag/v5.18.0-beta.3), today) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.632](https://github.com/bridgecrewio/checkov/releases/tag/2.0.632), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.18.0-beta.2](https://github.com/loft-sh/devspace/releases/tag/v5.18.0-beta.2), 4 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.2](https://github.com/lensapp/lens/releases/tag/v5.3.2), 5 days ago) - Lens - The Kubernetes IDE
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.0.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.0.0-rc.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 4 weeks ago) - Run and manage Varnish clusters on Kubernetes
