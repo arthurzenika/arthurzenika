@@ -30,12 +30,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [certbot/certbot](https://github.com/certbot/certbot) ([v1.22.0](https://github.com/certbot/certbot/releases/tag/v1.22.0), today) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.18.0-beta.4](https://github.com/loft-sh/devspace/releases/tag/v5.18.0-beta.4), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.634](https://github.com/bridgecrewio/checkov/releases/tag/2.0.634), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.2](https://github.com/lensapp/lens/releases/tag/v5.3.2), 6 days ago) - Lens - The Kubernetes IDE
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.0.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.0.0-rc.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 1 month ago) - Run and manage Varnish clusters on Kubernetes
-- [certbot/certbot](https://github.com/certbot/certbot) ([v1.21.0](https://github.com/certbot/certbot/releases/tag/v1.21.0), 1 month ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 
 #### 📜 My recent blog posts in 🇫🇷
 
