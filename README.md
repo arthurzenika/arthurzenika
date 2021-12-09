@@ -30,10 +30,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.639](https://github.com/bridgecrewio/checkov/releases/tag/2.0.639), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [certbot/certbot](https://github.com/certbot/certbot) ([v1.22.0](https://github.com/certbot/certbot/releases/tag/v1.22.0), today) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.18.0-beta.4](https://github.com/loft-sh/devspace/releases/tag/v5.18.0-beta.4), 1 day ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.2](https://github.com/lensapp/lens/releases/tag/v5.3.2), 6 days ago) - Lens - The way the world runs Kubernetes
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.639](https://github.com/bridgecrewio/checkov/releases/tag/2.0.639), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [certbot/certbot](https://github.com/certbot/certbot) ([v1.22.0](https://github.com/certbot/certbot/releases/tag/v1.22.0), 1 day ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) ([v5.18.0-beta.4](https://github.com/loft-sh/devspace/releases/tag/v5.18.0-beta.4), 2 days ago) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.2](https://github.com/lensapp/lens/releases/tag/v5.3.2), 1 week ago) - Lens - The way the world runs Kubernetes
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.0.0-rc.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.0.0-rc.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 1 month ago) - Run and manage Varnish clusters on Kubernetes
 
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “📺 SparqlExplorer, exploring Li…”](https://social.logilab.org/@arthurlutz/107376849032712896) (6 days ago)
+- [arthurlutz: “📺 SparqlExplorer, exploring Li…”](https://social.logilab.org/@arthurlutz/107376849032712896) (1 week ago)
 - [arthurlutz: “#5mintalk #logilabcafé  …”](https://social.logilab.org/@arthurlutz/107344136426130368) (1 week ago)
 - [arthurlutz: “♻️ #TeamRecup …”](https://social.logilab.org/@arthurlutz/107342956745539708) (1 week ago)
-- [arthurlutz: “#TeamRecup …”](https://social.logilab.org/@arthurlutz/107338149098990120) (1 week ago)
-- [arthurlutz: “♻️  Hier, @logilab a fait don …”](https://social.logilab.org/@arthurlutz/107336905564460357) (1 week ago)
+- [arthurlutz: “#TeamRecup …”](https://social.logilab.org/@arthurlutz/107338149098990120) (2 weeks ago)
+- [arthurlutz: “♻️  Hier, @logilab a fait don …”](https://social.logilab.org/@arthurlutz/107336905564460357) (2 weeks ago)
 
 #### 🌱 My latest projects
 
