@@ -16,10 +16,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 weeks ago)
+- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (3 weeks ago)
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable ! (3 weeks ago)
-- [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (3 weeks ago)
-- [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (3 weeks ago)
+- [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (4 weeks ago)
+- [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (4 weeks ago)
 - [arthurlogilab/dashlord-clients](https://github.com/arthurlogilab/dashlord-clients) -  (1 month ago)
 - [arthurlogilab/dashlord-siaf](https://github.com/arthurlogilab/dashlord-siaf) -  (2 months ago)
 - [arthurlogilab/dashlord-logilab](https://github.com/arthurlogilab/dashlord-logilab) -  (3 months ago)
@@ -30,9 +30,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.659](https://github.com/bridgecrewio/checkov/releases/tag/2.0.659), today) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.0.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.0.0), today) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [certbot/certbot](https://github.com/certbot/certbot) ([v1.22.0](https://github.com/certbot/certbot/releases/tag/v1.22.0), 5 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.659](https://github.com/bridgecrewio/checkov/releases/tag/2.0.659), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.0.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.0.0), 1 day ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [certbot/certbot](https://github.com/certbot/certbot) ([v1.22.0](https://github.com/certbot/certbot/releases/tag/v1.22.0), 6 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.2](https://github.com/lensapp/lens/releases/tag/v5.3.2), 1 week ago) - Lens - The way the world runs Kubernetes
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.1](https://github.com/IBM/varnish-operator/releases/tag/0.28.1), 1 month ago) - Run and manage Varnish clusters on Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 2 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -55,8 +55,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (3 days ago)
-- [arthurlutz: “C&#39;est le moment d&#39;ouvrir la fe…”](https://social.logilab.org/@arthurlutz/107417635436592654) (4 days ago)
+- [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (4 days ago)
+- [arthurlutz: “C&#39;est le moment d&#39;ouvrir la fe…”](https://social.logilab.org/@arthurlutz/107417635436592654) (5 days ago)
 - [arthurlutz: “📺 SparqlExplorer, exploring Li…”](https://social.logilab.org/@arthurlutz/107376849032712896) (1 week ago)
 - [arthurlutz: “#5mintalk #logilabcafé  …”](https://social.logilab.org/@arthurlutz/107344136426130368) (2 weeks ago)
 - [arthurlutz: “♻️ #TeamRecup …”](https://social.logilab.org/@arthurlutz/107342956745539708) (2 weeks ago)
