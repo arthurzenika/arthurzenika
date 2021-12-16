@@ -39,11 +39,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts in 🇫🇷
 
+- [Au revoir Logilab 👋](https://www.logilab.org/blogentry/10326884) (today)
 - [Meetup Cloud Native Computing Nantes - Juin 2019 - Linkdump](https://www.logilab.org/blogentry/10132594) (2 years ago)
 - [Les objectifs et l&#39;histoire des présentations internes &#34;5mintalk&#34;](https://www.logilab.org/blogentry/10131689) (2 years ago)
 - [Retour sur le Workshop Prometheus et Grafana - Nantes 2019](https://www.logilab.org/blogentry/10131299) (2 years ago)
 - [Rencontres Debian Nantes - janvier 2019](https://www.logilab.org/blogentry/10131004) (2 years ago)
-- [Logilab à Pas Sage en Seine 2018 #PSES2018](https://www.logilab.org/blogentry/10128951) (3 years ago)
 
 #### 📜 My recent blog posts in 🇬🇧
 
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (today)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (6 days ago)
 - [arthurlutz: “C&#39;est le moment d&#39;ouvrir la fe…”](https://social.logilab.org/@arthurlutz/107417635436592654) (1 week ago)
 - [arthurlutz: “📺 SparqlExplorer, exploring Li…”](https://social.logilab.org/@arthurlutz/107376849032712896) (2 weeks ago)
 - [arthurlutz: “#5mintalk #logilabcafé  …”](https://social.logilab.org/@arthurlutz/107344136426130368) (2 weeks ago)
-- [arthurlutz: “♻️ #TeamRecup …”](https://social.logilab.org/@arthurlutz/107342956745539708) (2 weeks ago)
 
 #### 🌱 My latest projects
 
