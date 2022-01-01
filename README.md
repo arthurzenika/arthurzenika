@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.701](https://github.com/bridgecrewio/checkov/releases/tag/2.0.701), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.701](https://github.com/bridgecrewio/checkov/releases/tag/2.0.701), 2 days ago) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v5.3.3](https://github.com/lensapp/lens/releases/tag/v5.3.3), 2 weeks ago) - Lens - The way the world runs Kubernetes
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.0.0](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.0.0), 2 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.22.0](https://github.com/certbot/certbot/releases/tag/v1.22.0), 3 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -58,7 +58,7 @@ Say Hello, I don't bite!
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (2 weeks ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (3 weeks ago)
 - [arthurlutz: “C&#39;est le moment d&#39;ouvrir la fe…”](https://social.logilab.org/@arthurlutz/107417635436592654) (3 weeks ago)
-- [arthurlutz: “📺 SparqlExplorer, exploring Li…”](https://social.logilab.org/@arthurlutz/107376849032712896) (4 weeks ago)
+- [arthurlutz: “📺 SparqlExplorer, exploring Li…”](https://social.logilab.org/@arthurlutz/107376849032712896) (1 month ago)
 - [arthurlutz: “#5mintalk #logilabcafé  …”](https://social.logilab.org/@arthurlutz/107344136426130368) (1 month ago)
 
 #### 🌱 My latest projects
