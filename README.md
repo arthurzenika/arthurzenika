@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts in 🇫🇷
 
-- [Au revoir Logilab 👋](https://www.logilab.org/blogentry/10326884) (3 weeks ago)
+- [Au revoir Logilab 👋](https://www.logilab.org/blogentry/10326884) (4 weeks ago)
 - [Meetup Cloud Native Computing Nantes - Juin 2019 - Linkdump](https://www.logilab.org/blogentry/10132594) (2 years ago)
 - [Les objectifs et l&#39;histoire des présentations internes &#34;5mintalk&#34;](https://www.logilab.org/blogentry/10131689) (2 years ago)
 - [Retour sur le Workshop Prometheus et Grafana - Nantes 2019](https://www.logilab.org/blogentry/10131299) (2 years ago)
