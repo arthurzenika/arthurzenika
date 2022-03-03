@@ -4,11 +4,12 @@
 
 - Twitter 🐦: https://twitter.com/arthurlutz
 - Fediverse 🐘 : https://social.logilab.org/@arthurlutz
-- Contact 📥 : https://www.logilab.fr/id/arthur.lutz
+- LinkedIn 👔:  https://www.linkedin.com/in/arthur-lutz-445a8a4a
+
+#### Previous job - Logilab
+
 - Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
 - Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
-- Matrix 💬: https://matrix.to/#/@alutz:matrix.logilab.org
-- LinkedIn 👔:  https://www.linkedin.com/in/arthur-lutz-445a8a4a
 
 #### 💬 Feedback
 
