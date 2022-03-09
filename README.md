@@ -8,6 +8,7 @@
 
 #### Previous job - Logilab
 
+- Blog : https://arthur.pages.logilab.fr/blog/
 - Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
 - Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
 
@@ -37,23 +38,29 @@ Say Hello, I don't bite!
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.2](https://github.com/IBM/varnish-operator/releases/tag/0.28.2), 1 month ago) - Run and manage Varnish clusters on Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 5 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
+#### 📜 My recent blog posts 
+
+- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (2 months ago)
+- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (3 months ago)
+- [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (1 year ago)
+- [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (1 year ago)
+- [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (1 year ago)
+
 #### 📜 My recent blog posts in 🇫🇷
 
 - [Au revoir Logilab 👋](https://www.logilab.org/blogentry/10326884) (2 months ago)
 - [Meetup Cloud Native Computing Nantes - Juin 2019 - Linkdump](https://www.logilab.org/blogentry/10132594) (2 years ago)
 - [Les objectifs et l&#39;histoire des présentations internes &#34;5mintalk&#34;](https://www.logilab.org/blogentry/10131689) (2 years ago)
-- [Retour sur le Workshop Prometheus et Grafana - Nantes 2019](https://www.logilab.org/blogentry/10131299) (3 years ago)
-- [Rencontres Debian Nantes - janvier 2019](https://www.logilab.org/blogentry/10131004) (3 years ago)
 
 #### 📜 My recent blog posts in 🇬🇧
 
 - [We went to cfgmgmtcamp 2016 (after FOSDEM)](https://www.logilab.org/blogentry/4253513) (6 years ago)
 - [We went to FOSDEM 2016 (and cfgmgmtcamp)](https://www.logilab.org/blogentry/4253406) (6 years ago)
 - [Monitoring our websites before we deploy them using Salt](https://www.logilab.org/blogentry/288175) (7 years ago)
-- [A report on the Salt Sprint 2015 in Paris](https://www.logilab.org/blogentry/288007) (7 years ago)
-- [Generate stats from your SaltStack infrastructure](https://www.logilab.org/blogentry/283815) (7 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
+
+- [arthurzenika: “🆕📰 Nouveau chapitre de ma vie …”](https://pouet.chapril.org/@arthurzenika/107925896841768962) (today)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (2 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (2 months ago)
