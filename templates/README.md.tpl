@@ -8,6 +8,7 @@
 
 #### Previous job - Logilab
 
+- Blog : https://arthur.pages.logilab.fr/blog/
 - Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
 - Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
 
@@ -26,17 +27,25 @@ Say Hello, I don't bite!
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
+#### 📜 My recent blog posts 
+{{range rss "https://arthur.pages.logilab.fr/blog/feed.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### 📜 My recent blog posts in 🇫🇷
-{{range rss "https://www.logilab.org/blog/6724/blogentries/alutz?vid=rss" 5}}
+{{range rss "https://www.logilab.org/blog/6724/blogentries/alutz?vid=rss" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📜 My recent blog posts in 🇬🇧
-{{range rss "https://www.logilab.org/blog/6056/blogentries/alutz?vid=rss" 5}}
+{{range rss "https://www.logilab.org/blog/6056/blogentries/alutz?vid=rss" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📜 My recent posts on the fediverse 🐘
+{{range rss "https://pouet.chapril.org/@arthurzenika.rss" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 {{range rss "https://social.logilab.org/@arthurlutz.rss" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
