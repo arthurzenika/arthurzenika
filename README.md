@@ -18,6 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (today)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (3 months ago)
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable ! (3 months ago)
 - [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (3 months ago)
@@ -27,7 +28,6 @@ Say Hello, I don't bite!
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (7 months ago)
 - [arthurzenika/jupyterlite](https://github.com/arthurzenika/jupyterlite) -  (7 months ago)
 - [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku. (8 months ago)
-- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) - Run and manage Varnish clusters on Kubernetes (8 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -70,6 +70,7 @@ Say Hello, I don't bite!
 
 #### 🌱 My latest projects
 
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites
 - [arthurzenika/jupyterlite](https://github.com/arthurzenika/jupyterlite) - 
 - [arthurzenika/datocms-gatsby-portfolio-website-demo](https://github.com/arthurzenika/datocms-gatsby-portfolio-website-demo) - 
 - [arthurzenika/datocms-vue.js-profile-card-website-demo](https://github.com/arthurzenika/datocms-vue.js-profile-card-website-demo) - 
