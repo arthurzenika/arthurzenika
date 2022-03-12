@@ -18,9 +18,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (today)
-- [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (today)
-- [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (1 day ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 day ago)
+- [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (1 day ago)
+- [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (2 days ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (3 months ago)
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable ! (3 months ago)
 - [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (3 months ago)
@@ -32,8 +32,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.938](https://github.com/bridgecrewio/checkov/releases/tag/2.0.938), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.1.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.1.1), 3 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.938](https://github.com/bridgecrewio/checkov/releases/tag/2.0.938), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.1.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.1.1), 4 days ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.24.0](https://github.com/certbot/certbot/releases/tag/v1.24.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.2](https://github.com/IBM/varnish-operator/releases/tag/0.28.2), 1 month ago) - Run and manage Varnish clusters on Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 5 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -60,7 +60,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurzenika: “🆕📰 Nouveau chapitre de ma vie …”](https://pouet.chapril.org/@arthurzenika/107925896841768962) (2 days ago)
+- [arthurzenika: “🆕📰 Nouveau chapitre de ma vie …”](https://pouet.chapril.org/@arthurzenika/107925896841768962) (3 days ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (2 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (3 months ago)
