@@ -60,6 +60,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “☸️ Outils découverts récemment…”](https://pouet.chapril.org/@arthurzenika/107965780097994327) (today)
 - [arthurzenika: “🆕📰 Nouveau chapitre de ma vie …”](https://pouet.chapril.org/@arthurzenika/107925896841768962) (1 week ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (3 months ago)
