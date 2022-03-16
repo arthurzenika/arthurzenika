@@ -32,9 +32,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [certbot/certbot](https://github.com/certbot/certbot) ([v1.25.0](https://github.com/certbot/certbot/releases/tag/v1.25.0), today) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.968](https://github.com/bridgecrewio/checkov/releases/tag/2.0.968), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.1.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.1.1), 1 week ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [certbot/certbot](https://github.com/certbot/certbot) ([v1.24.0](https://github.com/certbot/certbot/releases/tag/v1.24.0), 2 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.2](https://github.com/IBM/varnish-operator/releases/tag/0.28.2), 1 month ago) - Run and manage Varnish clusters on Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 5 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
