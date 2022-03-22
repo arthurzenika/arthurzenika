@@ -60,6 +60,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “🎧 📻  J&#39;ai bien aimé l&#39;épisode …”](https://pouet.chapril.org/@arthurzenika/108001040840696503) (today)
 - [arthurzenika: “🐻  https://kuma.io/…”](https://pouet.chapril.org/@arthurzenika/107971044958060927) (5 days ago)
 - [arthurzenika: “https://www.parca.dev/…”](https://pouet.chapril.org/@arthurzenika/107970984564159936) (5 days ago)
 - [arthurzenika: “☸️ Outils découverts récemment…”](https://pouet.chapril.org/@arthurzenika/107965780097994327) (6 days ago)
