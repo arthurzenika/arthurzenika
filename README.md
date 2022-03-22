@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.981](https://github.com/bridgecrewio/checkov/releases/tag/2.0.981), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.982](https://github.com/bridgecrewio/checkov/releases/tag/2.0.982), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.25.0](https://github.com/certbot/certbot/releases/tag/v1.25.0), 6 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([v4.1.1](https://github.com/Chocobozzz/PeerTube/releases/tag/v4.1.1), 2 weeks ago) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.2](https://github.com/IBM/varnish-operator/releases/tag/0.28.2), 2 months ago) - Run and manage Varnish clusters on Kubernetes
@@ -60,11 +60,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “Discussion avec un collègue à …”](https://pouet.chapril.org/@arthurzenika/108001191296094758) (today)
+- [arthurzenika: “Mais @commownfr@mamot.fr  vous…”](https://pouet.chapril.org/@arthurzenika/108001155998194387) (today)
 - [arthurzenika: “🎧 📻  J&#39;ai bien aimé l&#39;épisode …”](https://pouet.chapril.org/@arthurzenika/108001040840696503) (today)
 - [arthurzenika: “🐻  https://kuma.io/…”](https://pouet.chapril.org/@arthurzenika/107971044958060927) (5 days ago)
 - [arthurzenika: “https://www.parca.dev/…”](https://pouet.chapril.org/@arthurzenika/107970984564159936) (5 days ago)
-- [arthurzenika: “☸️ Outils découverts récemment…”](https://pouet.chapril.org/@arthurzenika/107965780097994327) (6 days ago)
-- [arthurzenika: “🆕📰 Nouveau chapitre de ma vie …”](https://pouet.chapril.org/@arthurzenika/107925896841768962) (1 week ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (3 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (3 months ago)
