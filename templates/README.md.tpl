@@ -32,16 +32,6 @@ Say Hello, I don't bite!
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts in 🇫🇷
-{{range rss "https://www.logilab.org/blog/6724/blogentries/alutz?vid=rss" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-#### 📜 My recent blog posts in 🇬🇧
-{{range rss "https://www.logilab.org/blog/6056/blogentries/alutz?vid=rss" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### 📜 My recent posts on the fediverse 🐘
 {{range rss "https://pouet.chapril.org/@arthurzenika.rss" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
