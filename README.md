@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “Je dépile progressivement la l…”](https://pouet.chapril.org/@arthurzenika/108159173168304720) (today)
 - [arthurzenika: “Et puis ça fait longtemps que …”](https://pouet.chapril.org/@arthurzenika/108091407465116665) (1 week ago)
 - [arthurzenika: “Avec du Swagger / OpenAPI : …”](https://pouet.chapril.org/@arthurzenika/108091386008040929) (1 week ago)
 - [arthurzenika: “Je bosse sur une mission des A…”](https://pouet.chapril.org/@arthurzenika/108091381121951759) (1 week ago)
 - [arthurzenika: “Le type de démo qu&#39;ils ont fai…”](https://pouet.chapril.org/@arthurzenika/108080457465173113) (2 weeks ago)
-- [arthurzenika: “🦩 Flux Subsystem for Argo http…”](https://pouet.chapril.org/@arthurzenika/108080455833238360) (2 weeks ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (4 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (4 months ago)
