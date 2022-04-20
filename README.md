@@ -32,9 +32,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.29.0](https://github.com/IBM/varnish-operator/releases/tag/0.29.0), today) - Run and manage Varnish clusters on Kubernetes
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1074](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1074), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.26.0](https://github.com/certbot/certbot/releases/tag/v1.26.0), 2 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.28.2](https://github.com/IBM/varnish-operator/releases/tag/0.28.2), 3 months ago) - Run and manage Varnish clusters on Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 6 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
 #### 📜 My recent blog posts 
@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “📝 markmap = markdown &#43; mindmap…”](https://pouet.chapril.org/@arthurzenika/108163481626080531) (today)
+- [arthurzenika: “📆  Agenda des conférences tech…”](https://pouet.chapril.org/@arthurzenika/108163463627618616) (today)
 - [arthurzenika: “Je dépile progressivement la l…”](https://pouet.chapril.org/@arthurzenika/108159173168304720) (1 day ago)
 - [arthurzenika: “Et puis ça fait longtemps que …”](https://pouet.chapril.org/@arthurzenika/108091407465116665) (1 week ago)
 - [arthurzenika: “Avec du Swagger / OpenAPI : …”](https://pouet.chapril.org/@arthurzenika/108091386008040929) (1 week ago)
-- [arthurzenika: “Je bosse sur une mission des A…”](https://pouet.chapril.org/@arthurzenika/108091381121951759) (1 week ago)
-- [arthurzenika: “Le type de démo qu&#39;ils ont fai…”](https://pouet.chapril.org/@arthurzenika/108080457465173113) (2 weeks ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (4 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (4 months ago)
