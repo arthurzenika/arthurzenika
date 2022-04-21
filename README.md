@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (3 days ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (4 days ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (1 month ago)
 - [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (1 month ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (4 months ago)
@@ -32,8 +32,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1075](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1075), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.29.0](https://github.com/IBM/varnish-operator/releases/tag/0.29.0), today) - Run and manage Varnish clusters on Kubernetes
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1075](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1075), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.29.0](https://github.com/IBM/varnish-operator/releases/tag/0.29.0), 1 day ago) - Run and manage Varnish clusters on Kubernetes
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.26.0](https://github.com/certbot/certbot/releases/tag/v1.26.0), 2 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 6 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurzenika: “📝 markmap = markdown &#43; mindmap…”](https://pouet.chapril.org/@arthurzenika/108163481626080531) (today)
-- [arthurzenika: “📆  Agenda des conférences tech…”](https://pouet.chapril.org/@arthurzenika/108163463627618616) (today)
-- [arthurzenika: “Je dépile progressivement la l…”](https://pouet.chapril.org/@arthurzenika/108159173168304720) (1 day ago)
-- [arthurzenika: “Et puis ça fait longtemps que …”](https://pouet.chapril.org/@arthurzenika/108091407465116665) (1 week ago)
-- [arthurzenika: “Avec du Swagger / OpenAPI : …”](https://pouet.chapril.org/@arthurzenika/108091386008040929) (1 week ago)
+- [arthurzenika: “📝 markmap = markdown &#43; mindmap…”](https://pouet.chapril.org/@arthurzenika/108163481626080531) (1 day ago)
+- [arthurzenika: “📆  Agenda des conférences tech…”](https://pouet.chapril.org/@arthurzenika/108163463627618616) (1 day ago)
+- [arthurzenika: “Je dépile progressivement la l…”](https://pouet.chapril.org/@arthurzenika/108159173168304720) (2 days ago)
+- [arthurzenika: “Et puis ça fait longtemps que …”](https://pouet.chapril.org/@arthurzenika/108091407465116665) (2 weeks ago)
+- [arthurzenika: “Avec du Swagger / OpenAPI : …”](https://pouet.chapril.org/@arthurzenika/108091386008040929) (2 weeks ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (4 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (4 months ago)
