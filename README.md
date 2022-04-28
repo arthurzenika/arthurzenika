@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “#tznantes techniquement dans s…”](https://pouet.chapril.org/@arthurzenika/108210012913887140) (today)
+- [arthurzenika: “#tznantes Alan DUCHENE nous pr…”](https://pouet.chapril.org/@arthurzenika/108210009374817571) (today)
+- [arthurzenika: “#tznantes Mai-Ly LEHOUX et Jea…”](https://pouet.chapril.org/@arthurzenika/108209967346533644) (today)
 - [arthurzenika: “Dans les approches alternative…”](https://pouet.chapril.org/@arthurzenika/108209794571654072) (today)
 - [arthurzenika: “Ça m&#39;a rappelé des bons souven…”](https://pouet.chapril.org/@arthurzenika/108209782534478889) (today)
-- [arthurzenika: “#tznantes Patrice De St Steban…”](https://pouet.chapril.org/@arthurzenika/108209768581788268) (today)
-- [arthurzenika: “Aujourd&#39;hui journée de confére…”](https://pouet.chapril.org/@arthurzenika/108209721225387403) (today)
-- [arthurzenika: “🐳  Pour explorer les fichiers …”](https://pouet.chapril.org/@arthurzenika/108203976893607674) (1 day ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (4 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (4 months ago)
