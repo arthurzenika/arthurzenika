@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1094](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1094), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1095](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1095), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.30.0](https://github.com/IBM/varnish-operator/releases/tag/0.30.0), 1 week ago) - Run and manage Varnish clusters on Kubernetes
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.26.0](https://github.com/certbot/certbot/releases/tag/v1.26.0), 3 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 6 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “Dans les approches alternative…”](https://pouet.chapril.org/@arthurzenika/108209794571654072) (today)
+- [arthurzenika: “Ça m&#39;a rappelé des bons souven…”](https://pouet.chapril.org/@arthurzenika/108209782534478889) (today)
+- [arthurzenika: “#tznantes Patrice De St Steban…”](https://pouet.chapril.org/@arthurzenika/108209768581788268) (today)
+- [arthurzenika: “Aujourd&#39;hui journée de confére…”](https://pouet.chapril.org/@arthurzenika/108209721225387403) (today)
 - [arthurzenika: “🐳  Pour explorer les fichiers …”](https://pouet.chapril.org/@arthurzenika/108203976893607674) (1 day ago)
-- [arthurzenika: “Reminds me of https://alexjs.c…”](https://pouet.chapril.org/@arthurzenika/108198588451963741) (2 days ago)
-- [arthurzenika: “Joblint https://joblint.org/…”](https://pouet.chapril.org/@arthurzenika/108198586334068149) (2 days ago)
-- [arthurzenika: “🚀 La version 14.10 de Gitlab e…”](https://pouet.chapril.org/@arthurzenika/108198498992589322) (2 days ago)
-- [arthurzenika: “📝 markmap = markdown &#43; mindmap…”](https://pouet.chapril.org/@arthurzenika/108163481626080531) (1 week ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (4 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (4 months ago)
