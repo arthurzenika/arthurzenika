@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1116](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1116), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1117](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1117), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.27.0](https://github.com/certbot/certbot/releases/tag/v1.27.0), 2 days ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.30.0](https://github.com/IBM/varnish-operator/releases/tag/0.30.0), 2 weeks ago) - Run and manage Varnish clusters on Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 7 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “#formation #greenit #zenika  …”](https://pouet.chapril.org/@arthurzenika/108249700020349730) (today)
+- [arthurzenika: “#formation #greenit #zenika …”](https://pouet.chapril.org/@arthurzenika/108249677622220161) (today)
+- [arthurzenika: “#formation #greenit #zenika  …”](https://pouet.chapril.org/@arthurzenika/108249625013905386) (today)
+- [arthurzenika: “#formation #greenit #zenika  …”](https://pouet.chapril.org/@arthurzenika/108249581803938011) (today)
 - [arthurzenika: “#formation #greenit #zenika …”](https://pouet.chapril.org/@arthurzenika/108249521259735999) (today)
-- [arthurzenika: “#formation #greenit #zenika …”](https://pouet.chapril.org/@arthurzenika/108249494098272289) (today)
-- [arthurzenika: “#formation #greenit #zenika …”](https://pouet.chapril.org/@arthurzenika/108249482824997564) (today)
-- [arthurzenika: “Mon nouvel employeur, Zenika, …”](https://pouet.chapril.org/@arthurzenika/108249471952786087) (today)
-- [arthurzenika: “Dans les échanges avec la sall…”](https://pouet.chapril.org/@arthurzenika/108210520978711777) (1 week ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (4 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (4 months ago)
