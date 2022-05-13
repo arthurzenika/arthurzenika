@@ -18,6 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (today)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (5 days ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (2 months ago)
 - [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (2 months ago)
@@ -27,13 +28,13 @@ Say Hello, I don't bite!
 - [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (5 months ago)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. (8 months ago)
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (8 months ago)
-- [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1140](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1140), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.27.0](https://github.com/certbot/certbot/releases/tag/v1.27.0), 1 week ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 week ago) - 115 Web Ecodesign Best Practices
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.30.0](https://github.com/IBM/varnish-operator/releases/tag/0.30.0), 3 weeks ago) - Run and manage Varnish clusters on Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 7 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
