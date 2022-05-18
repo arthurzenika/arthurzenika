@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1143](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1143), 2 days ago) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1144](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1144), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.27.0](https://github.com/certbot/certbot/releases/tag/v1.27.0), 2 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 2 weeks ago) - 115 Web Ecodesign Best Practices
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.30.0](https://github.com/IBM/varnish-operator/releases/tag/0.30.0), 3 weeks ago) - Run and manage Varnish clusters on Kubernetes
