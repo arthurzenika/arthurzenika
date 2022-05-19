@@ -18,8 +18,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (3 days ago)
-- [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (5 days ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (4 days ago)
+- [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (6 days ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (2 months ago)
 - [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (2 months ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (5 months ago)
@@ -32,10 +32,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1144](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1144), today) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1144](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1144), 1 day ago) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [certbot/certbot](https://github.com/certbot/certbot) ([v1.27.0](https://github.com/certbot/certbot/releases/tag/v1.27.0), 2 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 2 weeks ago) - 115 Web Ecodesign Best Practices
-- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.30.0](https://github.com/IBM/varnish-operator/releases/tag/0.30.0), 3 weeks ago) - Run and manage Varnish clusters on Kubernetes
+- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.30.0](https://github.com/IBM/varnish-operator/releases/tag/0.30.0), 4 weeks ago) - Run and manage Varnish clusters on Kubernetes
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 7 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
 #### 📜 My recent blog posts 
@@ -48,11 +48,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurzenika: “🏳️‍🌈  Aujourd&#39;hui, le 17 mai, …”](https://pouet.chapril.org/@arthurzenika/108318156613580572) (1 day ago)
-- [arthurzenika: “Ça me fait penser deux excelle…”](https://pouet.chapril.org/@arthurzenika/108316342949600266) (1 day ago)
-- [arthurzenika: “Avec des plugins : …”](https://pouet.chapril.org/@arthurzenika/108316336215030988) (1 day ago)
-- [arthurzenika: “On me recommande &#34;Yank Note - …”](https://pouet.chapril.org/@arthurzenika/108316329274243120) (1 day ago)
-- [arthurzenika: “Je serais curieux de voir si c…”](https://pouet.chapril.org/@arthurzenika/108295382951253104) (5 days ago)
+- [arthurzenika: “🏳️‍🌈  Aujourd&#39;hui, le 17 mai, …”](https://pouet.chapril.org/@arthurzenika/108318156613580572) (2 days ago)
+- [arthurzenika: “Ça me fait penser deux excelle…”](https://pouet.chapril.org/@arthurzenika/108316342949600266) (2 days ago)
+- [arthurzenika: “Avec des plugins : …”](https://pouet.chapril.org/@arthurzenika/108316336215030988) (2 days ago)
+- [arthurzenika: “On me recommande &#34;Yank Note - …”](https://pouet.chapril.org/@arthurzenika/108316329274243120) (2 days ago)
+- [arthurzenika: “Je serais curieux de voir si c…”](https://pouet.chapril.org/@arthurzenika/108295382951253104) (6 days ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (5 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (5 months ago)
