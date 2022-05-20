@@ -48,11 +48,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [arthurzenika: “J&#39;en ai profité pour utiliser …”](https://pouet.chapril.org/@arthurzenika/108334412237397805) (today)
+- [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108334404542947563) (today)
 - [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108333737533943099) (today)
 - [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108333721034205885) (today)
 - [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108333662630350241) (today)
-- [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108333389336116027) (today)
-- [arthurzenika: “#zenikatraining …”](https://pouet.chapril.org/@arthurzenika/108333336153916066) (today)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (5 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (5 months ago)
