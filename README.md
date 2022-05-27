@@ -34,7 +34,6 @@ Say Hello, I don't bite!
 
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1162](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1162), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.31.0](https://github.com/IBM/varnish-operator/releases/tag/0.31.0), 1 week ago) - Run and manage Varnish clusters on Kubernetes
-- [certbot/certbot](https://github.com/certbot/certbot) ([v1.27.0](https://github.com/certbot/certbot/releases/tag/v1.27.0), 3 weeks ago) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 3 weeks ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 7 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
