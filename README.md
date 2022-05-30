@@ -18,8 +18,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (today)
-- [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (4 days ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 day ago)
+- [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (5 days ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (2 weeks ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (2 months ago)
 - [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (2 months ago)
@@ -32,9 +32,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1174](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1174), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1174](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1174), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.31.0](https://github.com/IBM/varnish-operator/releases/tag/0.31.0), 1 week ago) - Run and manage Varnish clusters on Kubernetes
-- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 4 weeks ago) - 115 Web Ecodesign Best Practices
+- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 7 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
 #### 📜 My recent blog posts 
@@ -47,8 +47,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurzenika: “Dans renovate, les &#34;managers&#34; …”](https://pouet.chapril.org/@arthurzenika/108357749817473576) (5 days ago)
-- [arthurzenika: “🖌️ 🤖  Suite à la formation #te…”](https://pouet.chapril.org/@arthurzenika/108357739552037021) (5 days ago)
+- [arthurzenika: “Dans renovate, les &#34;managers&#34; …”](https://pouet.chapril.org/@arthurzenika/108357749817473576) (6 days ago)
+- [arthurzenika: “🖌️ 🤖  Suite à la formation #te…”](https://pouet.chapril.org/@arthurzenika/108357739552037021) (6 days ago)
 - [arthurzenika: “J&#39;en ai profité pour utiliser …”](https://pouet.chapril.org/@arthurzenika/108334412237397805) (1 week ago)
 - [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108334404542947563) (1 week ago)
 - [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108333737533943099) (1 week ago)
