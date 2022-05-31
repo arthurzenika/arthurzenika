@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [arthurzenika: “Dans renovate, les &#34;managers&#34; …”](https://pouet.chapril.org/@arthurzenika/108357749817473576) (1 week ago)
-- [arthurzenika: “🖌️ 🤖  Suite à la formation #te…”](https://pouet.chapril.org/@arthurzenika/108357739552037021) (1 week ago)
-- [arthurzenika: “J&#39;en ai profité pour utiliser …”](https://pouet.chapril.org/@arthurzenika/108334412237397805) (1 week ago)
-- [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108334404542947563) (1 week ago)
-- [arthurzenika: “#zenikatraining #terraform …”](https://pouet.chapril.org/@arthurzenika/108333737533943099) (1 week ago)
+- [24 mai 2022, 16:00](https://pouet.chapril.org/@arthurzenika/108357749817473576) (1 week ago)
+- [24 mai 2022, 15:58](https://pouet.chapril.org/@arthurzenika/108357739552037021) (1 week ago)
+- [20 mai 2022, 13:05](https://pouet.chapril.org/@arthurzenika/108334412237397805) (1 week ago)
+- [20 mai 2022, 13:03](https://pouet.chapril.org/@arthurzenika/108334404542947563) (1 week ago)
+- [20 mai 2022, 10:14](https://pouet.chapril.org/@arthurzenika/108333737533943099) (1 week ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (5 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (5 months ago)
