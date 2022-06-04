@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (5 days ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (6 days ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (1 week ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (3 weeks ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (2 months ago)
@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1190](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1190), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1190](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1190), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.31.0](https://github.com/IBM/varnish-operator/releases/tag/0.31.0), 2 weeks ago) - Run and manage Varnish clusters on Kubernetes
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [03 juin 2022, 15:49](https://pouet.chapril.org/@arthurzenika/108414328646901178) (today)
-- [01 juin 2022, 11:31](https://pouet.chapril.org/@arthurzenika/108401991342644861) (2 days ago)
-- [01 juin 2022, 11:26](https://pouet.chapril.org/@arthurzenika/108401969496244546) (2 days ago)
-- [01 juin 2022, 11:17](https://pouet.chapril.org/@arthurzenika/108401936090961350) (2 days ago)
-- [01 juin 2022, 11:16](https://pouet.chapril.org/@arthurzenika/108401928781638560) (2 days ago)
+- [03 juin 2022, 15:49](https://pouet.chapril.org/@arthurzenika/108414328646901178) (1 day ago)
+- [01 juin 2022, 11:31](https://pouet.chapril.org/@arthurzenika/108401991342644861) (3 days ago)
+- [01 juin 2022, 11:26](https://pouet.chapril.org/@arthurzenika/108401969496244546) (3 days ago)
+- [01 juin 2022, 11:17](https://pouet.chapril.org/@arthurzenika/108401936090961350) (3 days ago)
+- [01 juin 2022, 11:16](https://pouet.chapril.org/@arthurzenika/108401928781638560) (3 days ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (5 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (5 months ago)
