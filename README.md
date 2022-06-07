@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [07 juin 2022, 16:34](https://pouet.chapril.org/@arthurzenika/108437155550258265) (today)
 - [07 juin 2022, 10:25](https://pouet.chapril.org/@arthurzenika/108435702910603972) (today)
 - [03 juin 2022, 15:49](https://pouet.chapril.org/@arthurzenika/108414328646901178) (4 days ago)
 - [01 juin 2022, 11:31](https://pouet.chapril.org/@arthurzenika/108401991342644861) (6 days ago)
 - [01 juin 2022, 11:26](https://pouet.chapril.org/@arthurzenika/108401969496244546) (6 days ago)
-- [01 juin 2022, 11:17](https://pouet.chapril.org/@arthurzenika/108401936090961350) (6 days ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (5 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (5 months ago)
