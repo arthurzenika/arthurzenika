@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1206](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1206), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1207](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1207), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.31.0](https://github.com/IBM/varnish-operator/releases/tag/0.31.0), 2 weeks ago) - Run and manage Varnish clusters on Kubernetes
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [09 juin 2022, 07:40](https://pouet.chapril.org/@arthurzenika/108446380400426370) (today)
+- [09 juin 2022, 07:39](https://pouet.chapril.org/@arthurzenika/108446376573944009) (today)
 - [07 juin 2022, 16:34](https://pouet.chapril.org/@arthurzenika/108437155550258265) (2 days ago)
 - [07 juin 2022, 10:25](https://pouet.chapril.org/@arthurzenika/108435702910603972) (2 days ago)
 - [03 juin 2022, 15:49](https://pouet.chapril.org/@arthurzenika/108414328646901178) (6 days ago)
-- [01 juin 2022, 11:31](https://pouet.chapril.org/@arthurzenika/108401991342644861) (1 week ago)
-- [01 juin 2022, 11:26](https://pouet.chapril.org/@arthurzenika/108401969496244546) (1 week ago)
 
 - [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (5 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (6 months ago)
