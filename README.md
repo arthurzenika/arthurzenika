@@ -18,6 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) -  (today)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 days ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (2 weeks ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (1 month ago)
@@ -27,7 +28,6 @@ Say Hello, I don't bite!
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable ! (6 months ago)
 - [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (7 months ago)
 - [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (7 months ago)
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -61,6 +61,7 @@ Say Hello, I don't bite!
 
 #### 🌱 My latest projects
 
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - 
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites
 - [arthurzenika/jupyterlite](https://github.com/arthurzenika/jupyterlite) - 
 - [arthurzenika/datocms-gatsby-portfolio-website-demo](https://github.com/arthurzenika/datocms-gatsby-portfolio-website-demo) - 
