@@ -18,28 +18,28 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 day ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 days ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (2 weeks ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (1 month ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (3 months ago)
 - [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (3 months ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (6 months ago)
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable ! (6 months ago)
-- [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (6 months ago)
-- [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (6 months ago)
+- [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (7 months ago)
+- [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (7 months ago)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1210](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1210), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1210](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1210), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.31.0](https://github.com/IBM/varnish-operator/releases/tag/0.31.0), 3 weeks ago) - Run and manage Varnish clusters on Kubernetes
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
 #### 📜 My recent blog posts 
 
-- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (5 months ago)
+- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (6 months ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (6 months ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (1 year ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (2 years ago)
@@ -47,13 +47,13 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [09 juin 2022, 10:00](https://pouet.chapril.org/@arthurzenika/108446929400772478) (4 days ago)
-- [09 juin 2022, 07:40](https://pouet.chapril.org/@arthurzenika/108446380400426370) (4 days ago)
-- [09 juin 2022, 07:39](https://pouet.chapril.org/@arthurzenika/108446376573944009) (4 days ago)
-- [07 juin 2022, 16:34](https://pouet.chapril.org/@arthurzenika/108437155550258265) (6 days ago)
-- [07 juin 2022, 10:25](https://pouet.chapril.org/@arthurzenika/108435702910603972) (6 days ago)
+- [09 juin 2022, 10:00](https://pouet.chapril.org/@arthurzenika/108446929400772478) (5 days ago)
+- [09 juin 2022, 07:40](https://pouet.chapril.org/@arthurzenika/108446380400426370) (5 days ago)
+- [09 juin 2022, 07:39](https://pouet.chapril.org/@arthurzenika/108446376573944009) (5 days ago)
+- [07 juin 2022, 16:34](https://pouet.chapril.org/@arthurzenika/108437155550258265) (1 week ago)
+- [07 juin 2022, 10:25](https://pouet.chapril.org/@arthurzenika/108435702910603972) (1 week ago)
 
-- [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (5 months ago)
+- [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (6 months ago)
 - [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (6 months ago)
 - [arthurlutz: “C&#39;est le moment d&#39;ouvrir la fe…”](https://social.logilab.org/@arthurlutz/107417635436592654) (6 months ago)
 - [arthurlutz: “📺 SparqlExplorer, exploring Li…”](https://social.logilab.org/@arthurlutz/107376849032712896) (6 months ago)
