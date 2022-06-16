@@ -18,8 +18,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 day ago)
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 day ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 days ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 days ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (3 weeks ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (1 month ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (3 months ago)
@@ -32,32 +32,25 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1215](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1215), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
-- [IBM/varnish-operator](https://github.com/IBM/varnish-operator) ([0.31.0](https://github.com/IBM/varnish-operator/releases/tag/0.31.0), 3 weeks ago) - Run and manage Varnish clusters on Kubernetes
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1217](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1217), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
 #### 📜 My recent blog posts 
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (6 months ago)
-- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (6 months ago)
+- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (7 months ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (1 year ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (2 years ago)
 - [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (2 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [15 juin 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108480919153130300) (today)
-- [15 juin 2022, 10:03](https://pouet.chapril.org/@arthurzenika/108480917509421726) (today)
-- [15 juin 2022, 10:00](https://pouet.chapril.org/@arthurzenika/108480904129944512) (today)
-- [15 juin 2022, 09:59](https://pouet.chapril.org/@arthurzenika/108480899974839315) (today)
-- [14 juin 2022, 10:14](https://pouet.chapril.org/@arthurzenika/108475295895097069) (1 day ago)
-
-- [arthurlutz: “Au revoir Logilab 👋…”](https://social.logilab.org/@arthurlutz/107456146459624403) (6 months ago)
-- [arthurlutz: “Conférence #BlueHats 🧢 du jour…”](https://social.logilab.org/@arthurlutz/107422103330628035) (6 months ago)
-- [arthurlutz: “C&#39;est le moment d&#39;ouvrir la fe…”](https://social.logilab.org/@arthurlutz/107417635436592654) (6 months ago)
-- [arthurlutz: “📺 SparqlExplorer, exploring Li…”](https://social.logilab.org/@arthurlutz/107376849032712896) (6 months ago)
-- [arthurlutz: “#5mintalk #logilabcafé  …”](https://social.logilab.org/@arthurlutz/107344136426130368) (6 months ago)
+- [15 juin 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108480919153130300) (1 day ago)
+- [15 juin 2022, 10:03](https://pouet.chapril.org/@arthurzenika/108480917509421726) (1 day ago)
+- [15 juin 2022, 10:00](https://pouet.chapril.org/@arthurzenika/108480904129944512) (1 day ago)
+- [15 juin 2022, 09:59](https://pouet.chapril.org/@arthurzenika/108480899974839315) (1 day ago)
+- [14 juin 2022, 10:14](https://pouet.chapril.org/@arthurzenika/108475295895097069) (2 days ago)
 
 #### 🌱 My latest projects
 
