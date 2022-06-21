@@ -18,13 +18,13 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (6 days ago)
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (6 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 week ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 week ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (3 weeks ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (1 month ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (3 months ago)
 - [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (3 months ago)
-- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (6 months ago)
+- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (7 months ago)
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable ! (7 months ago)
 - [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (7 months ago)
 - [librenms/librenms.github.io](https://github.com/librenms/librenms.github.io) - LibreNMS web site (7 months ago)
@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1223](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1223), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1223](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1223), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
@@ -46,11 +46,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [15 juin 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108480919153130300) (5 days ago)
-- [15 juin 2022, 10:03](https://pouet.chapril.org/@arthurzenika/108480917509421726) (5 days ago)
-- [15 juin 2022, 10:00](https://pouet.chapril.org/@arthurzenika/108480904129944512) (5 days ago)
-- [15 juin 2022, 09:59](https://pouet.chapril.org/@arthurzenika/108480899974839315) (5 days ago)
-- [14 juin 2022, 10:14](https://pouet.chapril.org/@arthurzenika/108475295895097069) (6 days ago)
+- [15 juin 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108480919153130300) (6 days ago)
+- [15 juin 2022, 10:03](https://pouet.chapril.org/@arthurzenika/108480917509421726) (6 days ago)
+- [15 juin 2022, 10:00](https://pouet.chapril.org/@arthurzenika/108480904129944512) (6 days ago)
+- [15 juin 2022, 09:59](https://pouet.chapril.org/@arthurzenika/108480899974839315) (6 days ago)
+- [14 juin 2022, 10:14](https://pouet.chapril.org/@arthurzenika/108475295895097069) (1 week ago)
 
 #### 🌱 My latest projects
 
