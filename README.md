@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1225](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1225), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1226](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1226), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
@@ -46,11 +46,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [21 juin 2022, 12:48](https://pouet.chapril.org/@arthurzenika/108515540016526541) (today)
-- [15 juin 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108480919153130300) (6 days ago)
-- [15 juin 2022, 10:03](https://pouet.chapril.org/@arthurzenika/108480917509421726) (6 days ago)
-- [15 juin 2022, 10:00](https://pouet.chapril.org/@arthurzenika/108480904129944512) (6 days ago)
-- [15 juin 2022, 09:59](https://pouet.chapril.org/@arthurzenika/108480899974839315) (6 days ago)
+- [21 juin 2022, 15:11](https://pouet.chapril.org/@arthurzenika/108516101534425998) (today)
+- [21 juin 2022, 14:59](https://pouet.chapril.org/@arthurzenika/108516053951114120) (today)
+- [21 juin 2022, 14:57](https://pouet.chapril.org/@arthurzenika/108516044082825992) (today)
+- [21 juin 2022, 14:53](https://pouet.chapril.org/@arthurzenika/108516030614771946) (today)
+- [21 juin 2022, 14:47](https://pouet.chapril.org/@arthurzenika/108516005553416201) (today)
 
 #### 🌱 My latest projects
 
