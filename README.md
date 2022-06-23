@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (today)
+- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (1 day ago)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 week ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 week ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (4 weeks ago)
@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1230](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1230), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.0.1230](https://github.com/bridgecrewio/checkov/releases/tag/2.0.1230), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
@@ -46,11 +46,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [22 juin 2022, 12:52](https://pouet.chapril.org/@arthurzenika/108521218163916505) (today)
-- [22 juin 2022, 10:08](https://pouet.chapril.org/@arthurzenika/108520573437262556) (today)
-- [21 juin 2022, 15:11](https://pouet.chapril.org/@arthurzenika/108516101534425998) (1 day ago)
-- [21 juin 2022, 14:59](https://pouet.chapril.org/@arthurzenika/108516053951114120) (1 day ago)
-- [21 juin 2022, 14:57](https://pouet.chapril.org/@arthurzenika/108516044082825992) (1 day ago)
+- [22 juin 2022, 12:52](https://pouet.chapril.org/@arthurzenika/108521218163916505) (1 day ago)
+- [22 juin 2022, 10:08](https://pouet.chapril.org/@arthurzenika/108520573437262556) (1 day ago)
+- [21 juin 2022, 15:11](https://pouet.chapril.org/@arthurzenika/108516101534425998) (2 days ago)
+- [21 juin 2022, 14:59](https://pouet.chapril.org/@arthurzenika/108516053951114120) (2 days ago)
+- [21 juin 2022, 14:57](https://pouet.chapril.org/@arthurzenika/108516044082825992) (2 days ago)
 
 #### 🌱 My latest projects
 
