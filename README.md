@@ -18,6 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (today)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (2 days ago)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 week ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 week ago)
@@ -27,12 +28,12 @@ Say Hello, I don't bite!
 - [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (3 months ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (7 months ago)
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable ! (7 months ago)
-- [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP) (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.7](https://github.com/bridgecrewio/checkov/releases/tag/2.1.7), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.5.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.5.0), 3 weeks ago) - A python wrapper for the GitLab API.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
 
@@ -46,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [24 juin 2022, 14:30](https://pouet.chapril.org/@arthurzenika/108532927408266029) (today)
+- [24 juin 2022, 14:29](https://pouet.chapril.org/@arthurzenika/108532922409533259) (today)
 - [22 juin 2022, 12:52](https://pouet.chapril.org/@arthurzenika/108521218163916505) (2 days ago)
 - [22 juin 2022, 10:08](https://pouet.chapril.org/@arthurzenika/108520573437262556) (2 days ago)
 - [21 juin 2022, 15:11](https://pouet.chapril.org/@arthurzenika/108516101534425998) (3 days ago)
-- [21 juin 2022, 14:59](https://pouet.chapril.org/@arthurzenika/108516053951114120) (3 days ago)
-- [21 juin 2022, 14:57](https://pouet.chapril.org/@arthurzenika/108516044082825992) (3 days ago)
 
 #### 🌱 My latest projects
 
