@@ -18,8 +18,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (1 day ago)
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (3 days ago)
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (2 days ago)
+- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (4 days ago)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 week ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 week ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (1 month ago)
@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.7](https://github.com/bridgecrewio/checkov/releases/tag/2.1.7), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.7](https://github.com/bridgecrewio/checkov/releases/tag/2.1.7), 2 days ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.5.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.5.0), 4 weeks ago) - A python wrapper for the GitLab API.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 month ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 8 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -47,11 +47,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [24 juin 2022, 14:30](https://pouet.chapril.org/@arthurzenika/108532927408266029) (1 day ago)
-- [24 juin 2022, 14:29](https://pouet.chapril.org/@arthurzenika/108532922409533259) (1 day ago)
-- [22 juin 2022, 12:52](https://pouet.chapril.org/@arthurzenika/108521218163916505) (3 days ago)
-- [22 juin 2022, 10:08](https://pouet.chapril.org/@arthurzenika/108520573437262556) (3 days ago)
-- [21 juin 2022, 15:11](https://pouet.chapril.org/@arthurzenika/108516101534425998) (4 days ago)
+- [24 juin 2022, 14:30](https://pouet.chapril.org/@arthurzenika/108532927408266029) (2 days ago)
+- [24 juin 2022, 14:29](https://pouet.chapril.org/@arthurzenika/108532922409533259) (2 days ago)
+- [22 juin 2022, 12:52](https://pouet.chapril.org/@arthurzenika/108521218163916505) (4 days ago)
+- [22 juin 2022, 10:08](https://pouet.chapril.org/@arthurzenika/108520573437262556) (4 days ago)
+- [21 juin 2022, 15:11](https://pouet.chapril.org/@arthurzenika/108516101534425998) (5 days ago)
 
 #### 🌱 My latest projects
 
