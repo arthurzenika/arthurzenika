@@ -18,9 +18,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (today)
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (4 days ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (6 days ago)
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 weeks ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 weeks ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (1 month ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (1 month ago)
