@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.24](https://github.com/bridgecrewio/checkov/releases/tag/2.1.24), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.25](https://github.com/bridgecrewio/checkov/releases/tag/2.1.25), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.2.0&#43;3](https://github.com/patou/biblionantes/releases/tag/1.2.0%2B3), 5 days ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.6.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.6.0), 5 days ago) - A python wrapper for the GitLab API.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 2 months ago) - 115 Web Ecodesign Best Practices
