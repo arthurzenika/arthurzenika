@@ -18,10 +18,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 week ago)
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 week ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 weeks ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 weeks ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (2 weeks ago)
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (2 weeks ago)
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (3 weeks ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (3 weeks ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (1 month ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (2 months ago)
@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.56](https://github.com/bridgecrewio/checkov/releases/tag/2.1.56), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.56](https://github.com/bridgecrewio/checkov/releases/tag/2.1.56), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 week ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.6.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.6.0), 2 weeks ago) - A python wrapper for the GitLab API.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 2 months ago) - 115 Web Ecodesign Best Practices
@@ -48,11 +48,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [13 juil. 2022, 15:37](https://pouet.chapril.org/@arthurzenika/108640774184055036) (1 day ago)
-- [13 juil. 2022, 12:22](https://pouet.chapril.org/@arthurzenika/108640006326291296) (1 day ago)
-- [12 juil. 2022, 14:17](https://pouet.chapril.org/@arthurzenika/108634798580235968) (2 days ago)
-- [11 juil. 2022, 13:55](https://pouet.chapril.org/@arthurzenika/108629048761227628) (3 days ago)
-- [08 juil. 2022, 07:41](https://pouet.chapril.org/@arthurzenika/108610588635955867) (6 days ago)
+- [13 juil. 2022, 15:37](https://pouet.chapril.org/@arthurzenika/108640774184055036) (2 days ago)
+- [13 juil. 2022, 12:22](https://pouet.chapril.org/@arthurzenika/108640006326291296) (2 days ago)
+- [12 juil. 2022, 14:17](https://pouet.chapril.org/@arthurzenika/108634798580235968) (3 days ago)
+- [11 juil. 2022, 13:55](https://pouet.chapril.org/@arthurzenika/108629048761227628) (4 days ago)
+- [08 juil. 2022, 07:41](https://pouet.chapril.org/@arthurzenika/108610588635955867) (1 week ago)
 
 #### 🌱 My latest projects
 
