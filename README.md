@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (2 days ago)
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (3 days ago)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 weeks ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 weeks ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (3 weeks ago)
@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.65](https://github.com/bridgecrewio/checkov/releases/tag/2.1.65), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.65](https://github.com/bridgecrewio/checkov/releases/tag/2.1.65), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 2 weeks ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.4](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.4), 2 weeks ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.6.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.6.0), 3 weeks ago) - A python wrapper for the GitLab API.
@@ -49,7 +49,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [19 juil. 2022, 11:57](https://pouet.chapril.org/@arthurzenika/108673883650338370) (1 day ago)
+- [19 juil. 2022, 11:57](https://pouet.chapril.org/@arthurzenika/108673883650338370) (2 days ago)
 - [13 juil. 2022, 15:37](https://pouet.chapril.org/@arthurzenika/108640774184055036) (1 week ago)
 - [13 juil. 2022, 12:22](https://pouet.chapril.org/@arthurzenika/108640006326291296) (1 week ago)
 - [12 juil. 2022, 14:17](https://pouet.chapril.org/@arthurzenika/108634798580235968) (1 week ago)
