@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (6 days ago)
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (1 week ago)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (3 weeks ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (3 weeks ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (3 weeks ago)
@@ -32,9 +32,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.70](https://github.com/bridgecrewio/checkov/releases/tag/2.1.70), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.70](https://github.com/bridgecrewio/checkov/releases/tag/2.1.70), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 2 weeks ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.4](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.4), 2 weeks ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.4](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.4), 3 weeks ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.6.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.6.0), 3 weeks ago) - A python wrapper for the GitLab API.
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 2 months ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 9 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [21 juil. 2022, 13:17](https://pouet.chapril.org/@arthurzenika/108685522226133697) (3 days ago)
-- [21 juil. 2022, 12:59](https://pouet.chapril.org/@arthurzenika/108685450470562958) (3 days ago)
-- [21 juil. 2022, 10:10](https://pouet.chapril.org/@arthurzenika/108684787305056997) (3 days ago)
-- [19 juil. 2022, 11:57](https://pouet.chapril.org/@arthurzenika/108673883650338370) (5 days ago)
+- [21 juil. 2022, 13:17](https://pouet.chapril.org/@arthurzenika/108685522226133697) (4 days ago)
+- [21 juil. 2022, 12:59](https://pouet.chapril.org/@arthurzenika/108685450470562958) (4 days ago)
+- [21 juil. 2022, 10:10](https://pouet.chapril.org/@arthurzenika/108684787305056997) (4 days ago)
+- [19 juil. 2022, 11:57](https://pouet.chapril.org/@arthurzenika/108673883650338370) (6 days ago)
 - [13 juil. 2022, 15:37](https://pouet.chapril.org/@arthurzenika/108640774184055036) (1 week ago)
 
 #### 🌱 My latest projects
