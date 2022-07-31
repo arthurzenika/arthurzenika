@@ -32,8 +32,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.83](https://github.com/bridgecrewio/checkov/releases/tag/2.1.83), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.7.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.7.0), 3 days ago) - A python wrapper for the GitLab API.
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.82](https://github.com/bridgecrewio/checkov/releases/tag/2.1.82), 3 days ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 3 weeks ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.4](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.4), 3 weeks ago) - Command Line Interface for Scaleway
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 3 months ago) - 115 Web Ecodesign Best Practices
