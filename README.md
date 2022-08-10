@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.106](https://github.com/bridgecrewio/checkov/releases/tag/2.1.106), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.108](https://github.com/bridgecrewio/checkov/releases/tag/2.1.108), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.8.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.8.0), 6 days ago) - A python wrapper for the GitLab API.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 month ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.4](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.4), 1 month ago) - Command Line Interface for Scaleway
