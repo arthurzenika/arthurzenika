@@ -25,15 +25,15 @@ Say Hello, I don't bite!
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (1 month ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (1 month ago)
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (2 months ago)
-- [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (2 months ago)
+- [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (3 months ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (5 months ago)
 - [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.114](https://github.com/bridgecrewio/checkov/releases/tag/2.1.114), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.8.1](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.8.1), today) - A python wrapper for the GitLab API.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.114](https://github.com/bridgecrewio/checkov/releases/tag/2.1.114), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.8.1](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.8.1), 1 day ago) - A python wrapper for the GitLab API.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 month ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.4](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.4), 1 month ago) - Command Line Interface for Scaleway
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 3 months ago) - 115 Web Ecodesign Best Practices
@@ -49,9 +49,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [21 juil. 2022, 13:17](https://pouet.chapril.org/@arthurzenika/108685522226133697) (2 weeks ago)
-- [21 juil. 2022, 12:59](https://pouet.chapril.org/@arthurzenika/108685450470562958) (2 weeks ago)
-- [21 juil. 2022, 10:10](https://pouet.chapril.org/@arthurzenika/108684787305056997) (2 weeks ago)
+- [21 juil. 2022, 13:17](https://pouet.chapril.org/@arthurzenika/108685522226133697) (3 weeks ago)
+- [21 juil. 2022, 12:59](https://pouet.chapril.org/@arthurzenika/108685450470562958) (3 weeks ago)
+- [21 juil. 2022, 10:10](https://pouet.chapril.org/@arthurzenika/108684787305056997) (3 weeks ago)
 - [19 juil. 2022, 11:57](https://pouet.chapril.org/@arthurzenika/108673883650338370) (3 weeks ago)
 - [13 juil. 2022, 15:37](https://pouet.chapril.org/@arthurzenika/108640774184055036) (4 weeks ago)
 
