@@ -32,8 +32,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.121](https://github.com/bridgecrewio/checkov/releases/tag/2.1.121), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.8.1](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.8.1), 2 days ago) - A python wrapper for the GitLab API.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.121](https://github.com/bridgecrewio/checkov/releases/tag/2.1.121), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.8.1](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.8.1), 3 days ago) - A python wrapper for the GitLab API.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 month ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.4](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.4), 1 month ago) - Command Line Interface for Scaleway
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 3 months ago) - 115 Web Ecodesign Best Practices
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (7 months ago)
+- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (8 months ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (8 months ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (2 years ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (2 years ago)
