@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.133](https://github.com/bridgecrewio/checkov/releases/tag/2.1.133), today) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) ([2.1.133](https://github.com/bridgecrewio/checkov/releases/tag/2.1.133), 1 day ago) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.8.1](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.8.1), 1 week ago) - A python wrapper for the GitLab API.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 month ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.4](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.4), 1 month ago) - Command Line Interface for Scaleway
@@ -49,11 +49,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [16 août 2022, 17:16](https://pouet.chapril.org/@arthurzenika/108833682150927239) (1 day ago)
-- [16 août 2022, 15:45](https://pouet.chapril.org/@arthurzenika/108833322071675586) (1 day ago)
-- [21 juil. 2022, 13:17](https://pouet.chapril.org/@arthurzenika/108685522226133697) (3 weeks ago)
-- [21 juil. 2022, 12:59](https://pouet.chapril.org/@arthurzenika/108685450470562958) (3 weeks ago)
-- [21 juil. 2022, 10:10](https://pouet.chapril.org/@arthurzenika/108684787305056997) (3 weeks ago)
+- [16 août 2022, 17:16](https://pouet.chapril.org/@arthurzenika/108833682150927239) (2 days ago)
+- [16 août 2022, 15:45](https://pouet.chapril.org/@arthurzenika/108833322071675586) (2 days ago)
+- [21 juil. 2022, 13:17](https://pouet.chapril.org/@arthurzenika/108685522226133697) (4 weeks ago)
+- [21 juil. 2022, 12:59](https://pouet.chapril.org/@arthurzenika/108685450470562958) (4 weeks ago)
+- [21 juil. 2022, 10:10](https://pouet.chapril.org/@arthurzenika/108684787305056997) (4 weeks ago)
 
 #### 🌱 My latest projects
 
