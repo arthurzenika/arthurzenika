@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.6](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.6), 2 days ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.6](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.6), 3 days ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.8.1](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.8.1), 2 weeks ago) - A python wrapper for the GitLab API.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 month ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 3 months ago) - 115 Web Ecodesign Best Practices
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [24 août 2022, 09:29](https://pouet.chapril.org/@arthurzenika/108877145464927687) (1 day ago)
-- [24 août 2022, 09:15](https://pouet.chapril.org/@arthurzenika/108877088883923687) (1 day ago)
-- [19 août 2022, 09:58](https://pouet.chapril.org/@arthurzenika/108848945435555571) (6 days ago)
-- [19 août 2022, 09:54](https://pouet.chapril.org/@arthurzenika/108848930942547676) (6 days ago)
+- [24 août 2022, 09:29](https://pouet.chapril.org/@arthurzenika/108877145464927687) (2 days ago)
+- [24 août 2022, 09:15](https://pouet.chapril.org/@arthurzenika/108877088883923687) (2 days ago)
+- [19 août 2022, 09:58](https://pouet.chapril.org/@arthurzenika/108848945435555571) (1 week ago)
+- [19 août 2022, 09:54](https://pouet.chapril.org/@arthurzenika/108848930942547676) (1 week ago)
 - [18 août 2022, 09:01](https://pouet.chapril.org/@arthurzenika/108843059593807237) (1 week ago)
 
 #### 🌱 My latest projects
