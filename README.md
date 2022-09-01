@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.9.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.9.0), 3 days ago) - A python wrapper for the GitLab API.
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.9.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.9.0), 4 days ago) - A python wrapper for the GitLab API.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.6](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.6), 1 week ago) - Command Line Interface for Scaleway
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 month ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 4 months ago) - 115 Web Ecodesign Best Practices
@@ -48,7 +48,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [30 août 2022, 13:39](https://pouet.chapril.org/@arthurzenika/108912100699329957) (1 day ago)
+- [30 août 2022, 13:39](https://pouet.chapril.org/@arthurzenika/108912100699329957) (2 days ago)
 - [24 août 2022, 09:29](https://pouet.chapril.org/@arthurzenika/108877145464927687) (1 week ago)
 - [24 août 2022, 09:15](https://pouet.chapril.org/@arthurzenika/108877088883923687) (1 week ago)
 - [19 août 2022, 09:58](https://pouet.chapril.org/@arthurzenika/108848945435555571) (1 week ago)
