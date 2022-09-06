@@ -18,6 +18,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) -  (today)
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (1 month ago)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 months ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 months ago)
@@ -27,7 +28,6 @@ Say Hello, I don't bite!
 - [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (3 months ago)
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) - 115 Web Ecodesign Best Practices (3 months ago)
 - [zenika-open-source/zenika-a11y-components](https://github.com/zenika-open-source/zenika-a11y-components) -  (5 months ago)
-- [SocialGouv/dashlord](https://github.com/SocialGouv/dashlord) - The best-practices Dashboard (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -56,6 +56,8 @@ Say Hello, I don't bite!
 
 #### 🌱 My latest projects
 
+- [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) - 
+- [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) - 
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites
 - [arthurzenika/jupyterlite](https://github.com/arthurzenika/jupyterlite) - 
@@ -64,7 +66,6 @@ Say Hello, I don't bite!
 - [arthurzenika/kitchen-transport-rsync](https://github.com/arthurzenika/kitchen-transport-rsync) - 
 - [arthurzenika/cubicweb-formula](https://github.com/arthurzenika/cubicweb-formula) - 
 - [arthurzenika/uptime-formula](https://github.com/arthurzenika/uptime-formula) -  Set up and configure an uptime monitor with saltstack
-- [arthurzenika/d14n.github.io](https://github.com/arthurzenika/d14n.github.io) - d14n.github.io
 
 
 
