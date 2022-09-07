@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 {{range rss "https://pouet.chapril.org/@arthurzenika.rss" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Description}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 🌱 My latest projects
