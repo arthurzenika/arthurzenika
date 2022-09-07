@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 {{- end}}
 
 #### 📜 My recent blog posts 
-{{range rss https://blog.zenika.com/author/alutz/feed/" 5}}
+{{range rss "https://blog.zenika.com/author/alutz/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 {{range rss "https://arthur.pages.logilab.fr/blog/feed.xml" 5}}
