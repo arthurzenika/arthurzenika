@@ -6,6 +6,10 @@
 - Fediverse 🐘 : https://pouet.chapril.org/@arthurzenika
 - LinkedIn 👔:  https://www.linkedin.com/in/arthur-lutz-445a8a4a
 
+#### Current job - Zenika 
+
+- Blog : https://blog.zenika.com/author/alutz/
+
 #### Previous job - Logilab
 
 - Blog : https://arthur.pages.logilab.fr/blog/
