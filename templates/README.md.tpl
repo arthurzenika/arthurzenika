@@ -9,8 +9,8 @@
 #### Previous job - Logilab
 
 - Blog : https://arthur.pages.logilab.fr/blog/
-- Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
-- Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
+- Blog in 🇬🇧: https://web.archive.org/web/20170802184735/https://www.logilab.org/blog/6056/blogentries/alutz?vtitle=Blog%20entries%20by%20Arthur%20Lutz%20%5B38%5D
+- Blog in 🇫🇷: https://web.archive.org/web/20210411051550/https://www.logilab.org/blog/6724/blogentries/alutz
 
 #### 💬 Feedback
 
