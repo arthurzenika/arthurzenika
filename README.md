@@ -9,8 +9,8 @@
 #### Previous job - Logilab
 
 - Blog : https://arthur.pages.logilab.fr/blog/
-- Blog in 🇬🇧: https://www.logilab.org/blog/6056/blogentries/alutz
-- Blog in 🇫🇷: https://www.logilab.org/blog/6724/blogentries/alutz
+- Blog in 🇬🇧: https://web.archive.org/web/20170802184735/https://www.logilab.org/blog/6056/blogentries/alutz?vtitle=Blog%20entries%20by%20Arthur%20Lutz%20%5B38%5D
+- Blog in 🇫🇷: https://web.archive.org/web/20210411051550/https://www.logilab.org/blog/6724/blogentries/alutz
 
 #### 💬 Feedback
 
@@ -48,11 +48,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [07 sept. 2022, 13:23](https://pouet.chapril.org/@arthurzenika/108957337186849941) (today)
 - [07 sept. 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108956553268600951) (today)
 - [01 sept. 2022, 13:21](https://pouet.chapril.org/@arthurzenika/108923354342111653) (6 days ago)
 - [01 sept. 2022, 13:11](https://pouet.chapril.org/@arthurzenika/108923315458788933) (6 days ago)
 - [01 sept. 2022, 13:10](https://pouet.chapril.org/@arthurzenika/108923311727689216) (6 days ago)
-- [30 août 2022, 13:39](https://pouet.chapril.org/@arthurzenika/108912100699329957) (1 week ago)
 
 #### 🌱 My latest projects
 
