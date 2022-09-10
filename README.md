@@ -22,9 +22,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (2 days ago)
-- [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) -  (3 days ago)
-- [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) -  (3 days ago)
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (3 days ago)
+- [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) -  (4 days ago)
+- [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) -  (4 days ago)
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (1 month ago)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 months ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 months ago)
@@ -44,7 +44,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (2 days ago)
+- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (3 days ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (8 months ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (9 months ago)
@@ -54,9 +54,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [08 sept. 2022, 05:59](https://pouet.chapril.org/@arthurzenika/108961254464909453) (1 day ago)
-- [07 sept. 2022, 13:23](https://pouet.chapril.org/@arthurzenika/108957337186849941) (2 days ago)
-- [07 sept. 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108956553268600951) (2 days ago)
+- [08 sept. 2022, 05:59](https://pouet.chapril.org/@arthurzenika/108961254464909453) (2 days ago)
+- [07 sept. 2022, 13:23](https://pouet.chapril.org/@arthurzenika/108957337186849941) (3 days ago)
+- [07 sept. 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108956553268600951) (3 days ago)
 - [01 sept. 2022, 13:21](https://pouet.chapril.org/@arthurzenika/108923354342111653) (1 week ago)
 - [01 sept. 2022, 13:11](https://pouet.chapril.org/@arthurzenika/108923315458788933) (1 week ago)
 
