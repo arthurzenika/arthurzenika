@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (6 days ago)
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 week ago)
 - [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) -  (1 week ago)
 - [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) -  (1 week ago)
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (1 month ago)
@@ -44,19 +44,19 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (6 days ago)
+- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (1 week ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (9 months ago)
-- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (9 months ago)
+- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (10 months ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (2 years ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (2 years ago)
 - [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (2 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [08 sept. 2022, 05:59](https://pouet.chapril.org/@arthurzenika/108961254464909453) (5 days ago)
-- [07 sept. 2022, 13:23](https://pouet.chapril.org/@arthurzenika/108957337186849941) (6 days ago)
-- [07 sept. 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108956553268600951) (6 days ago)
+- [08 sept. 2022, 05:59](https://pouet.chapril.org/@arthurzenika/108961254464909453) (6 days ago)
+- [07 sept. 2022, 13:23](https://pouet.chapril.org/@arthurzenika/108957337186849941) (1 week ago)
+- [07 sept. 2022, 10:04](https://pouet.chapril.org/@arthurzenika/108956553268600951) (1 week ago)
 - [01 sept. 2022, 13:21](https://pouet.chapril.org/@arthurzenika/108923354342111653) (1 week ago)
 - [01 sept. 2022, 13:11](https://pouet.chapril.org/@arthurzenika/108923315458788933) (1 week ago)
 
