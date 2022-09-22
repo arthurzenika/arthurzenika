@@ -29,15 +29,15 @@ Say Hello, I don't bite!
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 months ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 months ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (2 months ago)
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (2 months ago)
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (3 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (3 months ago)
-- [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (3 months ago)
+- [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.9.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.9.0), 3 weeks ago) - A python wrapper for the GitLab API.
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.6](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.6), 4 weeks ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.6](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.6), 1 month ago) - Command Line Interface for Scaleway
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 2 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 4 months ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 11 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [21 sept. 2022, 13:22](https://pouet.chapril.org/@arthurzenika/109036605347914106) (today)
-- [21 sept. 2022, 13:21](https://pouet.chapril.org/@arthurzenika/109036600761575541) (today)
-- [21 sept. 2022, 13:11](https://pouet.chapril.org/@arthurzenika/109036559747133846) (today)
-- [21 sept. 2022, 13:09](https://pouet.chapril.org/@arthurzenika/109036553831717754) (today)
-- [21 sept. 2022, 09:31](https://pouet.chapril.org/@arthurzenika/109035696299211582) (today)
+- [21 sept. 2022, 13:22](https://pouet.chapril.org/@arthurzenika/109036605347914106) (1 day ago)
+- [21 sept. 2022, 13:21](https://pouet.chapril.org/@arthurzenika/109036600761575541) (1 day ago)
+- [21 sept. 2022, 13:11](https://pouet.chapril.org/@arthurzenika/109036559747133846) (1 day ago)
+- [21 sept. 2022, 13:09](https://pouet.chapril.org/@arthurzenika/109036553831717754) (1 day ago)
+- [21 sept. 2022, 09:31](https://pouet.chapril.org/@arthurzenika/109035696299211582) (1 day ago)
 
 #### 🌱 My latest projects
 
