@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.0), today) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.9.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.9.0), 3 weeks ago) - A python wrapper for the GitLab API.
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.5.6](https://github.com/scaleway/scaleway-cli/releases/tag/v2.5.6), 1 month ago) - Command Line Interface for Scaleway
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 2 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 4 months ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 11 months ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
