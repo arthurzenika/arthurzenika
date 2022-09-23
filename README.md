@@ -22,6 +22,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (today)
+- [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (today)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (2 weeks ago)
 - [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) -  (2 weeks ago)
 - [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) -  (2 weeks ago)
@@ -30,8 +32,6 @@ Say Hello, I don't bite!
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 months ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (2 months ago)
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API. (3 months ago)
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (3 months ago)
-- [MGDIS/gol-got](https://github.com/MGDIS/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables. (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
