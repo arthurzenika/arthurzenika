@@ -22,6 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (today)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (6 days ago)
 - [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (1 week ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
@@ -31,7 +32,6 @@ Say Hello, I don't bite!
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (2 months ago)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (3 months ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (3 months ago)
-- [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
