@@ -22,11 +22,11 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (2 days ago)
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (3 days ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (3 days ago)
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (4 days ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (1 week ago)
-- [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (1 week ago)
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (4 weeks ago)
+- [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (2 weeks ago)
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 month ago)
 - [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) -  (1 month ago)
 - [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) -  (1 month ago)
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (2 months ago)
@@ -44,7 +44,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (4 weeks ago)
+- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (1 month ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (9 months ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (10 months ago)
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [05 oct. 2022, 09:49](https://pouet.chapril.org/@arthurzenika/109115039774105570) (1 day ago)
-- [05 oct. 2022, 08:01](https://pouet.chapril.org/@arthurzenika/109114616148796364) (1 day ago)
-- [05 oct. 2022, 07:59](https://pouet.chapril.org/@arthurzenika/109114608811416466) (1 day ago)
-- [05 oct. 2022, 07:58](https://pouet.chapril.org/@arthurzenika/109114604164602048) (1 day ago)
-- [05 oct. 2022, 07:56](https://pouet.chapril.org/@arthurzenika/109114594721343195) (1 day ago)
+- [05 oct. 2022, 09:49](https://pouet.chapril.org/@arthurzenika/109115039774105570) (2 days ago)
+- [05 oct. 2022, 08:01](https://pouet.chapril.org/@arthurzenika/109114616148796364) (2 days ago)
+- [05 oct. 2022, 07:59](https://pouet.chapril.org/@arthurzenika/109114608811416466) (2 days ago)
+- [05 oct. 2022, 07:58](https://pouet.chapril.org/@arthurzenika/109114604164602048) (2 days ago)
+- [05 oct. 2022, 07:56](https://pouet.chapril.org/@arthurzenika/109114594721343195) (2 days ago)
 
 #### 🌱 My latest projects
 
