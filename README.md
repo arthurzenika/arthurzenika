@@ -22,16 +22,16 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (4 days ago)
+- [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (today)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (today)
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (4 days ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (4 days ago)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (1 week ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 weeks ago)
 - [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (2 weeks ago)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 month ago)
-- [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) -  (1 month ago)
 - [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) -  (1 month ago)
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway (2 months ago)
+- [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) -  (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
