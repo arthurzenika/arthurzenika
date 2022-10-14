@@ -22,14 +22,14 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (2 days ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (2 days ago)
-- [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (2 days ago)
-- [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (2 days ago)
-- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (6 days ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (3 days ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (3 days ago)
+- [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (3 days ago)
+- [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (3 days ago)
+- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (1 week ago)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (1 week ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 weeks ago)
-- [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (2 weeks ago)
+- [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (3 weeks ago)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 month ago)
 - [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) -  (1 month ago)
 
@@ -47,18 +47,18 @@ Say Hello, I don't bite!
 - [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (1 month ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (10 months ago)
-- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (10 months ago)
+- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (11 months ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (2 years ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (2 years ago)
 - [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (2 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [11 oct. 2022, 09:33](https://pouet.chapril.org/@arthurzenika/109148948608156444) (2 days ago)
-- [07 oct. 2022, 07:34](https://pouet.chapril.org/@arthurzenika/109125832160222049) (6 days ago)
-- [07 oct. 2022, 07:33](https://pouet.chapril.org/@arthurzenika/109125828470499654) (6 days ago)
-- [07 oct. 2022, 07:32](https://pouet.chapril.org/@arthurzenika/109125825128820844) (6 days ago)
-- [07 oct. 2022, 07:31](https://pouet.chapril.org/@arthurzenika/109125819547076445) (6 days ago)
+- [11 oct. 2022, 09:33](https://pouet.chapril.org/@arthurzenika/109148948608156444) (3 days ago)
+- [07 oct. 2022, 07:34](https://pouet.chapril.org/@arthurzenika/109125832160222049) (1 week ago)
+- [07 oct. 2022, 07:33](https://pouet.chapril.org/@arthurzenika/109125828470499654) (1 week ago)
+- [07 oct. 2022, 07:32](https://pouet.chapril.org/@arthurzenika/109125825128820844) (1 week ago)
+- [07 oct. 2022, 07:31](https://pouet.chapril.org/@arthurzenika/109125819547076445) (1 week ago)
 
 #### 🌱 My latest projects
 
