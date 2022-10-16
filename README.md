@@ -22,10 +22,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (4 days ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (4 days ago)
-- [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (4 days ago)
-- [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (4 days ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (5 days ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (5 days ago)
+- [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (5 days ago)
+- [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (5 days ago)
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (1 week ago)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (1 week ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 weeks ago)
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [14 oct. 2022, 12:18](https://pouet.chapril.org/@arthurzenika/109166585493536412) (1 day ago)
-- [14 oct. 2022, 10:28](https://pouet.chapril.org/@arthurzenika/109166152967194411) (1 day ago)
-- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166095361332318) (1 day ago)
-- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166093296575469) (1 day ago)
-- [14 oct. 2022, 10:11](https://pouet.chapril.org/@arthurzenika/109166086432056471) (1 day ago)
+- [14 oct. 2022, 12:18](https://pouet.chapril.org/@arthurzenika/109166585493536412) (2 days ago)
+- [14 oct. 2022, 10:28](https://pouet.chapril.org/@arthurzenika/109166152967194411) (2 days ago)
+- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166095361332318) (2 days ago)
+- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166093296575469) (2 days ago)
+- [14 oct. 2022, 10:11](https://pouet.chapril.org/@arthurzenika/109166086432056471) (2 days ago)
 
 #### 🌱 My latest projects
 
