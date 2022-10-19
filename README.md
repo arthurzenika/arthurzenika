@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.10.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.10.0), 2 weeks ago) - A python wrapper for the GitLab API.
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.10.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.10.0), 3 weeks ago) - A python wrapper for the GitLab API.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.0), 3 weeks ago) - Command Line Interface for Scaleway
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 3 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 5 months ago) - 115 Web Ecodesign Best Practices
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [14 oct. 2022, 12:18](https://pouet.chapril.org/@arthurzenika/109166585493536412) (4 days ago)
-- [14 oct. 2022, 10:28](https://pouet.chapril.org/@arthurzenika/109166152967194411) (4 days ago)
-- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166095361332318) (4 days ago)
-- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166093296575469) (4 days ago)
-- [14 oct. 2022, 10:11](https://pouet.chapril.org/@arthurzenika/109166086432056471) (4 days ago)
+- [14 oct. 2022, 12:18](https://pouet.chapril.org/@arthurzenika/109166585493536412) (5 days ago)
+- [14 oct. 2022, 10:28](https://pouet.chapril.org/@arthurzenika/109166152967194411) (5 days ago)
+- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166095361332318) (5 days ago)
+- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166093296575469) (5 days ago)
+- [14 oct. 2022, 10:11](https://pouet.chapril.org/@arthurzenika/109166086432056471) (5 days ago)
 
 #### 🌱 My latest projects
 
