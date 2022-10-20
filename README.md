@@ -37,7 +37,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.10.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.10.0), 3 weeks ago) - A python wrapper for the GitLab API.
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.0), 3 weeks ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.0), 4 weeks ago) - Command Line Interface for Scaleway
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 3 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 5 months ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 1 year ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [19 oct. 2022, 14:09](https://pouet.chapril.org/@arthurzenika/109195334862628153) (today)
-- [19 oct. 2022, 07:57](https://pouet.chapril.org/@arthurzenika/109193873318058348) (today)
-- [14 oct. 2022, 12:18](https://pouet.chapril.org/@arthurzenika/109166585493536412) (5 days ago)
-- [14 oct. 2022, 10:28](https://pouet.chapril.org/@arthurzenika/109166152967194411) (5 days ago)
-- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166095361332318) (5 days ago)
+- [19 oct. 2022, 14:09](https://pouet.chapril.org/@arthurzenika/109195334862628153) (1 day ago)
+- [19 oct. 2022, 07:57](https://pouet.chapril.org/@arthurzenika/109193873318058348) (1 day ago)
+- [14 oct. 2022, 12:18](https://pouet.chapril.org/@arthurzenika/109166585493536412) (6 days ago)
+- [14 oct. 2022, 10:28](https://pouet.chapril.org/@arthurzenika/109166152967194411) (6 days ago)
+- [14 oct. 2022, 10:13](https://pouet.chapril.org/@arthurzenika/109166095361332318) (6 days ago)
 
 #### 🌱 My latest projects
 
