@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (1 week ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (1 week ago)
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (2 weeks ago)
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (2 weeks ago)
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (3 weeks ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (3 weeks ago)
 - [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (1 month ago)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 month ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.1), 3 days ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.1), 4 days ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.10.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.10.0), 3 weeks ago) - A python wrapper for the GitLab API.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 3 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 5 months ago) - 115 Web Ecodesign Best Practices
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [21 oct. 2022, 09:30](https://pouet.chapril.org/@arthurzenika/109205561565238407) (2 days ago)
-- [21 oct. 2022, 09:26](https://pouet.chapril.org/@arthurzenika/109205546956735156) (2 days ago)
-- [21 oct. 2022, 09:23](https://pouet.chapril.org/@arthurzenika/109205534013553230) (2 days ago)
-- [21 oct. 2022, 07:35](https://pouet.chapril.org/@arthurzenika/109205107979025250) (2 days ago)
-- [21 oct. 2022, 07:27](https://pouet.chapril.org/@arthurzenika/109205077803502881) (2 days ago)
+- [21 oct. 2022, 09:30](https://pouet.chapril.org/@arthurzenika/109205561565238407) (3 days ago)
+- [21 oct. 2022, 09:26](https://pouet.chapril.org/@arthurzenika/109205546956735156) (3 days ago)
+- [21 oct. 2022, 09:23](https://pouet.chapril.org/@arthurzenika/109205534013553230) (3 days ago)
+- [21 oct. 2022, 07:35](https://pouet.chapril.org/@arthurzenika/109205107979025250) (3 days ago)
+- [21 oct. 2022, 07:27](https://pouet.chapril.org/@arthurzenika/109205077803502881) (3 days ago)
 
 #### 🌱 My latest projects
 
