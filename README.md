@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (2 weeks ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (2 weeks ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (2 weeks ago)
-- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (2 weeks ago)
+- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (3 weeks ago)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (3 weeks ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (1 month ago)
 - [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (1 month ago)
@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.11.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.11.0), today) - A python wrapper for the GitLab API.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.1), 1 week ago) - Command Line Interface for Scaleway
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.10.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.10.0), 4 weeks ago) - A python wrapper for the GitLab API.
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 3 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 6 months ago) - 115 Web Ecodesign Best Practices
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) ([v0.4.1](https://github.com/hubblo-org/scaphandre/releases/tag/v0.4.1), 1 year ago) - ⚡ Energy consumption metrology agent. Let &#34;scaph&#34; dive and bring back the metrics that will help you make your systems and applications more sustainable !
@@ -54,11 +54,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [21 oct. 2022, 09:30](https://pouet.chapril.org/@arthurzenika/109205561565238407) (6 days ago)
-- [21 oct. 2022, 09:26](https://pouet.chapril.org/@arthurzenika/109205546956735156) (6 days ago)
-- [21 oct. 2022, 09:23](https://pouet.chapril.org/@arthurzenika/109205534013553230) (6 days ago)
-- [21 oct. 2022, 07:35](https://pouet.chapril.org/@arthurzenika/109205107979025250) (6 days ago)
-- [21 oct. 2022, 07:27](https://pouet.chapril.org/@arthurzenika/109205077803502881) (6 days ago)
+- [21 oct. 2022, 09:30](https://pouet.chapril.org/@arthurzenika/109205561565238407) (1 week ago)
+- [21 oct. 2022, 09:26](https://pouet.chapril.org/@arthurzenika/109205546956735156) (1 week ago)
+- [21 oct. 2022, 09:23](https://pouet.chapril.org/@arthurzenika/109205534013553230) (1 week ago)
+- [21 oct. 2022, 07:35](https://pouet.chapril.org/@arthurzenika/109205107979025250) (1 week ago)
+- [21 oct. 2022, 07:27](https://pouet.chapril.org/@arthurzenika/109205077803502881) (1 week ago)
 
 #### 🌱 My latest projects
 
