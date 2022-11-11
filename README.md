@@ -23,7 +23,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (1 week ago)
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (4 weeks ago)
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (1 month ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 month ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (1 month ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (1 month ago)
@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.2](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.2), 3 days ago) - Command Line Interface for Scaleway
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.11.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.11.0), 1 week ago) - A python wrapper for the GitLab API.
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.2](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.2), 4 days ago) - Command Line Interface for Scaleway
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.11.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.11.0), 2 weeks ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 1 month ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 4 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 6 months ago) - 115 Web Ecodesign Best Practices
@@ -48,7 +48,7 @@ Say Hello, I don't bite!
 
 - [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (2 months ago)
 
-- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (10 months ago)
+- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (11 months ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (11 months ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (2 years ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (2 years ago)
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [10 nov. 2022, 16:35](https://pouet.chapril.org/@arthurzenika/109320479988013399) (today)
-- [10 nov. 2022, 13:27](https://pouet.chapril.org/@arthurzenika/109319741031241196) (today)
-- [10 nov. 2022, 13:25](https://pouet.chapril.org/@arthurzenika/109319732957120054) (today)
-- [10 nov. 2022, 13:04](https://pouet.chapril.org/@arthurzenika/109319647415318956) (today)
-- [08 nov. 2022, 13:03](https://pouet.chapril.org/@arthurzenika/109308320655509258) (2 days ago)
+- [10 nov. 2022, 16:35](https://pouet.chapril.org/@arthurzenika/109320479988013399) (1 day ago)
+- [10 nov. 2022, 13:27](https://pouet.chapril.org/@arthurzenika/109319741031241196) (1 day ago)
+- [10 nov. 2022, 13:25](https://pouet.chapril.org/@arthurzenika/109319732957120054) (1 day ago)
+- [10 nov. 2022, 13:04](https://pouet.chapril.org/@arthurzenika/109319647415318956) (1 day ago)
+- [08 nov. 2022, 13:03](https://pouet.chapril.org/@arthurzenika/109308320655509258) (3 days ago)
 
 #### 🌱 My latest projects
 
