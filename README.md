@@ -37,7 +37,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.6.2](https://github.com/scaleway/scaleway-cli/releases/tag/v2.6.2), 1 week ago) - Command Line Interface for Scaleway
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.11.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.11.0), 2 weeks ago) - A python wrapper for the GitLab API.
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.11.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.11.0), 3 weeks ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 1 month ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 4 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 6 months ago) - 115 Web Ecodesign Best Practices
@@ -56,9 +56,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109359356768412919) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109358624126005627) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109358320637375574) (today)
+- [](https://pouet.chapril.org/@arthurzenika/109359356768412919) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109358624126005627) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109358320637375574) (1 day ago)
 - [](https://pouet.chapril.org/@arthurzenika/109320479988013399) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109319741031241196) (1 week ago)
 
