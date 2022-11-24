@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (2 weeks ago)
+- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (3 weeks ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (1 month ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 month ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (1 month ago)
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109393779202421292) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109393767702217500) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109393754509162481) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109393276176820649) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109364451954646969) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109393779202421292) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109393767702217500) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109393754509162481) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109393276176820649) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109364451954646969) (6 days ago)
 
 #### 🌱 My latest projects
 
