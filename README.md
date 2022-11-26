@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (1 month ago)
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (1 month ago)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (1 month ago)
-- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (1 month ago)
+- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 months ago)
 - [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (2 months ago)
 
 
@@ -40,7 +40,7 @@ Say Hello, I don't bite!
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.11.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.11.0), 4 weeks ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 1 month ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 4 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
-- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 6 months ago) - 115 Web Ecodesign Best Practices
+- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 7 months ago) - 115 Web Ecodesign Best Practices
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 1 year ago) - An open-source cross-platform traceroute/ping analyser.
 
 #### 📜 My recent blog posts 
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109404749488383780) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109404644752489086) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109403459626359937) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109403450333726149) (today)
-- [](https://pouet.chapril.org/@arthurzenika/109403436628775833) (today)
+- [](https://pouet.chapril.org/@arthurzenika/109404749488383780) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109404644752489086) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109403459626359937) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109403450333726149) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109403436628775833) (1 day ago)
 
 #### 🌱 My latest projects
 
