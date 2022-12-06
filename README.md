@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 month ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (1 month ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (1 month ago)
-- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (1 month ago)
+- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (2 months ago)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (2 months ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 months ago)
 - [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (2 months ago)
@@ -45,7 +45,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (2 months ago)
+- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (3 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (11 months ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (1 year ago)
@@ -55,9 +55,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109428124366731572) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109428118618336990) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109427937383798431) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109428124366731572) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/109428118618336990) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/109427937383798431) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109404749488383780) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109404644752489086) (1 week ago)
 
