@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.7.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.7.0), 1 week ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.7.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.7.0), 2 weeks ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 3 weeks ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 2 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 5 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
@@ -55,8 +55,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109517257828579542) (5 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109517249104546058) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109517257828579542) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109517249104546058) (6 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/109506232554910623) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109500484882962119) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109500474808674709) (1 week ago)
