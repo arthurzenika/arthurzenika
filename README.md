@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (2 months ago)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (2 months ago)
 - [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 months ago)
-- [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (2 months ago)
+- [Zenika/github-insights](https://github.com/Zenika/github-insights) - GitHub Insights for organization (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -55,8 +55,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109517257828579542) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109517249104546058) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109517257828579542) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/109517249104546058) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109506232554910623) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109500484882962119) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109500474808674709) (1 week ago)
