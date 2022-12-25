@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.1.12](https://github.com/Infisical/infisical/releases/tag/v0.1.12), today) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.1.13](https://github.com/Infisical/infisical/releases/tag/v0.1.13), today) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.7.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.7.0), 2 weeks ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 3 weeks ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 2 months ago) - Python API for ServiceNow
