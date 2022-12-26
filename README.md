@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure. (4 days ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure. (5 days ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (1 month ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (2 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (2 months ago)
@@ -31,17 +31,17 @@ Say Hello, I don't bite!
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (2 months ago)
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (2 months ago)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops (2 months ago)
-- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (2 months ago)
+- [nantes-tech-communities/list-communities](https://github.com/nantes-tech-communities/list-communities) - Liste des communautés tech Nantaises (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.1.14](https://github.com/Infisical/infisical/releases/tag/v0.1.14), today) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.1.14](https://github.com/Infisical/infisical/releases/tag/v0.1.14), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.7.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.7.0), 2 weeks ago) - Command Line Interface for Scaleway
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 3 weeks ago) - A python wrapper for the GitLab API.
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 4 weeks ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 2 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 5 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
-- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 7 months ago) - 115 Web Ecodesign Best Practices
+- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 8 months ago) - 115 Web Ecodesign Best Practices
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 1 year ago) - An open-source cross-platform traceroute/ping analyser.
 
 #### 📜 My recent blog posts 
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109563981285418056) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563979011820452) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563879107041733) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563873969585831) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563865747225752) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563981285418056) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563979011820452) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563879107041733) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563873969585831) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563865747225752) (3 days ago)
 
 #### 🌱 My latest projects
 
