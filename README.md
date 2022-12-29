@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.1.16](https://github.com/Infisical/infisical/releases/tag/v0.1.16), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.1.16](https://github.com/Infisical/infisical/releases/tag/v0.1.16), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.7.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.7.0), 3 weeks ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 1 month ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 3 months ago) - Python API for ServiceNow
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109563981285418056) (5 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563979011820452) (5 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563879107041733) (5 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563873969585831) (5 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563865747225752) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563981285418056) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563979011820452) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563879107041733) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563873969585831) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563865747225752) (6 days ago)
 
 #### 🌱 My latest projects
 
