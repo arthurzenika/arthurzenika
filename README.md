@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure. (1 week ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure. (2 weeks ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (2 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (2 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (2 months ago)
@@ -37,7 +37,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.1.16](https://github.com/Infisical/infisical/releases/tag/v0.1.16), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.7.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.7.0), 3 weeks ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.7.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.7.0), 4 weeks ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 1 month ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 3 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 6 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
@@ -56,7 +56,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109626051950432973) (today)
+- [](https://pouet.chapril.org/@arthurzenika/109626051950432973) (1 day ago)
 - [](https://pouet.chapril.org/@arthurzenika/109563981285418056) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109563979011820452) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109563879107041733) (1 week ago)
