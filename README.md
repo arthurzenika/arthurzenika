@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.8.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.8.0), 1 day ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.8.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.8.0), 2 days ago) - Command Line Interface for Scaleway
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.1.16](https://github.com/Infisical/infisical/releases/tag/v0.1.16), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 1 month ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 3 months ago) - Python API for ServiceNow
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109631042886251879) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/109626051950432973) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563981285418056) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563979011820452) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/109563879107041733) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/109631042886251879) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109626051950432973) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563981285418056) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563979011820452) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/109563879107041733) (2 weeks ago)
 
 #### 🌱 My latest projects
 
