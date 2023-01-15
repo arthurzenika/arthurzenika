@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.2](https://github.com/Infisical/infisical/releases/tag/v0.2.2), today) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.2](https://github.com/Infisical/infisical/releases/tag/v0.2.2), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.8.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.8.0), 1 week ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 1 month ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 3 months ago) - Python API for ServiceNow
@@ -56,11 +56,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109682152331521654) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/109680980569867285) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/109680972043984910) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/109677595792394914) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109677566902627186) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109682152331521654) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109680980569867285) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109680972043984910) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109677595792394914) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109677566902627186) (3 days ago)
 
 #### 🌱 My latest projects
 
