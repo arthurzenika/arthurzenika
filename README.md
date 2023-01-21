@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.4](https://github.com/Infisical/infisical/releases/tag/v0.2.4), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.5](https://github.com/Infisical/infisical/releases/tag/v0.2.5), today) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.8.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.8.0), 2 weeks ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 1 month ago) - A python wrapper for the GitLab API.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.0.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.0.0), 2 months ago) - Python library for HPE OneView
