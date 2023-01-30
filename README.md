@@ -36,9 +36,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), today) - A python wrapper for the GitLab API.
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.8](https://github.com/Infisical/infisical/releases/tag/v0.2.8), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.10.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.10.0), 6 days ago) - Command Line Interface for Scaleway
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.12.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.12.0), 2 months ago) - A python wrapper for the GitLab API.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.0.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.0.0), 2 months ago) - Python library for HPE OneView
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 4 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 6 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
