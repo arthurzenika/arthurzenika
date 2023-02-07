@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.17](https://github.com/Infisical/infisical/releases/tag/v0.2.17), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 5 days ago) - Python library for HPE OneView
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.17](https://github.com/Infisical/infisical/releases/tag/v0.2.17), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 6 days ago) - Python library for HPE OneView
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 1 week ago) - A python wrapper for the GitLab API.
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.10.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.10.0), 1 week ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.10.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.10.0), 2 weeks ago) - Command Line Interface for Scaleway
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 4 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 7 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 9 months ago) - 115 Web Ecodesign Best Practices
@@ -57,9 +57,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109799929365881557) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109799870206431479) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109794365445189567) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109799929365881557) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109799870206431479) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109794365445189567) (5 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/109760761764412649) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109721759030800122) (2 weeks ago)
 
