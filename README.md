@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.17](https://github.com/Infisical/infisical/releases/tag/v0.2.17), 5 days ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.18](https://github.com/Infisical/infisical/releases/tag/v0.2.18), today) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 1 week ago) - Python library for HPE OneView
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 1 week ago) - A python wrapper for the GitLab API.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.1](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.1), 1 week ago) - Container Signing
