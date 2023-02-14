@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 days ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (6 days ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure. (1 month ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (2 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (3 months ago)
@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.20](https://github.com/Infisical/infisical/releases/tag/v0.2.20), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.2](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.2), 3 days ago) - Container Signing
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.20](https://github.com/Infisical/infisical/releases/tag/v0.2.20), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.2](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.2), 4 days ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 1 week ago) - Python library for HPE OneView
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 2 weeks ago) - A python wrapper for the GitLab API.
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.10.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.10.0), 2 weeks ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.10.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.10.0), 3 weeks ago) - Command Line Interface for Scaleway
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 4 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 7 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 9 months ago) - 115 Web Ecodesign Best Practices
@@ -58,11 +58,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109840976904965238) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109840125302183379) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109840104866536751) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109835611799155339) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109835596947230868) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109840976904965238) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109840125302183379) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109840104866536751) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109835611799155339) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109835596947230868) (5 days ago)
 
 #### 🌱 My latest projects
 
