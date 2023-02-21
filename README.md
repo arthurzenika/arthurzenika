@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.3](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.3), 4 days ago) - Container Signing
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.24](https://github.com/Infisical/infisical/releases/tag/v0.2.24), 5 days ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.3](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.3), 5 days ago) - Container Signing
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.24](https://github.com/Infisical/infisical/releases/tag/v0.2.24), 6 days ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 2 weeks ago) - Python library for HPE OneView
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 3 weeks ago) - A python wrapper for the GitLab API.
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.10.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.10.0), 3 weeks ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.10.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.10.0), 4 weeks ago) - Command Line Interface for Scaleway
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 4 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 7 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 9 months ago) - 115 Web Ecodesign Best Practices
@@ -58,11 +58,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109869817404670292) (5 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109869609837668035) (5 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109868906985371128) (5 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109864143205343705) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/109862898474366796) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109869817404670292) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109869609837668035) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109868906985371128) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109864143205343705) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/109862898474366796) (1 week ago)
 
 #### 🌱 My latest projects
 
