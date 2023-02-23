@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.11.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.11.1), today) - Command Line Interface for Scaleway
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.3](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.3), 6 days ago) - Container Signing
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.11.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.11.1), 1 day ago) - Command Line Interface for Scaleway
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.3](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.3), 1 week ago) - Container Signing
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.2.24](https://github.com/Infisical/infisical/releases/tag/v0.2.24), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 3 weeks ago) - Python library for HPE OneView
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 3 weeks ago) - A python wrapper for the GitLab API.
@@ -48,7 +48,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (1 day ago)
+- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (2 days ago)
 - [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (5 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (1 year ago)
@@ -59,7 +59,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109901633573073500) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/109901633573073500) (2 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/109869817404670292) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109869609837668035) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109868906985371128) (1 week ago)
