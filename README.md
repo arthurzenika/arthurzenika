@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (2 weeks ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (3 weeks ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (2 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (2 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (3 months ago)
@@ -36,13 +36,13 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.5](https://github.com/Infisical/infisical/releases/tag/v0.3.5), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 4 days ago) - Container Signing
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.11.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.11.1), 6 days ago) - Command Line Interface for Scaleway
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 3 weeks ago) - Python library for HPE OneView
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 4 weeks ago) - A python wrapper for the GitLab API.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.6](https://github.com/Infisical/infisical/releases/tag/v0.3.6), today) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 6 days ago) - Container Signing
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.11.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.11.1), 1 week ago) - Command Line Interface for Scaleway
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 4 weeks ago) - Python library for HPE OneView
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 1 month ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 5 months ago) - Python API for ServiceNow
-- [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 7 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
+- [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 8 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 10 months ago) - 115 Web Ecodesign Best Practices
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 2 years ago) - An open-source cross-platform traceroute/ping analyser.
 
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109913505847382868) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109913505847382868) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109901633573073500) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/109869817404670292) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/109869609837668035) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/109868906985371128) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/109869817404670292) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/109869609837668035) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/109868906985371128) (2 weeks ago)
 
 #### 🌱 My latest projects
 
