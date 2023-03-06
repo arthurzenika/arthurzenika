@@ -31,12 +31,12 @@ Say Hello, I don't bite!
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (4 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (4 months ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (4 months ago)
-- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (4 months ago)
+- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.6](https://github.com/Infisical/infisical/releases/tag/v0.3.6), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.6](https://github.com/Infisical/infisical/releases/tag/v0.3.6), 4 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 1 week ago) - Container Signing
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.11.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.11.1), 1 week ago) - Command Line Interface for Scaleway
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 1 month ago) - Python library for HPE OneView
@@ -49,7 +49,7 @@ Say Hello, I don't bite!
 #### 📜 My recent blog posts 
 
 - [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (1 week ago)
-- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (5 months ago)
+- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (6 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (1 year ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (1 year ago)
@@ -59,7 +59,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109958383728993751) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109958383728993751) (3 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/109913505847382868) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109901633573073500) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109869817404670292) (2 weeks ago)
