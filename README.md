@@ -22,23 +22,23 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (4 weeks ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (1 month ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (2 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (2 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (4 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (4 months ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (4 months ago)
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (4 months ago)
-- [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (4 months ago)
-- [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (4 months ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (5 months ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (5 months ago)
+- [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (5 months ago)
+- [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (5 months ago)
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.12.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.12.0), 1 day ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.12.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.12.0), 2 days ago) - Command Line Interface for Scaleway
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.6](https://github.com/Infisical/infisical/releases/tag/v0.3.6), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 1 week ago) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 2 weeks ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 1 month ago) - Python library for HPE OneView
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 1 month ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 5 months ago) - Python API for ServiceNow
@@ -59,7 +59,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109958383728993751) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/109958383728993751) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109913505847382868) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/109901633573073500) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/109869817404670292) (3 weeks ago)
