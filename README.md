@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (2 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (2 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (4 months ago)
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (4 months ago)
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (5 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (5 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (5 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (5 months ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.12.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.12.0), 2 days ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.12.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.12.0), 3 days ago) - Command Line Interface for Scaleway
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.6](https://github.com/Infisical/infisical/releases/tag/v0.3.6), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 2 weeks ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.1.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.1.0), 1 month ago) - Python library for HPE OneView
@@ -59,7 +59,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/109999958680928585) (today)
+- [](https://pouet.chapril.org/@arthurzenika/109999958680928585) (1 day ago)
 - [](https://pouet.chapril.org/@arthurzenika/109958383728993751) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/109913505847382868) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/109901633573073500) (2 weeks ago)
