@@ -23,7 +23,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (1 month ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (2 months ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (3 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (3 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (4 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (5 months ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 5 days ago) - Python library for HPE OneView
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 6 days ago) - Python library for HPE OneView
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.12.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.12.0), 1 week ago) - Command Line Interface for Scaleway
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.6](https://github.com/Infisical/infisical/releases/tag/v0.3.6), 2 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 3 weeks ago) - Container Signing
@@ -48,7 +48,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (3 weeks ago)
+- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (4 weeks ago)
 - [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (6 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (1 year ago)
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110033928178885719) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110033925616313749) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110033910764090710) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110033908555997099) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110033904854738018) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110033928178885719) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110033925616313749) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110033910764090710) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110033908555997099) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110033904854738018) (5 days ago)
 
 #### 🌱 My latest projects
 
