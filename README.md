@@ -36,14 +36,14 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.13.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.13.0), 4 days ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.13.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.13.0), 5 days ago) - Command Line Interface for Scaleway
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 1 week ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.6](https://github.com/Infisical/infisical/releases/tag/v0.3.6), 3 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 4 weeks ago) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 1 month ago) - Container Signing
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 1 month ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 5 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 8 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
-- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 10 months ago) - 115 Web Ecodesign Best Practices
+- [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 11 months ago) - 115 Web Ecodesign Best Practices
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 2 years ago) - An open-source cross-platform traceroute/ping analyser.
 
 #### 📜 My recent blog posts 
@@ -59,9 +59,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110067198591180947) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110067174086909020) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110067153594507456) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110067198591180947) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110067174086909020) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110067153594507456) (4 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110033928178885719) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110033925616313749) (1 week ago)
 
