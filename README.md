@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [](https://pouet.chapril.org/@arthurzenika/110100170273765863) (today)
 - [](https://pouet.chapril.org/@arthurzenika/110067198591180947) (6 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110067174086909020) (6 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110067153594507456) (6 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110033928178885719) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/110033925616313749) (1 week ago)
 
 #### 🌱 My latest projects
 
