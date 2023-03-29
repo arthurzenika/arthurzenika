@@ -36,9 +36,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.13.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.13.0), 1 week ago) - Command Line Interface for Scaleway
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 1 week ago) - Python library for HPE OneView
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 2 weeks ago) - Python library for HPE OneView
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 1 month ago) - Container Signing
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 1 month ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 6 months ago) - Python API for ServiceNow
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110101349672209403) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110101341761529198) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110100170273765863) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110067198591180947) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110067174086909020) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110101349672209403) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110101341761529198) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110100170273765863) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110067198591180947) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/110067174086909020) (1 week ago)
 
 #### 🌱 My latest projects
 
