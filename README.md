@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (1 month ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (3 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (3 months ago)
-- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (4 months ago)
+- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (5 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (5 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (5 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (5 months ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 5 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 6 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.13.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.13.0), 1 week ago) - Command Line Interface for Scaleway
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 2 weeks ago) - Python library for HPE OneView
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0), 1 month ago) - Container Signing
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110118208543748297) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/110106602658645059) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110106600357480387) (3 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110101349672209403) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110101341761529198) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110118208543748297) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110106602658645059) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110106600357480387) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110101349672209403) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110101341761529198) (5 days ago)
 
 #### 🌱 My latest projects
 
