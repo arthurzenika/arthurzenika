@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (3 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (3 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (5 months ago)
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (5 months ago)
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (6 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (6 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (6 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (6 months ago)
@@ -36,9 +36,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 3 days ago) - Container Signing
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 6 days ago) - Command Line Interface for Scaleway
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 4 days ago) - Container Signing
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 1 week ago) - Command Line Interface for Scaleway
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 2 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 3 weeks ago) - Python library for HPE OneView
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 2 months ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 6 months ago) - Python API for ServiceNow
