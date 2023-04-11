@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), today) - A python wrapper for the GitLab API.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 5 days ago) - Container Signing
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 1 week ago) - Command Line Interface for Scaleway
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 2 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 3 weeks ago) - Python library for HPE OneView
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.13.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.13.0), 2 months ago) - A python wrapper for the GitLab API.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 6 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 9 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 11 months ago) - 115 Web Ecodesign Best Practices
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
+- [](https://pouet.chapril.org/@arthurzenika/110180196692878917) (today)
 - [](https://pouet.chapril.org/@arthurzenika/110118208543748297) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110106602658645059) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110106600357480387) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110101349672209403) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110101341761529198) (2 weeks ago)
 
 #### 🌱 My latest projects
 
