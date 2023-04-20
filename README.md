@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.4.0](https://github.com/Infisical/infisical/releases/tag/v0.4.0), today) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), 1 week ago) - A python wrapper for the GitLab API.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 2 weeks ago) - Container Signing
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 2 weeks ago) - Command Line Interface for Scaleway
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 3 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 1 month ago) - Python library for HPE OneView
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 6 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 9 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
