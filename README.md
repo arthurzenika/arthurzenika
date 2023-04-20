@@ -23,7 +23,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (2 months ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (3 months ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (4 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (4 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (5 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (6 months ago)
@@ -37,7 +37,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), 1 week ago) - A python wrapper for the GitLab API.
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 1 week ago) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 2 weeks ago) - Container Signing
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 2 weeks ago) - Command Line Interface for Scaleway
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.3.7](https://github.com/Infisical/infisical/releases/tag/v0.3.7), 3 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 1 month ago) - Python library for HPE OneView
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110225982183573412) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110225789828557922) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110225720669523676) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110225701502185006) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110225574933487817) (today)
+- [](https://pouet.chapril.org/@arthurzenika/110225982183573412) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110225789828557922) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110225720669523676) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110225701502185006) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110225574933487817) (1 day ago)
 
 #### 🌱 My latest projects
 
