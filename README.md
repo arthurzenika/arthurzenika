@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.4.1](https://github.com/Infisical/infisical/releases/tag/v0.4.1), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.4.1](https://github.com/Infisical/infisical/releases/tag/v0.4.1), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), 1 week ago) - A python wrapper for the GitLab API.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 2 weeks ago) - Container Signing
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 2 weeks ago) - Command Line Interface for Scaleway
@@ -48,7 +48,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (1 month ago)
+- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (2 months ago)
 - [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (7 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (1 year ago)
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110237572828665206) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110237558447300504) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110237537029701032) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110237519679341166) (today)
+- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237572828665206) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237558447300504) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237537029701032) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237519679341166) (1 day ago)
 
 #### 🌱 My latest projects
 
