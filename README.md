@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.4.1](https://github.com/Infisical/infisical/releases/tag/v0.4.1), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.4.1](https://github.com/Infisical/infisical/releases/tag/v0.4.1), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), 1 week ago) - A python wrapper for the GitLab API.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 2 weeks ago) - Container Signing
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 2 weeks ago) - Command Line Interface for Scaleway
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237572828665206) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237558447300504) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237537029701032) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237519679341166) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237572828665206) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237558447300504) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237537029701032) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237519679341166) (2 days ago)
 
 #### 🌱 My latest projects
 
