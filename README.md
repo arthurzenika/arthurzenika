@@ -36,12 +36,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 1 day ago) - Container Signing
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.4.2](https://github.com/Infisical/infisical/releases/tag/v0.4.2), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.1](https://github.com/ServiceNow/PySNC/releases/tag/1.1.1), today) - Python API for ServiceNow
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 2 days ago) - Container Signing
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([v0.4.2](https://github.com/Infisical/infisical/releases/tag/v0.4.2), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), 2 weeks ago) - A python wrapper for the GitLab API.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 3 weeks ago) - Command Line Interface for Scaleway
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.2.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.2.0), 1 month ago) - Python library for HPE OneView
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.0.7](https://github.com/ServiceNow/PySNC/releases/tag/1.0.7), 6 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 9 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [cnumr/best-practices](https://github.com/cnumr/best-practices) ([v4.0.0](https://github.com/cnumr/best-practices/releases/tag/v4.0.0), 1 year ago) - 115 Web Ecodesign Best Practices
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 2 years ago) - An open-source cross-platform traceroute/ping analyser.
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237572828665206) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237558447300504) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237537029701032) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237519679341166) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237572828665206) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237558447300504) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237537029701032) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237519679341166) (5 days ago)
 
 #### 🌱 My latest projects
 
