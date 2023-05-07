@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.4.5](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.4.5), today) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.4.6](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.4.6), today) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 5 days ago) - Python library for HPE OneView
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.3](https://github.com/ServiceNow/PySNC/releases/tag/1.1.3), 1 week ago) - Python API for ServiceNow
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 1 week ago) - Container Signing
