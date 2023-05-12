@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 3 days ago) - Python API for ServiceNow
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.4.8](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.4.8), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 4 days ago) - Python API for ServiceNow
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.4.8](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.4.8), 4 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 1 week ago) - Python library for HPE OneView
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 2 weeks ago) - Container Signing
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), 1 month ago) - A python wrapper for the GitLab API.
@@ -52,18 +52,18 @@ Say Hello, I don't bite!
 - [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (8 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (1 year ago)
-- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (1 year ago)
+- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (2 years ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (2 years ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (2 years ago)
 - [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (2 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110337730581590871) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110337730581590871) (3 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110304377020661929) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237572828665206) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (3 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237572828665206) (3 weeks ago)
 
 #### 🌱 My latest projects
 
