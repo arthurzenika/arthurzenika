@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.5.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.5.1), today) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.5.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.5.1), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 1 week ago) - Python API for ServiceNow
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 2 weeks ago) - Python library for HPE OneView
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 3 weeks ago) - Container Signing
@@ -58,11 +58,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (2 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110337730581590871) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110304377020661929) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (3 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110237579710672619) (4 weeks ago)
 
 #### 🌱 My latest projects
 
