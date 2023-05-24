@@ -22,16 +22,16 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (today)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (3 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure. (5 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (5 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (6 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (6 months ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (7 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (7 months ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (7 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (7 months ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (7 months ago)
-- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -66,6 +66,7 @@ Say Hello, I don't bite!
 
 #### 🌱 My latest projects
 
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) - 
 - [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) - 
 - [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) - 
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/
@@ -75,7 +76,6 @@ Say Hello, I don't bite!
 - [arthurzenika/datocms-vue.js-profile-card-website-demo](https://github.com/arthurzenika/datocms-vue.js-profile-card-website-demo) - 
 - [arthurzenika/kitchen-transport-rsync](https://github.com/arthurzenika/kitchen-transport-rsync) - 
 - [arthurzenika/cubicweb-formula](https://github.com/arthurzenika/cubicweb-formula) - 
-- [arthurzenika/uptime-formula](https://github.com/arthurzenika/uptime-formula) -  Set up and configure an uptime monitor with saltstack
 
 
 
