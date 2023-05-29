@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (2 days ago)
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (3 days ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (3 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (5 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (5 months ago)
@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.6.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.6.2), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 2 weeks ago) - Python API for ServiceNow
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.6.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.6.2), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 3 weeks ago) - Python API for ServiceNow
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 3 weeks ago) - Python library for HPE OneView
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 1 month ago) - Container Signing
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), 1 month ago) - A python wrapper for the GitLab API.
@@ -58,7 +58,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (5 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110337730581590871) (2 weeks ago)
