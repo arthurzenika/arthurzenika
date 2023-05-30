@@ -22,6 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (today)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (4 days ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (3 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (5 months ago)
@@ -29,13 +30,13 @@ Say Hello, I don't bite!
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (6 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (6 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (7 months ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (7 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (7 months ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.2](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.2), today) - Get your resource requests &#34;Just Right&#34;
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.6.4](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.6.4), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 3 weeks ago) - Python API for ServiceNow
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 4 weeks ago) - Python library for HPE OneView
