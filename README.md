@@ -22,13 +22,13 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 day ago)
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (5 days ago)
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (2 days ago)
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (6 days ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (3 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (5 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (5 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (6 months ago)
-- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (6 months ago)
+- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (7 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (7 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (7 months ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (7 months ago)
@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.2](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.2), 1 day ago) - Get your resource requests &#34;Just Right&#34;
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.6.4](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.6.4), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.2](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.2), 2 days ago) - Get your resource requests &#34;Just Right&#34;
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.6.4](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.6.4), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 3 weeks ago) - Python API for ServiceNow
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 4 weeks ago) - Python library for HPE OneView
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 1 month ago) - Python library for HPE OneView
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 1 month ago) - Container Signing
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.14.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0), 1 month ago) - A python wrapper for the GitLab API.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.14.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.14.0), 1 month ago) - Command Line Interface for Scaleway
@@ -59,10 +59,10 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (today)
+- [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (1 day ago)
 - [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (3 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110337730581590871) (3 weeks ago)
 
 #### 🌱 My latest projects
