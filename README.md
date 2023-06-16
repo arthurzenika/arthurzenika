@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.16.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.16.1), 2 days ago) - Command Line Interface for Scaleway
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.15.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.15.0), 6 days ago) - A python wrapper for the GitLab API.
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.16.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.16.1), 3 days ago) - Command Line Interface for Scaleway
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.15.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.15.0), 1 week ago) - A python wrapper for the GitLab API.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.3](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.3), 1 week ago) - Get your resource requests &#34;Just Right&#34;
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.6.4](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.6.4), 2 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 1 month ago) - Python API for ServiceNow
@@ -61,7 +61,7 @@ Say Hello, I don't bite!
 
 - [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (3 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (4 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110337730581590871) (1 month ago)
 
