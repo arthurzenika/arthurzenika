@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 week ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (2 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (4 months ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (5 months ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (6 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (6 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (6 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (7 months ago)
@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.16.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.16.1), 5 days ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.16.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.16.1), 6 days ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.15.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.15.0), 1 week ago) - A python wrapper for the GitLab API.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.3](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.3), 1 week ago) - Get your resource requests &#34;Just Right&#34;
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.6.4](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.6.4), 2 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.6.4](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.6.4), 3 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 1 month ago) - Python API for ServiceNow
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 1 month ago) - Python library for HPE OneView
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 1 month ago) - Container Signing
