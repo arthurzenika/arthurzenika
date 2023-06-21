@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 week ago)
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (2 weeks ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (3 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (4 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (6 months ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.7.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.7.0), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.7.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.7.0), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.16.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.16.1), 1 week ago) - Command Line Interface for Scaleway
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.15.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.15.0), 1 week ago) - A python wrapper for the GitLab API.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.3](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.3), 2 weeks ago) - Get your resource requests &#34;Just Right&#34;
@@ -48,7 +48,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (3 months ago)
+- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (4 months ago)
 - [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (9 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (2 years ago)
@@ -59,8 +59,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (3 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (3 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (4 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110337730581590871) (1 month ago)
