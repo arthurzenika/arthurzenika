@@ -36,13 +36,13 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.8.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.8.0), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.8.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.8.0), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.16.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.16.1), 1 week ago) - Command Line Interface for Scaleway
-- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.15.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.15.0), 1 week ago) - A python wrapper for the GitLab API.
+- [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) ([v3.15.0](https://github.com/python-gitlab/python-gitlab/releases/tag/v3.15.0), 2 weeks ago) - A python wrapper for the GitLab API.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.3](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.3), 2 weeks ago) - Get your resource requests &#34;Just Right&#34;
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 1 month ago) - Python API for ServiceNow
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.3.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.3.0), 1 month ago) - Python library for HPE OneView
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 1 month ago) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.2](https://github.com/sigstore/cosign/releases/tag/v2.0.2), 2 months ago) - Container Signing
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 11 months ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 2 years ago) - An open-source cross-platform traceroute/ping analyser.
 
@@ -60,7 +60,7 @@ Say Hello, I don't bite!
 #### 📜 My recent posts on the fediverse 🐘
 
 - [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (3 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (4 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110349316020386718) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110337730581590871) (1 month ago)
