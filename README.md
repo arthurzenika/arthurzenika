@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), today) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), today) - Python library for HPE OneView
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.0](https://github.com/sigstore/cosign/releases/tag/v2.1.0), 3 days ago) - Container Signing
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.8.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.8.0), 6 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.16.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.16.1), 2 weeks ago) - Command Line Interface for Scaleway
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.3](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.3), 3 weeks ago) - Get your resource requests &#34;Just Right&#34;
