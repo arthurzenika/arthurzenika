@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (6 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (6 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (7 months ago)
-- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (7 months ago)
+- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (8 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (8 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (8 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (8 months ago)
@@ -36,9 +36,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.8.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.8.1), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 3 days ago) - Container Signing
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 3 days ago) - Python library for HPE OneView
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.8.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.8.1), 4 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 4 days ago) - Container Signing
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 4 days ago) - Python library for HPE OneView
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.16.1](https://github.com/scaleway/scaleway-cli/releases/tag/v2.16.1), 2 weeks ago) - Command Line Interface for Scaleway
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.8.3](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.8.3), 3 weeks ago) - Get your resource requests &#34;Just Right&#34;
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 1 month ago) - Python API for ServiceNow
@@ -58,7 +58,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110610403068068965) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110610403068068965) (5 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110384457931023806) (1 month ago)
