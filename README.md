@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (3 weeks ago)
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (4 weeks ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 month ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (4 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (6 months ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.17.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.17.0), today) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.17.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.17.0), 1 day ago) - Command Line Interface for Scaleway
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.8.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.8.1), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 1 week ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 1 week ago) - Python library for HPE OneView
