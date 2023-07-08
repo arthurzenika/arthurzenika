@@ -24,19 +24,19 @@ Say Hello, I don't bite!
 
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 month ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 month ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (4 months ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (6 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (6 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (7 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (8 months ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (8 months ago)
-- [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (8 months ago)
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (8 months ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (9 months ago)
+- [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (9 months ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.17.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.17.0), 3 days ago) - Command Line Interface for Scaleway
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.17.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.17.0), 4 days ago) - Command Line Interface for Scaleway
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.8.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.8.1), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 1 week ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 1 week ago) - Python library for HPE OneView
