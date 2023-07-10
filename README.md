@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.9.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.9.1), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.9.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.9.2), today) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.17.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.17.0), 6 days ago) - Command Line Interface for Scaleway
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 1 week ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 1 week ago) - Python library for HPE OneView
