@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 2 days ago) - Get your resource requests &#34;Just Right&#34;
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.9.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.9.3), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 3 days ago) - Get your resource requests &#34;Just Right&#34;
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.9.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.9.3), 3 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) ([v2.17.0](https://github.com/scaleway/scaleway-cli/releases/tag/v2.17.0), 1 week ago) - Command Line Interface for Scaleway
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 2 weeks ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 2 weeks ago) - Python library for HPE OneView
