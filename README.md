@@ -36,9 +36,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.10.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.10.0), today) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.1](https://github.com/aws/karpenter/releases/tag/v0.29.1), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 1 week ago) - Get your resource requests &#34;Just Right&#34;
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.9.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.9.3), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 3 weeks ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 3 weeks ago) - Python library for HPE OneView
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 2 months ago) - Python API for ServiceNow
