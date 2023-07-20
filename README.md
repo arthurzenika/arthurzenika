@@ -22,13 +22,13 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (1 day ago)
+- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (2 days ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 month ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 month ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (7 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (7 months ago)
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (7 months ago)
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (8 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (8 months ago)
 - [Zenika/n1870](https://github.com/Zenika/n1870) - Jeux pour le Devfest 2022 à Nantes (9 months ago)
 - [patou/biblionantes](https://github.com/patou/biblionantes) - Application pour gérer son compte à la bibliothèque de Nantes métropole (9 months ago)
@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.2](https://github.com/aws/karpenter/releases/tag/v0.29.2), today) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.10.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.10.0), today) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.2](https://github.com/aws/karpenter/releases/tag/v0.29.2), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.10.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.10.0), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 1 week ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 3 weeks ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 3 weeks ago) - Python library for HPE OneView
@@ -58,7 +58,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (2 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110610403068068965) (3 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (1 month ago)
