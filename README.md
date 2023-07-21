@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (2 days ago)
+- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (3 days ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 month ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 month ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 months ago)
@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.2](https://github.com/aws/karpenter/releases/tag/v0.29.2), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.10.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.10.0), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.2](https://github.com/aws/karpenter/releases/tag/v0.29.2), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.10.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.10.0), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 1 week ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 3 weeks ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 3 weeks ago) - Python library for HPE OneView
@@ -47,7 +47,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (4 months ago)
+- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (5 months ago)
 - [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (10 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (2 years ago)
@@ -58,8 +58,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110745726552756977) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110745726552756977) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (3 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/110610403068068965) (3 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (1 month ago)
