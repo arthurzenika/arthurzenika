@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (6 days ago)
+- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (1 week ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 month ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 month ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 months ago)
@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.2](https://github.com/aws/karpenter/releases/tag/v0.29.2), 5 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.10.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.10.0), 5 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.2](https://github.com/aws/karpenter/releases/tag/v0.29.2), 6 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.10.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.10.0), 6 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 2 weeks ago) - Get your resource requests &#34;Just Right&#34;
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 3 weeks ago) - Container Signing
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 3 weeks ago) - Python library for HPE OneView
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 4 weeks ago) - Container Signing
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.4.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.4.0), 4 weeks ago) - Python library for HPE OneView
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.4](https://github.com/ServiceNow/PySNC/releases/tag/1.1.4), 2 months ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 year ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 2 years ago) - An open-source cross-platform traceroute/ping analyser.
@@ -58,8 +58,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110745726552756977) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110745726552756977) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110610403068068965) (4 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (2 months ago)
