@@ -24,7 +24,7 @@ Say Hello, I don't bite!
 
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (1 week ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 month ago)
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 month ago)
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (2 months ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (7 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (7 months ago)
