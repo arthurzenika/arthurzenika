@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (1 week ago)
+- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (2 weeks ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 month ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (2 months ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 months ago)
@@ -59,7 +59,7 @@ Say Hello, I don't bite!
 #### 📜 My recent posts on the fediverse 🐘
 
 - [](https://pouet.chapril.org/@arthurzenika/110745726552756977) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110610403068068965) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (2 months ago)
 - [](https://pouet.chapril.org/@arthurzenika/110422512309847998) (2 months ago)
