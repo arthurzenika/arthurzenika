@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.11.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.11.0), today) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.11.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.11.0), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.2](https://github.com/aws/karpenter/releases/tag/v0.29.2), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 3 weeks ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 1 month ago) - Container Signing
@@ -48,7 +48,7 @@ Say Hello, I don't bite!
 #### 📜 My recent blog posts 
 
 - [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (5 months ago)
-- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (10 months ago)
+- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (11 months ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (2 years ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (2 years ago)
@@ -58,7 +58,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110745726552756977) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/110745726552756977) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110735441630232944) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110610403068068965) (1 month ago)
 - [](https://pouet.chapril.org/@arthurzenika/110462085676082206) (2 months ago)
