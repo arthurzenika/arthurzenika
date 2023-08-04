@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.11.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.11.0), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.11.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.11.1), today) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.29.2](https://github.com/aws/karpenter/releases/tag/v0.29.2), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 3 weeks ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 1 month ago) - Container Signing
