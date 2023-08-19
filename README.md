@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (6 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (8 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (8 months ago)
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (8 months ago)
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (9 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (9 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (10 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (10 months ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.12.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.12.0), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.12.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.12.0), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.30.0-rc.0](https://github.com/aws/karpenter/releases/tag/v0.30.0-rc.0), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.5](https://github.com/ServiceNow/PySNC/releases/tag/1.1.5), 1 week ago) - Python API for ServiceNow
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.9.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.9.0), 1 month ago) - Get your resource requests &#34;Just Right&#34;
@@ -58,11 +58,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/110909436445386468) (today)
-- [](https://pouet.chapril.org/@arthurzenika/110904228135809879) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/110899947970953813) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110899880179389901) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/110899845521945497) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110909436445386468) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/110904228135809879) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110899947970953813) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110899880179389901) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110899845521945497) (3 days ago)
 
 #### 🌱 My latest projects
 
