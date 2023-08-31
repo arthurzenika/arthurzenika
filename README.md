@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 1 day ago) - Python library for HPE OneView
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 2 days ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.12.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.12.1), 1 week ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.30.0-rc.0](https://github.com/aws/karpenter/releases/tag/v0.30.0-rc.0), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.5](https://github.com/ServiceNow/PySNC/releases/tag/1.1.5), 3 weeks ago) - Python API for ServiceNow
@@ -59,7 +59,7 @@ Say Hello, I don't bite!
 #### 📜 My recent posts on the fediverse 🐘
 
 - [](https://pouet.chapril.org/@arthurzenika/110909436445386468) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/110904228135809879) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/110904228135809879) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110899947970953813) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110899880179389901) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110899845521945497) (2 weeks ago)
