@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.0](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.0), 1 day ago) - Get your resource requests &#34;Just Right&#34;
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), today) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 6 days ago) - Container Signing
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.30.0](https://github.com/aws/karpenter/releases/tag/v0.30.0), 6 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 1 week ago) - Python library for HPE OneView
