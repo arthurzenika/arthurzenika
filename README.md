@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (3 months ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (7 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (8 months ago)
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (8 months ago)
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (9 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (9 months ago)
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (10 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (11 months ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 day ago) - Get your resource requests &#34;Just Right&#34;
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 2 days ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 1 week ago) - Container Signing
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.30.0](https://github.com/aws/karpenter/releases/tag/v0.30.0), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 1 week ago) - Python library for HPE OneView
@@ -58,9 +58,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111018985951990322) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/111017590088977283) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/110909436445386468) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/111018985951990322) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111017590088977283) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/110909436445386468) (3 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110904228135809879) (3 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110899947970953813) (3 weeks ago)
 
