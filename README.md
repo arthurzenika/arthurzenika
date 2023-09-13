@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 6 days ago) - Get your resource requests &#34;Just Right&#34;
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 week ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 1 week ago) - Container Signing
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.30.0](https://github.com/aws/karpenter/releases/tag/v0.30.0), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 2 weeks ago) - Python library for HPE OneView
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.12.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.12.1), 2 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.12.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.12.1), 3 weeks ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.5](https://github.com/ServiceNow/PySNC/releases/tag/1.1.5), 1 month ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 year ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 2 years ago) - An open-source cross-platform traceroute/ping analyser.
@@ -58,11 +58,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111018985951990322) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111017590088977283) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111018985951990322) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111017590088977283) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/110909436445386468) (3 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110904228135809879) (3 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110899947970953813) (3 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110899947970953813) (4 weeks ago)
 
 #### 🌱 My latest projects
 
