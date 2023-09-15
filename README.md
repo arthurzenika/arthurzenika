@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.12.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.12.2), today) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.12.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.12.2), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 week ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 2 weeks ago) - Container Signing
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.30.0](https://github.com/aws/karpenter/releases/tag/v0.30.0), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -60,9 +60,9 @@ Say Hello, I don't bite!
 
 - [](https://pouet.chapril.org/@arthurzenika/111018985951990322) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111017590088977283) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/110909436445386468) (3 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110909436445386468) (4 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/110904228135809879) (4 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/110899947970953813) (4 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/110899947970953813) (1 month ago)
 
 #### 🌱 My latest projects
 
