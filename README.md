@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (4 days ago)
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (5 days ago)
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (2 months ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (3 months ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (3 months ago)
@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.13.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.13.0), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.18.0), 2 days ago) - Terraform AWS provider
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.13.0](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.13.0), 2 days ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.18.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.18.0), 3 days ago) - Terraform AWS provider
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 2 weeks ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 3 weeks ago) - Container Signing
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.30.0](https://github.com/aws/karpenter/releases/tag/v0.30.0), 3 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -59,9 +59,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111108565198711332) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/111091747905970648) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111091324549507822) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111108565198711332) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111091747905970648) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111091324549507822) (5 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111069243936495075) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111018985951990322) (2 weeks ago)
 
