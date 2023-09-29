@@ -30,15 +30,15 @@ Say Hello, I don't bite!
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (9 months ago)
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (9 months ago)
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) - Python API for ServiceNow (10 months ago)
-- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (10 months ago)
+- [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) - An open-source cross-platform traceroute/ping analyser. (11 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (11 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.1), today) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.0](https://github.com/aws/karpenter/releases/tag/v0.31.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.18.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.18.1), 2 days ago) - Terraform AWS provider
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.1), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.0](https://github.com/aws/karpenter/releases/tag/v0.31.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.18.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.18.1), 3 days ago) - Terraform AWS provider
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 3 weeks ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 4 weeks ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 1 month ago) - Python library for HPE OneView
@@ -59,11 +59,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111142728944209369) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111108565198711332) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111142728944209369) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111108565198711332) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111091747905970648) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111091324549507822) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/111069243936495075) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111069243936495075) (2 weeks ago)
 
 #### 🌱 My latest projects
 
