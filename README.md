@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.2), today) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.19.0), today) - Terraform AWS provider
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.0](https://github.com/aws/karpenter/releases/tag/v0.31.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.2), 1 day ago) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.19.0), 1 day ago) - Terraform AWS provider
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.0](https://github.com/aws/karpenter/releases/tag/v0.31.0), 3 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 3 weeks ago) - Get your resource requests &#34;Just Right&#34;
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 4 weeks ago) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 1 month ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 1 month ago) - Python library for HPE OneView
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.5](https://github.com/ServiceNow/PySNC/releases/tag/1.1.5), 1 month ago) - Python API for ServiceNow
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 year ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
@@ -55,11 +55,11 @@ Say Hello, I don't bite!
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (2 years ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (2 years ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (2 years ago)
-- [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (2 years ago)
+- [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (3 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111142728944209369) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111142728944209369) (2 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111108565198711332) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111091747905970648) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111091324549507822) (1 week ago)
