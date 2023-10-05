@@ -22,10 +22,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (today)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (1 day ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (2 weeks ago)
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (2 months ago)
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (3 months ago)
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (4 months ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (4 months ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (7 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (9 months ago)
@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.2), 5 days ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.19.0), 5 days ago) - Terraform AWS provider
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.2), 6 days ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.19.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.19.0), 6 days ago) - Terraform AWS provider
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.0](https://github.com/aws/karpenter/releases/tag/v0.31.0), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 4 weeks ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 1 month ago) - Container Signing
@@ -59,9 +59,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111176636563384249) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111170862493113904) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/111142728944209369) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111176636563384249) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111170862493113904) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111142728944209369) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111108565198711332) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111091747905970648) (2 weeks ago)
 
