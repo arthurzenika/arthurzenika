@@ -22,8 +22,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (1 day ago)
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (2 days ago)
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (2 days ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (3 days ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (2 weeks ago)
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (2 months ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (4 months ago)
@@ -36,13 +36,13 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.0), today) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.0), 1 day ago) - Terraform AWS provider
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.2), 1 week ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.0](https://github.com/aws/karpenter/releases/tag/v0.31.0), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 month ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 1 month ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 1 month ago) - Python library for HPE OneView
-- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.5](https://github.com/ServiceNow/PySNC/releases/tag/1.1.5), 1 month ago) - Python API for ServiceNow
+- [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.5](https://github.com/ServiceNow/PySNC/releases/tag/1.1.5), 2 months ago) - Python API for ServiceNow
 - [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.0](https://github.com/StackStorm/st2/releases/tag/v3.8.0), 10 months ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 - [patou/biblionantes](https://github.com/patou/biblionantes) ([1.3.0&#43;4](https://github.com/patou/biblionantes/releases/tag/1.3.0%2B4), 1 year ago) - Application pour gérer son compte à la bibliothèque de Nantes métropole
 - [nedrysoft/pingnoo](https://github.com/nedrysoft/pingnoo) ([2021.06.23-develop](https://github.com/nedrysoft/pingnoo/releases/tag/2021.06.23-develop), 2 years ago) - An open-source cross-platform traceroute/ping analyser.
@@ -60,8 +60,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111176636563384249) (2 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111170862493113904) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111176636563384249) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111170862493113904) (4 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111142728944209369) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111108565198711332) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/111091747905970648) (2 weeks ago)
