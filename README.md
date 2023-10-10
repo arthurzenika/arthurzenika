@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.0), 4 days ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.1), today) - Terraform AWS provider
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.2), 1 week ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.0](https://github.com/aws/karpenter/releases/tag/v0.31.0), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 month ago) - Get your resource requests &#34;Just Right&#34;
