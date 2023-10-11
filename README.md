@@ -36,9 +36,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.1](https://github.com/aws/karpenter/releases/tag/v0.31.1), today) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.20.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.20.1), 1 day ago) - Terraform AWS provider
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.2), 1 week ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.0](https://github.com/aws/karpenter/releases/tag/v0.31.0), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 month ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 1 month ago) - Container Signing
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.5.1](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.5.1), 1 month ago) - Python library for HPE OneView
