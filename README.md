@@ -23,15 +23,15 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (today)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (today)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 week ago)
-- [cnmaz/caisse](https://github.com/cnmaz/caisse) - Mini sales point project designed for use during events organisez by the sailing school (1 week ago)
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (1 week ago)
+- [cnmaz/caisse](https://github.com/cnmaz/caisse) - Mini sales point project designed for use during events organisez by the sailing school (1 week ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (4 weeks ago)
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (3 months ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (4 months ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (8 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (10 months ago)
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) - Python library for HPE OneView (10 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
