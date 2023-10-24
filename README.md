@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.0](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.0), today) - The Kubefirst Open Source Platform
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.1](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.1), today) - The Kubefirst Open Source Platform
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), today) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 4 days ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 4 days ago) - Repo for DevFest Nantes 2023
