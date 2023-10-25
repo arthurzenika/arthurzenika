@@ -22,8 +22,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (1 day ago)
-- [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (5 days ago)
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (2 days ago)
+- [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (6 days ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (1 week ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (2 weeks ago)
@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.2](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.2), today) - The Kubefirst Open Source Platform
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), today) - Python library for HPE OneView
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 4 days ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-- [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 4 days ago) - Repo for DevFest Nantes 2023
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.22.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.22.0), 5 days ago) - Terraform AWS provider
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.2](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.2), 1 day ago) - The Kubefirst Open Source Platform
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 1 day ago) - Python library for HPE OneView
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 5 days ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 5 days ago) - Repo for DevFest Nantes 2023
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.22.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.22.0), 6 days ago) - Terraform AWS provider
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.1](https://github.com/aws/karpenter/releases/tag/v0.31.1), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 month ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 1 month ago) - Container Signing
@@ -60,11 +60,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111260625863154700) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111260625863154700) (6 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111228909971089051) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/111217234845173726) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/111217212748418782) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/111217202466038358) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111217234845173726) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/111217212748418782) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/111217202466038358) (2 weeks ago)
 
 #### 🌱 My latest projects
 
