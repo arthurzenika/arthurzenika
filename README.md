@@ -22,16 +22,16 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (today)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (3 days ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (1 week ago)
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (1 week ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (1 week ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (2 weeks ago)
 - [cnmaz/caisse](https://github.com/cnmaz/caisse) - Mini sales point project designed for use during events organisez by the sailing school (3 weeks ago)
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (3 weeks ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (3 months ago)
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -41,11 +41,11 @@ Say Hello, I don't bite!
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 6 days ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 6 days ago) - Repo for DevFest Nantes 2023
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.22.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.22.0), 1 week ago) - Terraform AWS provider
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.0rc1](https://github.com/ansible/ansible/releases/tag/v2.16.0rc1), 1 week ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.31.1](https://github.com/aws/karpenter/releases/tag/v0.31.1), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 month ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 1 month ago) - Container Signing
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.5](https://github.com/ServiceNow/PySNC/releases/tag/1.1.5), 2 months ago) - Python API for ServiceNow
-- [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.0](https://github.com/StackStorm/st2/releases/tag/v3.8.0), 11 months ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 
 #### 📜 My recent blog posts 
 
