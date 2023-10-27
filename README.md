@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.23.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.23.1), today) - Terraform AWS provider
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.3](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.3), today) - The Kubefirst Open Source Platform
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.23.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.23.0), 1 day ago) - Terraform AWS provider
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 3 days ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 1 week ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 1 week ago) - Repo for DevFest Nantes 2023
