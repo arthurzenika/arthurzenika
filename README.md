@@ -36,14 +36,14 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), 2 days ago) - Terraform AWS provider
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 3 days ago) - The Kubefirst Open Source Platform
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.1](https://github.com/aws/karpenter/releases/tag/v0.32.1), 4 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.15.6rc1](https://github.com/ansible/ansible/releases/tag/v2.15.6rc1), 5 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), 3 days ago) - Terraform AWS provider
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 4 days ago) - The Kubefirst Open Source Platform
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.1](https://github.com/aws/karpenter/releases/tag/v0.32.1), 5 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.15.6rc1](https://github.com/ansible/ansible/releases/tag/v2.15.6rc1), 6 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 1 week ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 2 weeks ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 2 weeks ago) - Repo for DevFest Nantes 2023
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 1 month ago) - Get your resource requests &#34;Just Right&#34;
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 2 months ago) - Get your resource requests &#34;Just Right&#34;
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.0](https://github.com/sigstore/cosign/releases/tag/v2.2.0), 2 months ago) - Container Signing
 - [ServiceNow/PySNC](https://github.com/ServiceNow/PySNC) ([1.1.5](https://github.com/ServiceNow/PySNC/releases/tag/1.1.5), 2 months ago) - Python API for ServiceNow
 
@@ -60,7 +60,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111347104392906279) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111347104392906279) (2 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111301713679609248) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111301692521162078) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111260625863154700) (2 weeks ago)
