@@ -26,9 +26,9 @@ Say Hello, I don't bite!
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (2 weeks ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (2 weeks ago)
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (2 weeks ago)
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (2 weeks ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (2 weeks ago)
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (3 weeks ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (3 weeks ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (3 weeks ago)
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (4 weeks ago)
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (1 month ago)
 - [cnmaz/caisse](https://github.com/cnmaz/caisse) - Mini sales point project designed for use during events organisez by the sailing school (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.0](https://github.com/ansible/ansible/releases/tag/v2.16.0), today) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), 4 days ago) - Terraform AWS provider
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 5 days ago) - The Kubefirst Open Source Platform
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.1](https://github.com/aws/karpenter/releases/tag/v0.32.1), 6 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 1 week ago) - Python library for HPE OneView
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.0](https://github.com/ansible/ansible/releases/tag/v2.16.0), 1 day ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), 5 days ago) - Terraform AWS provider
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 6 days ago) - The Kubefirst Open Source Platform
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.1](https://github.com/aws/karpenter/releases/tag/v0.32.1), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 2 weeks ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 2 weeks ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 2 weeks ago) - Repo for DevFest Nantes 2023
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 2 months ago) - Get your resource requests &#34;Just Right&#34;
@@ -60,7 +60,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111347104392906279) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111347104392906279) (4 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111301713679609248) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111301692521162078) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111260625863154700) (2 weeks ago)
