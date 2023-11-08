@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 week ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (2 weeks ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (2 weeks ago)
-- [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (2 weeks ago)
+- [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (3 weeks ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (3 weeks ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (3 weeks ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (4 weeks ago)
@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.1](https://github.com/sigstore/cosign/releases/tag/v2.2.1), today) - Container Signing
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.0](https://github.com/ansible/ansible/releases/tag/v2.16.0), 1 day ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), 5 days ago) - Terraform AWS provider
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 6 days ago) - The Kubefirst Open Source Platform
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.1](https://github.com/sigstore/cosign/releases/tag/v2.2.1), 1 day ago) - Container Signing
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.0](https://github.com/ansible/ansible/releases/tag/v2.16.0), 2 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.24.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.24.0), 6 days ago) - Terraform AWS provider
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 1 week ago) - The Kubefirst Open Source Platform
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.1](https://github.com/aws/karpenter/releases/tag/v0.32.1), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 2 weeks ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 2 weeks ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -60,11 +60,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111369170001344221) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111369161441331157) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111369153796218981) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111368960769805158) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111347104392906279) (4 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111369170001344221) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111369161441331157) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111369153796218981) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111368960769805158) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111347104392906279) (5 days ago)
 
 #### 🌱 My latest projects
 
