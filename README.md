@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (2 weeks ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (3 weeks ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (3 weeks ago)
-- [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (3 weeks ago)
+- [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (4 weeks ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (4 weeks ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (4 weeks ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 month ago)
@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.8](https://github.com/aws/karpenter/releases/tag/v0.27.8), 4 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.25.0), 4 days ago) - Terraform AWS provider
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.8](https://github.com/aws/karpenter/releases/tag/v0.27.8), 5 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.25.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.25.0), 5 days ago) - Terraform AWS provider
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.1](https://github.com/sigstore/cosign/releases/tag/v2.2.1), 1 week ago) - Container Signing
 - [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.0](https://github.com/ansible/ansible/releases/tag/v2.16.0), 1 week ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 1 week ago) - The Kubefirst Open Source Platform
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 2 weeks ago) - The Kubefirst Open Source Platform
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 3 weeks ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 3 weeks ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 3 weeks ago) - Repo for DevFest Nantes 2023
@@ -60,10 +60,10 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111402904128758885) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/111402487028793294) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/111375675180868648) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111375650827507762) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111402904128758885) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111402487028793294) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111375675180868648) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111375650827507762) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111369170001344221) (1 week ago)
 
 #### 🌱 My latest projects
