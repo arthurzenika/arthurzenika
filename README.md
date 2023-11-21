@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (4 days ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (5 days ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (3 weeks ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (4 weeks ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (1 month ago)
@@ -36,12 +36,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.26.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.26.0), 4 days ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.26.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.26.0), 5 days ago) - Terraform AWS provider
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.8](https://github.com/aws/karpenter/releases/tag/v0.27.8), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.1](https://github.com/sigstore/cosign/releases/tag/v2.2.1), 1 week ago) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.1](https://github.com/sigstore/cosign/releases/tag/v2.2.1), 2 weeks ago) - Container Signing
 - [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.0](https://github.com/ansible/ansible/releases/tag/v2.16.0), 2 weeks ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 2 weeks ago) - The Kubefirst Open Source Platform
-- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 3 weeks ago) - Python library for HPE OneView
+- [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 4 weeks ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 1 month ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 1 month ago) - Repo for DevFest Nantes 2023
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 2 months ago) - Get your resource requests &#34;Just Right&#34;
@@ -64,7 +64,7 @@ Say Hello, I don't bite!
 - [](https://pouet.chapril.org/@arthurzenika/111402487028793294) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111375675180868648) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111375650827507762) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/111369170001344221) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111369170001344221) (2 weeks ago)
 
 #### 🌱 My latest projects
 
