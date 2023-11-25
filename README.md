@@ -23,7 +23,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 week ago)
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (4 weeks ago)
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 month ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (1 month ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (1 month ago)
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (1 month ago)
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.2](https://github.com/aws/karpenter/releases/tag/v0.32.2), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.2](https://github.com/aws/karpenter/releases/tag/v0.32.2), 3 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.26.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.26.0), 1 week ago) - Terraform AWS provider
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.1](https://github.com/sigstore/cosign/releases/tag/v2.2.1), 2 weeks ago) - Container Signing
 - [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.0](https://github.com/ansible/ansible/releases/tag/v2.16.0), 2 weeks ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
