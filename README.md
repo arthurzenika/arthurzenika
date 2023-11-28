@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.14.12rc1](https://github.com/ansible/ansible/releases/tag/v2.14.12rc1), today) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.27.0), today) - Terraform AWS provider
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.2](https://github.com/aws/karpenter/releases/tag/v0.32.2), 5 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.1](https://github.com/sigstore/cosign/releases/tag/v2.2.1), 2 weeks ago) - Container Signing
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.14.12rc1](https://github.com/ansible/ansible/releases/tag/v2.14.12rc1), 1 day ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.27.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.27.0), 1 day ago) - Terraform AWS provider
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.32.2](https://github.com/aws/karpenter/releases/tag/v0.32.2), 6 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.1](https://github.com/sigstore/cosign/releases/tag/v2.2.1), 3 weeks ago) - Container Signing
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.5](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.5), 3 weeks ago) - The Kubefirst Open Source Platform
 - [HewlettPackard/oneview-python](https://github.com/HewlettPackard/oneview-python) ([v8.6.0](https://github.com/HewlettPackard/oneview-python/releases/tag/v8.6.0), 1 month ago) - Python library for HPE OneView
 - [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.14.3](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.14.3), 1 month ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -60,10 +60,10 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111483430785823544) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111483400410826556) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111483386922259278) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111483254945977557) (today)
+- [](https://pouet.chapril.org/@arthurzenika/111483430785823544) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111483400410826556) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111483386922259278) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111483254945977557) (1 day ago)
 - [](https://pouet.chapril.org/@arthurzenika/111402904128758885) (2 weeks ago)
 
 #### 🌱 My latest projects
