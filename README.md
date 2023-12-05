@@ -49,8 +49,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (9 months ago)
-- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (1 year ago)
+- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blogzenika.wpcomstaging.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (9 months ago)
+- [À la découverte de Scaleway Public Cloud](https://blogzenika.wpcomstaging.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (1 year ago)
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (2 years ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (2 years ago)
