@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (3 weeks ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (4 weeks ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 month ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (1 month ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (1 month ago)
@@ -36,11 +36,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.6](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.6), today) - The Kubefirst Open Source Platform
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.16.1](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.16.1), today) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-- [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), today) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.2](https://github.com/ansible/ansible/releases/tag/v2.16.2), 2 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.30.0), 6 days ago) - Terraform AWS provider
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.16.2](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.16.2), 1 day ago) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.6](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.6), 1 day ago) - The Kubefirst Open Source Platform
+- [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 1 day ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.2](https://github.com/ansible/ansible/releases/tag/v2.16.2), 3 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.30.0), 1 week ago) - Terraform AWS provider
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.2](https://github.com/sigstore/cosign/releases/tag/v2.2.2), 1 week ago) - Container Signing
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.33.0](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.33.0), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 1 month ago) - Repo for DevFest Nantes 2023
@@ -59,8 +59,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111568298075769092) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/111544382645278033) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111568298075769092) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111544382645278033) (6 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111528862944816367) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111527536019989384) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111527515010648613) (1 week ago)
