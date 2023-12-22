@@ -24,7 +24,7 @@ Say Hello, I don't bite!
 
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 month ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 month ago)
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (1 month ago)
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (2 months ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (2 months ago)
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (2 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (2 months ago)
@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.32.4](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.32.4), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.31.0), 6 days ago) - Terraform AWS provider
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.32.4](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.32.4), 3 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.31.0), 1 week ago) - Terraform AWS provider
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.7](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.7), 1 week ago) - The Kubefirst Open Source Platform
 - [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 1 week ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 - [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.2](https://github.com/ansible/ansible/releases/tag/v2.16.2), 1 week ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
@@ -58,11 +58,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111585089037807228) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111585075687598917) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111585062105050817) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111584716972010943) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111584705842743455) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111585089037807228) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111585075687598917) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111585062105050817) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111584716972010943) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111584705842743455) (1 week ago)
 
 #### 🌱 My latest projects
 
