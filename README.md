@@ -37,7 +37,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.32.4](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.32.4), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.31.0), 1 week ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.31.0), 2 weeks ago) - Terraform AWS provider
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.7](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.7), 2 weeks ago) - The Kubefirst Open Source Platform
 - [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 2 weeks ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 - [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.2](https://github.com/ansible/ansible/releases/tag/v2.16.2), 2 weeks ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
@@ -58,11 +58,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111636524833736862) (4 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111625013326144517) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111585089037807228) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/111585075687598917) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/111585062105050817) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111636524833736862) (5 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111625013326144517) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111585089037807228) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/111585075687598917) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/111585062105050817) (2 weeks ago)
 
 #### 🌱 My latest projects
 
