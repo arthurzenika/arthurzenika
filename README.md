@@ -52,13 +52,13 @@ Say Hello, I don't bite!
 
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (2 years ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (2 years ago)
-- [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (2 years ago)
+- [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (3 years ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (3 years ago)
 - [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (3 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111636524833736862) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111636524833736862) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111625013326144517) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111585089037807228) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/111585075687598917) (2 weeks ago)
