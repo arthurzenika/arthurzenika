@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.32.4](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.32.4), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.32.4](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.32.4), 3 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.31.0), 3 weeks ago) - Terraform AWS provider
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.7](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.7), 3 weeks ago) - The Kubefirst Open Source Platform
 - [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 3 weeks ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
@@ -58,8 +58,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111687442717790390) (6 days ago)
-- [](https://pouet.chapril.org/@arthurzenika/111686310409700312) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111687442717790390) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/111686310409700312) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111636524833736862) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/111625013326144517) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/111585089037807228) (3 weeks ago)
