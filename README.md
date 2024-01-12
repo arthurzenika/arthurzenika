@@ -22,8 +22,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (1 day ago)
-- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 days ago)
+- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (2 days ago)
+- [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (3 days ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (2 months ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (2 months ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (2 months ago)
@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.32.5](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.32.5), today) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.31.0), 3 weeks ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.32.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.32.0), 1 day ago) - Terraform AWS provider
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.32.5](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.32.5), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.7](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.7), 4 weeks ago) - The Kubefirst Open Source Platform
-- [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 4 weeks ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
+- [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 1 month ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 - [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.2](https://github.com/ansible/ansible/releases/tag/v2.16.2), 1 month ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.2.2](https://github.com/sigstore/cosign/releases/tag/v2.2.2), 1 month ago) - Container Signing
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 2 months ago) - Repo for DevFest Nantes 2023
@@ -58,11 +58,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111732824702558440) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111732824702558440) (2 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111687442717790390) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111686310409700312) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111636524833736862) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/111625013326144517) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/111625013326144517) (3 weeks ago)
 
 #### 🌱 My latest projects
 
