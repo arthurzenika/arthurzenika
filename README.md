@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.14.14rc1](https://github.com/ansible/ansible/releases/tag/v2.14.14rc1), 3 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.14.14rc1](https://github.com/ansible/ansible/releases/tag/v2.14.14rc1), 4 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.33.0), 1 week ago) - Terraform AWS provider
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.32.5](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.32.5), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.7](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.7), 1 month ago) - The Kubefirst Open Source Platform
@@ -58,9 +58,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111816583982118923) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111816574379263624) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111805362031586001) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111816583982118923) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111816574379263624) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111805362031586001) (3 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111732824702558440) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/111687442717790390) (3 weeks ago)
 
