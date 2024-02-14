@@ -28,16 +28,16 @@ Say Hello, I don't bite!
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (3 months ago)
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (3 months ago)
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (3 months ago)
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (3 months ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (3 months ago)
+- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (4 months ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (4 months ago)
 - [cnmaz/caisse](https://github.com/cnmaz/caisse) - Mini sales point project designed for use during events organisez by the sailing school (4 months ago)
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.31.4](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.31.4), 4 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.36.0), 5 days ago) - Terraform AWS provider
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.31.4](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.31.4), 5 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.36.0), 6 days ago) - Terraform AWS provider
 - [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.3](https://github.com/ansible/ansible/releases/tag/v2.16.3), 2 weeks ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.7](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.7), 2 months ago) - The Kubefirst Open Source Platform
 - [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 2 months ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
@@ -57,10 +57,10 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/111924275828666565) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111924262541785151) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111924253937113892) (today)
-- [](https://pouet.chapril.org/@arthurzenika/111890125529903958) (6 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/111924275828666565) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111924262541785151) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111924253937113892) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/111890125529903958) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/111885610940820121) (1 week ago)
 
 #### 🌱 My latest projects
