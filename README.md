@@ -30,15 +30,15 @@ Say Hello, I don't bite!
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (4 months ago)
 - [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (4 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (4 months ago)
-- [cnmaz/caisse](https://github.com/cnmaz/caisse) - Mini sales point project designed for use during events organisez by the sailing school (4 months ago)
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (4 months ago)
+- [cnmaz/caisse](https://github.com/cnmaz/caisse) - Mini sales point project designed for use during events organisez by the sailing school (5 months ago)
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.39.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.39.1), 1 day ago) - Terraform AWS provider
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.35.0](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.35.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.4](https://github.com/ansible/ansible/releases/tag/v2.16.4), 5 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.39.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.39.1), 2 days ago) - Terraform AWS provider
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.35.0](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.35.0), 3 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.4](https://github.com/ansible/ansible/releases/tag/v2.16.4), 6 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.8](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.8), 1 week ago) - The Kubefirst Open Source Platform
 - [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 2 months ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 4 months ago) - Repo for DevFest Nantes 2023
@@ -57,8 +57,8 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/112021390448440951) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/112014879092846461) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/112021390448440951) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/112014879092846461) (3 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/111934933917497929) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/111924275828666565) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/111924262541785151) (2 weeks ago)
