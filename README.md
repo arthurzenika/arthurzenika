@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.35.1](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.35.1), 4 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.40.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.40.0), 5 days ago) - Terraform AWS provider
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.35.1](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.35.1), 5 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.40.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.40.0), 6 days ago) - Terraform AWS provider
 - [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.4](https://github.com/ansible/ansible/releases/tag/v2.16.4), 2 weeks ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.8](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.8), 2 weeks ago) - The Kubefirst Open Source Platform
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.3.8](https://github.com/kubefirst/kubefirst/releases/tag/v2.3.8), 3 weeks ago) - The Kubefirst Open Source Platform
 - [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 3 months ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 - [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 4 months ago) - Repo for DevFest Nantes 2023
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.10.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.10.1), 6 months ago) - Get your resource requests &#34;Just Right&#34;
@@ -57,11 +57,11 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/112077358022883911) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/112077314638722339) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/112077257636635999) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/112077231393586117) (1 day ago)
-- [](https://pouet.chapril.org/@arthurzenika/112077211299556191) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/112077358022883911) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/112077314638722339) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/112077257636635999) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/112077231393586117) (2 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/112077211299556191) (2 days ago)
 
 #### 🌱 My latest projects
 
