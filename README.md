@@ -22,7 +22,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus. (5 days ago)
+- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus. (6 days ago)
 - [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (2 months ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 months ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (5 months ago)
@@ -36,10 +36,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.5](https://github.com/ansible/ansible/releases/tag/v2.16.5), 1 day ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.42.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.42.0), 4 days ago) - Terraform AWS provider
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.3](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.3), 5 days ago) - The Kubefirst Open Source Platform
-- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) ([v0.5.4](https://github.com/justwatchcom/sql_exporter/releases/tag/v0.5.4), 5 days ago) - Flexible SQL Exporter for Prometheus.
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.5](https://github.com/ansible/ansible/releases/tag/v2.16.5), 2 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.42.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.42.0), 5 days ago) - Terraform AWS provider
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.3](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.3), 6 days ago) - The Kubefirst Open Source Platform
+- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) ([v0.5.4](https://github.com/justwatchcom/sql_exporter/releases/tag/v0.5.4), 6 days ago) - Flexible SQL Exporter for Prometheus.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.11.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.11.1), 1 week ago) - Get your resource requests &#34;Just Right&#34;
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.34.3](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.34.3), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 3 months ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
@@ -60,8 +60,8 @@ Say Hello, I don't bite!
 
 - [](https://pouet.chapril.org/@arthurzenika/112122679220686245) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/112117180994593548) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/112088428182653689) (1 week ago)
-- [](https://pouet.chapril.org/@arthurzenika/112088423083607597) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/112088428182653689) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/112088423083607597) (2 weeks ago)
 - [](https://pouet.chapril.org/@arthurzenika/112077358022883911) (2 weeks ago)
 
 #### 🌱 My latest projects
