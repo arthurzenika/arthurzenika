@@ -36,8 +36,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.43.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.43.0), 1 day ago) - Terraform AWS provider
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.5](https://github.com/ansible/ansible/releases/tag/v2.16.5), 4 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.43.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.43.0), 2 days ago) - Terraform AWS provider
+- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.5](https://github.com/ansible/ansible/releases/tag/v2.16.5), 5 days ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.3](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.3), 1 week ago) - The Kubefirst Open Source Platform
 - [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) ([v0.5.4](https://github.com/justwatchcom/sql_exporter/releases/tag/v0.5.4), 1 week ago) - Flexible SQL Exporter for Prometheus.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.11.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.11.1), 1 week ago) - Get your resource requests &#34;Just Right&#34;
