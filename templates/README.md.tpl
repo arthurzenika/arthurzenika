@@ -2,7 +2,6 @@
 
 #### 📫 How to reach me
 
-- Twitter 🐦: https://twitter.com/arthurlutz
 - Fediverse 🐘 : https://pouet.chapril.org/@arthurzenika
 - LinkedIn 👔:  https://www.linkedin.com/in/arthur-lutz-445a8a4a
 
