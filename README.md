@@ -21,51 +21,46 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus. (1 week ago)
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) -  (2 months ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (5 days ago)
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (1 week ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail (2 weeks ago)
+- [crowdsecurity/hub](https://github.com/crowdsecurity/hub) - Main repository for crowdsec scenarios/parsers (2 weeks ago)
+- [crowdsecurity/crowdsec-docs](https://github.com/crowdsecurity/crowdsec-docs) - CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome! (1 month ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 months ago)
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (5 months ago)
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform (5 months ago)
-- [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) - Repo for DevFest Nantes 2023 (5 months ago)
-- [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools. (5 months ago)
-- [zenika-open-source/the-duck-gallery](https://github.com/zenika-open-source/the-duck-gallery) -  (5 months ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (5 months ago)
-- [cnmaz/caisse](https://github.com/cnmaz/caisse) - Mini sales point project designed for use during events organisez by the sailing school (6 months ago)
+- [Zenika/cookeo-a-retro-lite](https://github.com/Zenika/cookeo-a-retro-lite) -  (2 months ago)
+- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts (3 months ago)
+- [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed. (8 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.43.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.43.0), 5 days ago) - Terraform AWS provider
-- [ansible/ansible](https://github.com/ansible/ansible) ([v2.16.5](https://github.com/ansible/ansible/releases/tag/v2.16.5), 1 week ago) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.3](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.3), 1 week ago) - The Kubefirst Open Source Platform
-- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) ([v0.5.4](https://github.com/justwatchcom/sql_exporter/releases/tag/v0.5.4), 1 week ago) - Flexible SQL Exporter for Prometheus.
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) ([v4.11.1](https://github.com/FairwindsOps/goldilocks/releases/tag/v4.11.1), 2 weeks ago) - Get your resource requests &#34;Just Right&#34;
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) ([v0.34.3](https://github.com/aws/karpenter-provider-aws/releases/tag/v0.34.3), 2 weeks ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [StackStorm/st2](https://github.com/StackStorm/st2) ([v3.8.1](https://github.com/StackStorm/st2/releases/tag/v3.8.1), 3 months ago) - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
-- [GDG-Nantes/Devfest2023](https://github.com/GDG-Nantes/Devfest2023) ([v41](https://github.com/GDG-Nantes/Devfest2023/releases/tag/v41), 5 months ago) - Repo for DevFest Nantes 2023
+- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.20.1](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.20.1), 1 week ago) - CrowdSec community kubernetes helm charts
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.2.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.2.0), 1 week ago) - 👀 tracksy - Visualize your data
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 3 months ago) - Website to display awesome insights about organization open source activity
+- [postalserver/postal](https://github.com/postalserver/postal) ([3.3.4](https://github.com/postalserver/postal/releases/tag/3.3.4), 1 year ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 
 #### 📜 My recent blog posts 
 
-- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (1 year ago)
-- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (2 years ago)
+- [À la découverte de Outscale – Cloud Public SecNumCloud](https://blog.zenika.com/2023/02/21/a-la-decouverte-de-outscale-cloud-public-secnumcloud/) (2 years ago)
+- [À la découverte de Scaleway Public Cloud](https://blog.zenika.com/2022/09/07/a-la-decouverte-de-scaleway-public-cloud/) (3 years ago)
 
-- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (2 years ago)
-- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (2 years ago)
-- [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (3 years ago)
-- [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (3 years ago)
-- [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (3 years ago)
+- [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (3 years ago)
+- [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (3 years ago)
+- [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (4 years ago)
+- [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (5 years ago)
+- [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (5 years ago)
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/112122679220686245) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/112117180994593548) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/112088428182653689) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/112088423083607597) (2 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/112077358022883911) (3 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/115373159366890440) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/115345388134325395) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/115338426074692972) (1 week ago)
+- [](https://pouet.chapril.org/@arthurzenika/115287886447647735) (2 weeks ago)
+- [](https://pouet.chapril.org/@arthurzenika/115287878733333493) (2 weeks ago)
 
 #### 🌱 My latest projects
 
-- [arthurzenika/dashlord-rca](https://github.com/arthurzenika/dashlord-rca) - 
 - [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) - 
 - [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) - 
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/
@@ -75,6 +70,7 @@ Say Hello, I don't bite!
 - [arthurzenika/datocms-vue.js-profile-card-website-demo](https://github.com/arthurzenika/datocms-vue.js-profile-card-website-demo) - 
 - [arthurzenika/kitchen-transport-rsync](https://github.com/arthurzenika/kitchen-transport-rsync) - 
 - [arthurzenika/cubicweb-formula](https://github.com/arthurzenika/cubicweb-formula) - 
+- [arthurzenika/NMM](https://github.com/arthurzenika/NMM) - Nantes Monitoring Meetup
 
 
 
