@@ -21,7 +21,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (5 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (6 days ago)
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (1 week ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail (2 weeks ago)
@@ -53,9 +53,9 @@ Say Hello, I don't bite!
 
 #### 📜 My recent posts on the fediverse 🐘
 
-- [](https://pouet.chapril.org/@arthurzenika/115390254223935966) (today)
-- [](https://pouet.chapril.org/@arthurzenika/115390242567768958) (today)
-- [](https://pouet.chapril.org/@arthurzenika/115373159366890440) (3 days ago)
+- [](https://pouet.chapril.org/@arthurzenika/115390254223935966) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/115390242567768958) (1 day ago)
+- [](https://pouet.chapril.org/@arthurzenika/115373159366890440) (4 days ago)
 - [](https://pouet.chapril.org/@arthurzenika/115345388134325395) (1 week ago)
 - [](https://pouet.chapril.org/@arthurzenika/115338426074692972) (1 week ago)
 
