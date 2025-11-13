@@ -7,7 +7,9 @@
 
 #### Current job - Zenika 
 
-- Blog : https://blog.zenika.com/author/alutz/
+- Blog (corporate) : https://blog.zenika.com/author/alutz/
+- Blog : https://arthurzenika.codeberg.page/blog/
+
 
 #### Previous job - Logilab
 
@@ -18,6 +20,10 @@
 #### 💬 Feedback
 
 Say Hello, I don't bite!
+
+#### 🧑‍💻 DevSecOps training on TryHackMe 
+
+[![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/arthur.lutz.png)](https://tryhackme.com/p/arthur.lutz)
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
