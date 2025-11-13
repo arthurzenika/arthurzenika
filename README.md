@@ -7,7 +7,9 @@
 
 #### Current job - Zenika 
 
-- Blog : https://blog.zenika.com/author/alutz/
+- Blog (corporate) : https://blog.zenika.com/author/alutz/
+- Blog : https://arthurzenika.codeberg.page/blog/
+
 
 #### Previous job - Logilab
 
@@ -18,6 +20,10 @@
 #### 💬 Feedback
 
 Say Hello, I don't bite!
+
+#### 🧑‍💻 DevSecOps training on TryHackMe 
+
+[![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/arthur.lutz.png)](https://tryhackme.com/p/arthur.lutz)
 
 #### 👷 Check out what I'm currently working on
 
@@ -50,14 +56,6 @@ Say Hello, I don't bite!
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (4 years ago)
 - [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (5 years ago)
 - [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (5 years ago)
-
-#### 📜 My recent posts on the fediverse 🐘
-
-- [](https://pouet.chapril.org/@arthurzenika/115390254223935966) (3 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/115390242567768958) (3 weeks ago)
-- [](https://pouet.chapril.org/@arthurzenika/115373159366890440) (1 month ago)
-- [](https://pouet.chapril.org/@arthurzenika/115345388134325395) (1 month ago)
-- [](https://pouet.chapril.org/@arthurzenika/115338426074692972) (1 month ago)
 
 #### 🌱 My latest projects
 
