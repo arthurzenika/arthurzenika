@@ -27,6 +27,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (today)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (4 days ago)
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (1 month ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 month ago)
@@ -36,7 +37,6 @@ Say Hello, I don't bite!
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (3 months ago)
 - [Zenika/cookeo-a-retro-lite](https://github.com/Zenika/cookeo-a-retro-lite) -  (3 months ago)
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts (4 months ago)
-- [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed. (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -44,6 +44,7 @@ Say Hello, I don't bite!
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.20.1](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.20.1), 1 month ago) - CrowdSec community kubernetes helm charts
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.2.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.2.0), 1 month ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 4 months ago) - Website to display awesome insights about organization open source activity
+- [ent/ent](https://github.com/ent/ent) ([v0.14.0](https://github.com/ent/ent/releases/tag/v0.14.0), 1 year ago) - An entity framework for Go
 - [postalserver/postal](https://github.com/postalserver/postal) ([3.3.4](https://github.com/postalserver/postal/releases/tag/3.3.4), 1 year ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 
 #### 📜 My recent blog posts 
