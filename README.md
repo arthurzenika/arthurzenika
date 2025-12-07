@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 week ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (today)
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts (1 week ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (2 weeks ago)
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (1 month ago)
