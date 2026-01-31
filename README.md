@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (5 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (6 days ago)
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code (4 weeks ago)
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts (2 months ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (2 months ago)
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.22.0](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.22.0), 4 days ago) - CrowdSec community kubernetes helm charts
+- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.22.0](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.22.0), 5 days ago) - CrowdSec community kubernetes helm charts
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 1 month ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 6 months ago) - Website to display awesome insights about organization open source activity
 - [ent/ent](https://github.com/ent/ent) ([v0.14.0](https://github.com/ent/ent/releases/tag/v0.14.0), 2 years ago) - An entity framework for Go
