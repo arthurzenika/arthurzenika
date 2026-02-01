@@ -41,11 +41,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalserver/postal](https://github.com/postalserver/postal) ([3.3.5](https://github.com/postalserver/postal/releases/tag/3.3.5), today) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.22.0](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.22.0), 6 days ago) - CrowdSec community kubernetes helm charts
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 1 month ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 6 months ago) - Website to display awesome insights about organization open source activity
 - [ent/ent](https://github.com/ent/ent) ([v0.14.0](https://github.com/ent/ent/releases/tag/v0.14.0), 2 years ago) - An entity framework for Go
-- [postalserver/postal](https://github.com/postalserver/postal) ([3.3.4](https://github.com/postalserver/postal/releases/tag/3.3.4), 2 years ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 
 #### 📜 My recent blog posts 
 
