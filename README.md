@@ -30,12 +30,12 @@ Say Hello, I don't bite!
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (3 days ago)
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code (2 months ago)
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts (4 months ago)
+- [crowdsecurity/crowdsec-docs](https://github.com/crowdsecurity/crowdsec-docs) - CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome! (4 months ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (4 months ago)
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (5 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (5 months ago)
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail (6 months ago)
 - [crowdsecurity/hub](https://github.com/crowdsecurity/hub) - Main repository for crowdsec scenarios/parsers (6 months ago)
-- [crowdsecurity/crowdsec-docs](https://github.com/crowdsecurity/crowdsec-docs) - CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome! (6 months ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (7 months ago)
 
 
