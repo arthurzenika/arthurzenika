@@ -27,8 +27,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 day ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (5 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 days ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (6 days ago)
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) - Displays information about PrestaShop nightly builds (1 week ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (1 month ago)
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code (4 months ago)
@@ -42,8 +42,8 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.2.12](https://github.com/argoproj/argo-cd/releases/tag/v3.2.12), 1 week ago) - Declarative Continuous Deployment for Kubernetes
-- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.0](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.0), 1 week ago) - CrowdSec community kubernetes helm charts
-- [postalserver/postal](https://github.com/postalserver/postal) ([3.3.6](https://github.com/postalserver/postal/releases/tag/3.3.6), 3 weeks ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
+- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.0](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.0), 2 weeks ago) - CrowdSec community kubernetes helm charts
+- [postalserver/postal](https://github.com/postalserver/postal) ([3.3.6](https://github.com/postalserver/postal/releases/tag/3.3.6), 4 weeks ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 - [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 2 months ago) - An entity framework for Go
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 5 months ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 10 months ago) - Website to display awesome insights about organization open source activity
