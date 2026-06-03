@@ -41,9 +41,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [postalserver/postal](https://github.com/postalserver/postal) ([3.3.7](https://github.com/postalserver/postal/releases/tag/3.3.7), today) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.3.11](https://github.com/argoproj/argo-cd/releases/tag/v3.3.11), 6 days ago) - Declarative Continuous Deployment for Kubernetes
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.0](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.0), 3 weeks ago) - CrowdSec community kubernetes helm charts
-- [postalserver/postal](https://github.com/postalserver/postal) ([3.3.6](https://github.com/postalserver/postal/releases/tag/3.3.6), 1 month ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 - [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 2 months ago) - An entity framework for Go
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 6 months ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 10 months ago) - Website to display awesome insights about organization open source activity
