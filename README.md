@@ -27,21 +27,21 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (3 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (4 days ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (4 weeks ago)
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) - Displays information about PrestaShop nightly builds (1 month ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (2 months ago)
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code (5 months ago)
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts (6 months ago)
-- [crowdsecurity/crowdsec-docs](https://github.com/crowdsecurity/crowdsec-docs) - CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome! (6 months ago)
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (6 months ago)
+- [crowdsecurity/crowdsec-docs](https://github.com/crowdsecurity/crowdsec-docs) - CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome! (7 months ago)
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (7 months ago)
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (8 months ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (8 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.5.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v3.5.0-rc1), 1 day ago) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.5.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v3.5.0-rc1), 2 days ago) - Declarative Continuous Deployment for Kubernetes
 - [postalserver/postal](https://github.com/postalserver/postal) ([3.3.7](https://github.com/postalserver/postal/releases/tag/3.3.7), 2 weeks ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.0](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.0), 1 month ago) - CrowdSec community kubernetes helm charts
 - [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 2 months ago) - An entity framework for Go
