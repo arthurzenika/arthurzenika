@@ -65,13 +65,13 @@ Say Hello, I don't bite!
 - [arthurzenika/minimal-reproduction-helm-values-image-versions](https://github.com/arthurzenika/minimal-reproduction-helm-values-image-versions) - 
 - [arthurzenika/minimal-reproduction-helm-values](https://github.com/arthurzenika/minimal-reproduction-helm-values) - 
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/
+- [arthurzenika/gol-got](https://github.com/arthurzenika/gol-got) - Convenience wrapper for got with automatic consideration of proxy env variables.
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites
 - [arthurzenika/jupyterlite](https://github.com/arthurzenika/jupyterlite) - 
 - [arthurzenika/datocms-gatsby-portfolio-website-demo](https://github.com/arthurzenika/datocms-gatsby-portfolio-website-demo) - 
 - [arthurzenika/datocms-vue.js-profile-card-website-demo](https://github.com/arthurzenika/datocms-vue.js-profile-card-website-demo) - 
 - [arthurzenika/kitchen-transport-rsync](https://github.com/arthurzenika/kitchen-transport-rsync) - 
 - [arthurzenika/cubicweb-formula](https://github.com/arthurzenika/cubicweb-formula) - 
-- [arthurzenika/NMM](https://github.com/arthurzenika/NMM) - Nantes Monitoring Meetup
 
 
 
