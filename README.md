@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 day ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (2 days ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 months ago)
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) - Displays information about PrestaShop nightly builds (2 months ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (3 months ago)
@@ -44,7 +44,7 @@ Say Hello, I don't bite!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.4.5](https://github.com/argoproj/argo-cd/releases/tag/v3.4.5), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [postalserver/postal](https://github.com/postalserver/postal) ([3.3.7](https://github.com/postalserver/postal/releases/tag/3.3.7), 1 month ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.0](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.0), 2 months ago) - CrowdSec community kubernetes helm charts
-- [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 3 months ago) - An entity framework for Go
+- [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 4 months ago) - An entity framework for Go
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 7 months ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 1 year ago) - Website to display awesome insights about organization open source activity
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) ([1.2.1](https://github.com/PrestaShop/nightly-board/releases/tag/1.2.1), 1 year ago) - Displays information about PrestaShop nightly builds
