@@ -27,6 +27,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards. (today)
 - [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (3 days ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 months ago)
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) - Displays information about PrestaShop nightly builds (2 months ago)
@@ -36,7 +37,6 @@ Say Hello, I don't bite!
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (8 months ago)
 - [crowdsecurity/crowdsec-docs](https://github.com/crowdsecurity/crowdsec-docs) - CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome! (8 months ago)
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (9 months ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -48,6 +48,7 @@ Say Hello, I don't bite!
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 7 months ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 1 year ago) - Website to display awesome insights about organization open source activity
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) ([1.2.1](https://github.com/PrestaShop/nightly-board/releases/tag/1.2.1), 1 year ago) - Displays information about PrestaShop nightly builds
+- [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) ([0.2.0](https://github.com/OneDeadKey/arsenik/releases/tag/0.2.0), 2 years ago) - A 33-key layout that works with all keyboards.
 
 #### 📜 My recent blog posts 
 
