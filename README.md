@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (5 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (6 days ago)
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards. (1 month ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (3 months ago)
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) - Displays information about PrestaShop nightly builds (3 months ago)
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.2](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.2), today) - CrowdSec community kubernetes helm charts
+- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.2](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.2), 1 day ago) - CrowdSec community kubernetes helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.5.2](https://github.com/argoproj/argo-cd/releases/tag/v3.5.2), 1 week ago) - Declarative Continuous Deployment for Kubernetes
 - [postalserver/postal](https://github.com/postalserver/postal) ([3.3.7](https://github.com/postalserver/postal/releases/tag/3.3.7), 3 months ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
 - [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 5 months ago) - An entity framework for Go
