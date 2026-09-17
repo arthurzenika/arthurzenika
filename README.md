@@ -27,9 +27,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (3 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (4 days ago)
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards. (1 month ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (3 months ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (4 months ago)
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) - Displays information about PrestaShop nightly builds (4 months ago)
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (5 months ago)
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code (8 months ago)
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.6.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v3.6.0-rc1), today) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.6.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v3.6.0-rc1), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) ([0.3.0](https://github.com/OneDeadKey/arsenik/releases/tag/0.3.0), 1 week ago) - A 33-key layout that works with all keyboards.
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.2](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.2), 1 week ago) - CrowdSec community kubernetes helm charts
 - [postalserver/postal](https://github.com/postalserver/postal) ([3.3.7](https://github.com/postalserver/postal/releases/tag/3.3.7), 3 months ago) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail
