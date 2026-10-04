@@ -27,8 +27,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [PrestaShop/devdocs-site](https://github.com/PrestaShop/devdocs-site) - Site for the technical documentation (5 days ago)
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (6 days ago)
+- [PrestaShop/devdocs-site](https://github.com/PrestaShop/devdocs-site) - Site for the technical documentation (6 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (1 week ago)
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards. (2 months ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (4 months ago)
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) - Displays information about PrestaShop nightly builds (4 months ago)
@@ -43,7 +43,7 @@ Say Hello, I don't bite!
 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.6.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v3.6.0-rc1), 2 weeks ago) - Declarative Continuous Deployment for Kubernetes
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) ([0.3.0](https://github.com/OneDeadKey/arsenik/releases/tag/0.3.0), 4 weeks ago) - A 33-key layout that works with all keyboards.
-- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.2](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.2), 4 weeks ago) - CrowdSec community kubernetes helm charts
+- [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.2](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.2), 1 month ago) - CrowdSec community kubernetes helm charts
 - [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 6 months ago) - An entity framework for Go
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 10 months ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 1 year ago) - Website to display awesome insights about organization open source activity
@@ -57,7 +57,7 @@ Say Hello, I don't bite!
 - [Au revoir Logilab 👋](https://arthur.pages.logilab.fr/blog/au-revoir-logilab.html) (4 years ago)
 - [🔒☁️ Meetup &#34;Cloud et Sécurité&#34; par WeScale](https://arthur.pages.logilab.fr/blog/meetup-cloud-et-securite-par-wescale.html) (4 years ago)
 - [Link dump - rencontres Python AFPy janvier 2020](https://arthur.pages.logilab.fr/blog/link-dump-rencontres-python-afpy-janvier-2020.html) (5 years ago)
-- [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (5 years ago)
+- [Notes about OVHCloud conference #EcosystemExperience](https://arthur.pages.logilab.fr/blog/notes-about-ovhcloud-conference-ecosystemexperience.html) (6 years ago)
 - [Jamstack Conf online - follow up videos](https://arthur.pages.logilab.fr/blog/jamstack-conf-online-follow-up-videos.html) (6 years ago)
 
 #### 🌱 My latest projects
