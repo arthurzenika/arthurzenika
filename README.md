@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (4 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (5 days ago)
 - [PrestaShop/devdocs-site](https://github.com/PrestaShop/devdocs-site) - Site for the technical documentation (1 week ago)
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards. (2 months ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (4 months ago)
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.3.15](https://github.com/argoproj/argo-cd/releases/tag/v3.3.15), 2 days ago) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.3.15](https://github.com/argoproj/argo-cd/releases/tag/v3.3.15), 3 days ago) - Declarative Continuous Deployment for Kubernetes
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.2](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.2), 1 month ago) - CrowdSec community kubernetes helm charts
 - [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 6 months ago) - An entity framework for Go
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 10 months ago) - 👀 tracksy - Visualize your data
