@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.3.15](https://github.com/argoproj/argo-cd/releases/tag/v3.3.15), 6 days ago) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.3.16](https://github.com/argoproj/argo-cd/releases/tag/v3.3.16), today) - Declarative Continuous Deployment for Kubernetes
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.2](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.2), 1 month ago) - CrowdSec community kubernetes helm charts
 - [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 6 months ago) - An entity framework for Go
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) ([1.2.1](https://github.com/PrestaShop/nightly-board/releases/tag/1.2.1), 2 years ago) - Displays information about PrestaShop nightly builds
