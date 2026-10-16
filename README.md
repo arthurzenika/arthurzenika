@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (4 days ago)
+- [arthurzenika/dashlord-mgdis](https://github.com/arthurzenika/dashlord-mgdis) - https://arthurzenika.github.io/dashlord-mgdis/ (5 days ago)
 - [PrestaShop/devdocs-site](https://github.com/PrestaShop/devdocs-site) - Site for the technical documentation (2 weeks ago)
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards. (2 months ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (4 months ago)
@@ -35,13 +35,13 @@ Say Hello, I don't bite!
 - [arthurzenika/dashlord-zenika](https://github.com/arthurzenika/dashlord-zenika) - Dashlord for Zenika sites (6 months ago)
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code (9 months ago)
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) - CrowdSec community kubernetes helm charts (10 months ago)
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (10 months ago)
-- [crowdsecurity/crowdsec-docs](https://github.com/crowdsecurity/crowdsec-docs) - CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome! (10 months ago)
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (11 months ago)
+- [crowdsecurity/crowdsec-docs](https://github.com/crowdsecurity/crowdsec-docs) - CrowdSec Documentation: Comprehensive guides, tutorials, and references for installing, configuring, and using CrowdSec, an open-source cybersecurity platform. Contributions welcome! (11 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.6.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v3.6.0-rc3), today) - Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v3.6.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v3.6.0-rc3), 1 day ago) - Declarative Continuous Deployment for Kubernetes
 - [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts) ([crowdsec-0.24.2](https://github.com/crowdsecurity/helm-charts/releases/tag/crowdsec-0.24.2), 1 month ago) - CrowdSec community kubernetes helm charts
 - [ent/ent](https://github.com/ent/ent) ([v0.14.6](https://github.com/ent/ent/releases/tag/v0.14.6), 6 months ago) - An entity framework for Go
 - [PrestaShop/nightly-board](https://github.com/PrestaShop/nightly-board) ([1.2.1](https://github.com/PrestaShop/nightly-board/releases/tag/1.2.1), 2 years ago) - Displays information about PrestaShop nightly builds
